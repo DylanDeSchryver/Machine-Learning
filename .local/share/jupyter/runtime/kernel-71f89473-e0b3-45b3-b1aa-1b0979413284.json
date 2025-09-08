@@ -1,0 +1,13 @@
+{
+  "shell_port": 54089,
+  "iopub_port": 41295,
+  "stdin_port": 55449,
+  "control_port": 34223,
+  "hb_port": 48051,
+  "ip": "127.0.0.1",
+  "key": "f83079b5-9ad9b0d8b3c496cbb18617d7",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-259351/Housing Price Predictor/Project_1.ipynb"
+}
