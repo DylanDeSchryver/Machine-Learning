@@ -1,13 +1,16 @@
 Address,AIN,Sold Price,Bedrooms,Bathrooms,Area (SqFt),Property Type
 "18319 Jovan St, Reseda, CA 91335",,780000,3.0,1.0,1398.0,SINGLE_FAMILY
+"6399 W 80th St, Los Angeles, CA 90045",,2200000,5.0,4.0,3013.0,SINGLE_FAMILY
 "11500 San Vicente Blvd APT 218, Los Angeles, CA 90049",,1850000,3.0,4.0,2300.0,CONDO
 "2132 Century Park Ln APT 213, Los Angeles, CA 90067",,1410000,2.0,2.0,1674.0,CONDO
+"939 White Knoll Dr, Los Angeles, CA 90012",,609000,2.0,2.0,832.0,SINGLE_FAMILY
 "17813 Malden St, Northridge, CA 91325",,1230000,4.0,3.0,2558.0,SINGLE_FAMILY
 "821 S Gramercy Pl #2, Los Angeles, CA 90005",,800000,3.0,3.0,1631.0,TOWNHOUSE
 "22960 Crespi St, Woodland Hills, CA 91364",,1100000,4.0,3.0,2005.0,SINGLE_FAMILY
 "18419 Erwin St, Reseda, CA 91335",,801000,3.0,2.0,1017.0,SINGLE_FAMILY
 "22100 Burbank Blvd UNIT 250F, Woodland Hills, CA 91367",,190000,0.0,1.0,358.0,CONDO
 "4647 Willis Ave UNIT 217, Sherman Oaks, CA 91403",,583500,3.0,2.0,1446.0,CONDO
+"12844 Elkwood St, North Hollywood, CA 91605",,850000,4.0,2.0,1580.0,SINGLE_FAMILY
 "7431 Shadyglade Ave UNIT 4, North Hollywood, CA 91605",,555000,2.0,2.0,964.0,TOWNHOUSE
 "11105 Emelita St, North Hollywood, CA 91601",,1180000,4.0,3.0,1854.0,SINGLE_FAMILY
 "12345 Hillslope St, Studio City, CA 91604",,2400000,3.0,4.0,2461.0,SINGLE_FAMILY
@@ -980,6 +983,3 @@ Address,AIN,Sold Price,Bedrooms,Bathrooms,Area (SqFt),Property Type
 "460 S Spring St APT 302, Los Angeles, CA 90013",,410000,1.0,1.0,720.0,CONDO
 "3750 Santa Rosalia Dr APT 614, Los Angeles, CA 90008",,675000,3.0,2.0,1570.0,CONDO
 "2020 N Holly Dr #9, Los Angeles, CA 90068",,1000000,3.0,3.0,1630.0,TOWNHOUSE
-"811 S Bedford St APT 304, Los Angeles, CA 90035",,870000,2.0,2.0,1435.0,CONDO
-"13545 Village Ln, Sylmar, CA 91342",,799999,4.0,3.0,2094.0,SINGLE_FAMILY
-"900 S Westgate Ave APT 201, Los Angeles, CA 90049",,1560000,3.0,3.0,1672.0,CONDO
