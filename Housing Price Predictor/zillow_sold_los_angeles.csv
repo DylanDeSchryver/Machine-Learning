@@ -1,985 +1,985 @@
-Address,Sold Price,Bedrooms,Bathrooms,Area (SqFt),House Age
-"22960 Crespi St, Woodland Hills, CA 91364",1100000,4.0,3.0,2005.0,
-"18419 Erwin St, Reseda, CA 91335",801000,3.0,2.0,1017.0,
-"22100 Burbank Blvd UNIT 250F, Woodland Hills, CA 91367",190000,0.0,1.0,358.0,
-"4647 Willis Ave UNIT 217, Sherman Oaks, CA 91403",583500,3.0,2.0,1446.0,
-"7431 Shadyglade Ave UNIT 4, North Hollywood, CA 91605",555000,2.0,2.0,964.0,
-"11105 Emelita St, North Hollywood, CA 91601",1180000,4.0,3.0,1854.0,
-"12345 Hillslope St, Studio City, CA 91604",2400000,3.0,4.0,2461.0,
-"17547 Rushing Dr, Granada Hills, CA 91344",1300000,4.0,2.0,2223.0,
-"13886 Paxton St, Pacoima, CA 91331",760000,3.0,2.0,1128.0,
-"15936 Osborne St, North Hills, CA 91343",1050000,3.0,2.0,1858.0,
-"18128 Sandringham Ct, Porter Ranch, CA 91326",1380000,4.0,4.0,3986.0,
-"8328 Reading Ave, Los Angeles, CA 90045",1790000,4.0,2.0,2089.0,
-"5104 Lindblade Dr, Los Angeles, CA 90230",1290000,3.0,3.0,1620.0,
-"2200 Penmar Ave, Venice, CA 90291",1400000,4.0,3.0,2054.0,
-"3660 Beethoven St, Los Angeles, CA 90066",2260000,4.0,5.0,3272.0,
-"3544 S Centinela Ave APT 307, Los Angeles, CA 90066",590000,2.0,2.0,957.0,
-"3214 Cardiff Ave, Los Angeles, CA 90034",2590000,4.0,3.0,2357.0,
-"1663 Malcolm Ave APT 103, Los Angeles, CA 90024",1550000,3.0,4.0,2178.0,
-"1006 Kagawa St, Pacific Palisades, CA 90272",1980000,,,,
-"847 Iliff St, Pacific Palisades, CA 90272",1810000,,,,
-"13176 Boca De Canon Ln, Los Angeles, CA 90049",5200000,4.0,5.0,3768.0,
-"3328 Mandeville Canyon Rd, Los Angeles, CA 90049",2630000,3.0,3.0,2501.0,
-"4553 Don Ricardo Dr, Los Angeles, CA 90008",678277,2.0,2.0,1221.0,
-"1701 S Kingsley Dr, Los Angeles, CA 90006",865000,5.0,2.0,3050.0,
-"1236 S Union Ave #8, Los Angeles, CA 90015",515000,3.0,3.0,1223.0,
-"4210 Via Arbolada UNIT 205, Los Angeles, CA 90042",641000,2.0,2.0,1037.0,
-"2236 Earl Ct, Los Angeles, CA 90039",1350000,2.0,2.0,955.0,
-"3042 Glenhurst Ave, Los Angeles, CA 90039",1180000,5.0,3.0,3011.0,
-"338 S Highland Ave, Los Angeles, CA 90036",3360000,5.0,6.0,4546.0,
-"9636 S Harvard Blvd, Los Angeles, CA 90047",630000,2.0,1.0,1106.0,
-"424 Island Ave, Wilmington, CA 90744",550000,4.0,4.0,2145.0,
-"414 Island Ave, Wilmington, CA 90744",550000,4.0,4.0,2145.0,
-"1116 Westmont Dr, San Pedro, CA 90731",995000,3.0,2.0,1350.0,
-"1437 Dalmatia Dr, San Pedro, CA 90732",666999,2.0,3.0,1429.0,
-"5565 Canoga Ave APT 205, Woodland Hills, CA 91367",375000,1.0,1.0,610.0,
-"21001 Plummer St SPACE 46, Chatsworth, CA 91311",210000,2.0,2.0,1040.0,
-"1017 N Croft Ave #301, West Hollywood, CA 90069",1620000,2.0,3.0,1392.0,
-"3868 Scadlock Ln, Sherman Oaks, CA 91403",1350000,3.0,4.0,2010.0,
-"219 Howland Canal, Venice, CA 90291",3200000,3.0,3.0,2354.0,
-"23510 Justice St, Canoga Park, CA 91304",942000,4.0,3.0,1903.0,
-"6423 Sheltondale Ave, West Hills, CA 91307",770000,3.0,2.0,1150.0,
-"23463 Friar St, Woodland Hills, CA 91367",1030000,3.0,2.0,1616.0,
-"23856 Aetna St, Woodland Hills, CA 91367",1050000,4.0,2.0,1889.0,
-"6402 Bertrand Ave, Reseda, CA 91335",805000,3.0,1.0,1123.0,
-"19120 Hartland St, Reseda, CA 91335",930000,5.0,3.0,1865.0,
-"19540 Sherman Way UNIT 605, Reseda, CA 91335",543500,3.0,3.0,1272.0,
-"7020 Quartz Ave, Winnetka, CA 91306",735000,3.0,2.0,1306.0,
-"7005 Jordan Ave UNIT 215, Canoga Park, CA 91303",505000,2.0,3.0,1581.0,
-"6205 1/2 Randi Ave, Los Angeles, CA 91367",735000,2.0,3.0,1888.0,
-"20449 Aetna St, Woodland Hills, CA 91367",955000,2.0,3.0,1735.0,
-"18547 Collins St APT B1, Tarzana, CA 91356",650000,4.0,3.0,1698.0,
-"5461 Newcastle Ave APT 14, Encino, CA 91316",585000,2.0,3.0,1258.0,
-"5325 Newcastle Ave UNIT 338, Encino, CA 91316",490000,2.0,2.0,1145.0,
-"5401 Zelzah Ave APT 124, Encino, CA 91316",815000,3.0,3.0,2226.0,
-"17711 Margate St APT 6, Encino, CA 91316",4115,3.0,3.0,1866.0,
-"5403 Newcastle Ave APT 19, Encino, CA 91316",311805,1.0,1.0,657.0,
-"5169 Hesperia Ave, Encino, CA 91316",1170000,3.0,2.0,1517.0,
-"7660 Ostrom Ave, Van Nuys, CA 91406",870000,3.0,1.0,1102.0,
-"5655 Katherine Ave, Van Nuys, CA 91401",1270000,2.0,1.0,1065.0,
-"5460 White Oak Ave UNIT E212, Encino, CA 91316",270000,2.0,2.0,990.0,
-"3564 Summerfield Dr, Sherman Oaks, CA 91423",1730000,5.0,4.0,2504.0,
-"8201 Vantage Ave, North Hollywood, CA 91605",4500,4.0,2.0,1432.0,
-"12330 Magnolia Blvd APT 101, Valley Village, CA 91607",670000,2.0,3.0,1327.0,
-"10421 Addison St, North Hollywood, CA 91601",2260000,4.0,3.0,2044.0,
-"13750 Hubbard St UNIT 28, Sylmar, CA 91342",495000,3.0,3.0,1137.0,
-"11622 Remington St, Sylmar, CA 91342",770000,3.0,2.0,1132.0,
-"11150 Glenoaks Blvd UNIT 106, Pacoima, CA 91331",475000,3.0,2.0,1017.0,
-"7935 Kyle St, Sunland, CA 91040",990000,3.0,2.0,1396.0,
-"10339 Fernglen Ave, Tujunga, CA 91042",722000,2.0,1.0,996.0,
-"13974 Tucker Ave, Sylmar, CA 91342",900000,4.0,2.0,1770.0,
-"11225 Acala Ave, San Fernando, CA 91340",590000,3.0,1.0,1078.0,
-"13087 Kelowna St, Pacoima, CA 91331",750000,3.0,2.0,1406.0,
-"11777 Neenach St, Sun Valley, CA 91352",719108,2.0,2.0,1093.0,
-"15140 Chase St, North Hills, CA 91343",695000,3.0,3.0,1740.0,
-"16619 Osborne St, North Hills, CA 91343",1000000,4.0,2.0,1755.0,
-"18438 Los Alimos St, Porter Ranch, CA 91326",975000,4.0,2.0,1698.0,
-"22352 Heritage Pass Pl, Chatsworth, CA 91311",594000,2.0,2.0,1185.0,
-"10200 Bothwell Rd, Northridge, CA 91324",1230000,3.0,3.0,2436.0,
-"10315 Vanalden Ave, Porter Ranch, CA 91326",1150000,4.0,3.0,2566.0,
-"18627 Hillsboro Rd, Porter Ranch, CA 91326",1380000,4.0,4.0,3022.0,
-"19806 Needles St, Chatsworth, CA 91311",810000,3.0,3.0,1823.0,
-"18620 Citronia St, Northridge, CA 91324",1130000,3.0,2.0,1917.0,
-"11921 Calle Vista Ct, Porter Ranch, CA 91326",1170000,3.0,3.0,1889.0,
-"7907 Croydon Ave, Los Angeles, CA 90045",2200000,3.0,2.0,2025.0,
-"6443 W 81st St, Los Angeles, CA 90045",2880000,4.0,4.0,3333.0,
-"400 Campdell St, Playa Del Rey, CA 90293",2100000,4.0,3.0,3068.0,
-"8635 Falmouth Ave APT 212, Playa Del Rey, CA 90293",495000,1.0,1.0,710.0,
-"5435 W 76th St, Los Angeles, CA 90045",1580000,4.0,3.0,2080.0,
-"12700 Bonaparte Ave, Los Angeles, CA 90066",1240000,3.0,1.0,1034.0,
-"2914 Grayson Ave, Venice, CA 90291",2120000,2.0,2.0,1726.0,
-"2500 Abbot Kinney Blvd APT 25, Venice, CA 90291",940000,2.0,3.0,878.0,
-"969 S Carmelina Ave, Los Angeles, CA 90049",3920000,5.0,5.0,3830.0,
-"3439 Keystone Ave APT 3, Los Angeles, CA 90034",950000,2.0,3.0,1298.0,
-"1300 Midvale Ave APT 502, Los Angeles, CA 90024",630000,1.0,1.0,818.0,
-"2122 Century Park Ln APT 109, Los Angeles, CA 90067",1430000,2.0,3.0,1659.0,
-"667 Ledo Way, Los Angeles, CA 90049",10000000,4.0,8.0,6238.0,
-"626 Bienveneda Ave, Pacific Palisades, CA 90272",750000,,,,
-"15007 McKendree Ave, Pacific Palisades, CA 90272",1900000,,,,
-"1034 Embury St, Pacific Palisades, CA 90272",1410000,,,,
-"314 N Barrington Ave, Los Angeles, CA 90049",10600000,5.0,8.0,8497.0,
-"2030 Palisades Dr, Pacific Palisades, CA 90272",1780000,3.0,4.0,2567.0,
-"2110 Eric Dr, Los Angeles, CA 90049",4350000,4.0,4.0,3113.0,
-"5323 Blackwelder St, Los Angeles, CA 90016",840000,2.0,1.0,760.0,
-"2120 Carmona Ave, Los Angeles, CA 90016",1350000,11.0,7.0,4982.0,
-"1120 S Lucerne Blvd, Los Angeles, CA 90019",800000,2.0,1.0,1008.0,
-"332 N Saint Louis St, Los Angeles, CA 90033",875000,6.0,5.0,3398.0,
-"2200 Avon St, Los Angeles, CA 90026",754000,,,,
-"3744 Clayton Ave, Los Angeles, CA 90027",2750000,4.0,5.0,3638.0,
-"3961 Cumberland Ave, Los Angeles, CA 90027",1240000,3.0,2.0,1917.0,
-"404 Canyon Vista Dr, Los Angeles, CA 90065",730000,1.0,1.0,420.0,
-"108 S Detroit St, Los Angeles, CA 90036",2100000,6.0,4.0,4790.0,
-"131 S Arden Blvd, Los Angeles, CA 90004",3450000,3.0,3.0,2462.0,
-"927 N Laurel Ave, Los Angeles, CA 90046",3250000,5.0,5.0,3870.0,
-"763 N Heliotrope Dr, Los Angeles, CA 90029",950000,4.0,4.0,3992.0,
-"1304 N Mansfield Ave, Los Angeles, CA 90028",1260000,3.0,4.0,2044.0,
-"2335 Stanley Hills Dr, Los Angeles, CA 90046",945000,3.0,2.0,1236.0,
-"2034 Grace Ave, Los Angeles, CA 90068",2500000,3.0,4.0,1931.0,
-"6801 Iris Cir, Los Angeles, CA 90068",2150000,4.0,4.0,2814.0,
-"3260 De Witt Dr, Los Angeles, CA 90068",1350000,4.0,2.0,1776.0,
-"5014 El Verano Ave, Los Angeles, CA 90041",1200000,2.0,2.0,1152.0,
-"1620 W 59th Pl, Los Angeles, CA 90047",645000,2.0,1.0,878.0,
-"854 W Gage Ave, Los Angeles, CA 90044",775000,8.0,4.0,2304.0,
-"7827 S Hobart Blvd, Los Angeles, CA 90047",805000,3.0,4.0,1512.0,
-"722 W 79th St, Los Angeles, CA 90044",720000,8.0,4.0,3226.0,
-"10640 S Gramercy Pl, Los Angeles, CA 90047",545500,2.0,1.0,1229.0,
-"10722 Anzac Ave, Los Angeles, CA 90059",326788,2.0,1.0,720.0,
-"1104 Frigate Ave, Wilmington, CA 90744",755000,3.0,2.0,1441.0,
-"303 W Sepulveda St, San Pedro, CA 90731",570000,2.0,1.0,818.0,
-"1336 S Palos Verdes St, San Pedro, CA 90731",850000,3.0,2.0,1639.0,
-"1156 W 26th St, San Pedro, CA 90731",1080000,3.0,2.0,1468.0,
-"8323 Gustav Ln, Canoga Park, CA 91304",1160000,4.0,2.0,2043.0,
-"22017 Bryant St, West Hills, CA 91304",989000,3.0,3.0,1407.0,
-"6011 Dawn Crk UNIT 7, Playa Vista, CA 90094",1770000,3.0,3.0,2060.0,
-"5545 Canoga Ave APT 121, Woodland Hills, CA 91367",510000,2.0,2.0,910.0,
-"11500 Tennessee Ave UNIT 114, Los Angeles, CA 90064",1140000,2.0,3.0,1610.0,
-"15050 Sherman Way UNIT 146, Los Angeles, CA 91405",515000,2.0,2.0,1309.0,
-"15455 Glenoaks Blvd SPACE 266, Sylmar, CA 91342",395000,3.0,3.0,1520.0,
-"8801 Eton Ave SPACE 90, Canoga Park, CA 91304",230000,3.0,2.0,1152.0,
-"7435-7437 Balcom Ave, Reseda, CA 91335",1010000,6.0,4.0,2007.0,
-"919 1/2 N Benton Way, Los Angeles, CA 90026",725000,3.0,3.0,1100.0,
-"5864 Saturn St, Los Angeles, CA 90019",1400000,3.0,4.0,1856.0,
-"8761 Cashio St, Los Angeles, CA 90035",1250000,4.0,2.0,2350.0,
-"19432 1/2 Keswick St, Reseda, CA 91335",2150,1.0,1.0,463.0,
-"25399 Pine Creek Ln #207, Wilmington, CA 90744",495000,2.0,2.0,1170.0,
-"5866 Saturn St, Los Angeles, CA 90035",1350000,3.0,4.0,1856.0,
-"10580 Wilshire Blvd APT 16NW, Los Angeles, CA 90024",3700000,3.0,4.0,2776.0,
-"24201 Friar St, Woodland Hills, CA 91367",1180000,3.0,2.0,1685.0,
-"22608 Crespi St, Woodland Hills, CA 91364",1450000,4.0,3.0,2107.0,
-"8016 Lubao Ave, Winnetka, CA 91306",880000,4.0,2.0,1753.0,
-"5720 Comanche Ave, Woodland Hills, CA 91367",1470000,3.0,2.0,1800.0,
-"5948 Hesperia Ave, Encino, CA 91316",1330000,3.0,3.0,2004.0,
-"13838 Vanowen St, Van Nuys, CA 91405",1450000,6.0,8.0,3796.0,
-"3217 Bennett Dr, Los Angeles, CA 90068",1210000,2.0,1.0,1112.0,
-"11242 Kamloops St, Sylmar, CA 91342",827000,3.0,2.0,1390.0,
-"7611 Yates St, Tujunga, CA 91042",812000,2.0,2.0,1146.0,
-"10112 Woodward Ave, Sunland, CA 91040",1090000,3.0,2.0,1673.0,
-"10124 Oro Vista Ave, Sunland, CA 91040",1220000,4.0,3.0,2806.0,
-"17500 Rushing Dr, Granada Hills, CA 91344",1270000,3.0,2.0,2275.0,
-"13723 Pinney St, Pacoima, CA 91331",835000,4.0,2.0,1586.0,
-"9651 Gullo Ave, Pacoima, CA 91331",770000,3.0,3.0,1622.0,
-"10400 Langdon Ave, Mission Hills, CA 91345",600000,3.0,2.0,1184.0,
-"9025 Willis Ave UNIT 147, Panorama City, CA 91402",425000,3.0,3.0,1658.0,
-"9150 Sophia Ave, North Hills, CA 91343",1010000,3.0,2.0,1671.0,
-"11063 White Oak Ave, Granada Hills, CA 91344",1120000,3.0,2.0,1404.0,
-"10214 Larwin Ave UNIT 3, Chatsworth, CA 91311",750000,4.0,3.0,2008.0,
-"18241 Andrea Cir N UNIT 1, Northridge, CA 91325",785000,3.0,3.0,2061.0,
-"9917 Independence Ave UNIT C, Chatsworth, CA 91311",510000,2.0,2.0,1079.0,
-"21025 Lemarsh St UNIT G39, Chatsworth, CA 91311",685000,3.0,3.0,1650.0,
-"9950 Topanga Canyon Blvd UNIT 5, Chatsworth, CA 91311",575000,3.0,3.0,1445.0,
-"18200 Sandringham Ct, Porter Ranch, CA 91326",1710000,4.0,5.0,4043.0,
-"13236 Fiji Way UNIT J, Los Angeles, CA 90292",1200000,2.0,3.0,1763.0,
-"3734 Wade St, Los Angeles, CA 90066",2260000,3.0,4.0,2406.0,
-"3481 Saint Susan Pl, Los Angeles, CA 90066",2900000,4.0,4.0,2089.0,
-"2541 Midvale Ave, Los Angeles, CA 90064",1630000,3.0,1.0,1297.0,
-"11337 Nebraska Ave APT 305, Los Angeles, CA 90025",788000,2.0,2.0,1258.0,
-"1242 S Barrington Ave #O109, Los Angeles, CA 90025",814000,2.0,2.0,1170.0,
-"315 26th St, Santa Monica, CA 90402",3350000,3.0,2.0,1680.0,
-"235 Main St APT 121, Venice, CA 90291",888000,2.0,2.0,1188.0,
-"400 Chautauqua Blvd, Pacific Palisades, CA 90272",25000,5.0,6.0,5445.0,
-"16449 Akron St, Pacific Palisades, CA 90272",2100000,4.0,2.0,1650.0,
-"826 Galloway St, Pacific Palisades, CA 90272",1500000,,,,
-"5407 8th Ave, Los Angeles, CA 90043",862000,3.0,3.0,1601.0,
-"4911 S Wilton Pl, Los Angeles, CA 90062",815000,3.0,2.0,1173.0,
-"1575 W 37th St, Los Angeles, CA 90018",791000,3.0,2.0,1540.0,
-"1511 Carmona Ave, Los Angeles, CA 90019",1450000,3.0,3.0,1316.0,
-"322 Cornwell St, Los Angeles, CA 90033",940000,7.0,5.0,2728.0,
-"3120 Minnesota St, Los Angeles, CA 90031",710000,2.0,1.0,744.0,
-"2214 Thomas St, Los Angeles, CA 90031",1030000,6.0,3.0,3360.0,
-"3423 Stockbridge Ave, Los Angeles, CA 90032",895000,2.0,1.0,1153.0,
-"4406 Berenice Ave, Los Angeles, CA 90031",970001,1.0,1.0,856.0,
-"926 W Kensington Rd, Los Angeles, CA 90026",1770000,4.0,2.0,2683.0,
-"881 Mount Washington Dr, Los Angeles, CA 90065",1360000,3.0,3.0,2682.0,
-"4819 Glenalbyn Dr, Los Angeles, CA 90065",1000000,3.0,2.0,1140.0,
-"555 N Irving Blvd, Los Angeles, CA 90004",2060000,3.0,3.0,1469.0,
-"842 N McCadden Pl, Los Angeles, CA 90038",1310000,8.0,4.0,2091.0,
-"901 N Alexandria Ave, Los Angeles, CA 90029",875000,3.0,2.0,1991.0,
-"7250 Franklin Ave UNIT 107, Los Angeles, CA 90046",742500,2.0,2.0,1260.0,
-"1615 N Laurel Ave APT 112, Los Angeles, CA 90046",566500,1.0,1.0,844.0,
-"5698 Holly Oak Dr, Los Angeles, CA 90068",2700000,4.0,5.0,3986.0,
-"2531 N Commonwealth Ave, Los Angeles, CA 90027",2430000,3.0,3.0,2006.0,
-"7726 Dalton Ave, Los Angeles, CA 90047",745000,4.0,2.0,1292.0,
-"823 W 73rd St, Los Angeles, CA 90044",625000,2.0,2.0,1078.0,
-"1254 W 80th St, Los Angeles, CA 90044",650000,2.0,2.0,1494.0,
-"1236 W 81st Pl, Los Angeles, CA 90044",630000,2.0,1.0,1548.0,
-"9116 S Wilton Pl, Los Angeles, CA 90047",866000,3.0,3.0,1406.0,
-"9715 S Hoover St, Los Angeles, CA 90044",315630,4.0,3.0,1626.0,
-"1177 Wellesley Ave UNIT 201, Los Angeles, CA 90049",1280000,3.0,4.0,2178.0,
-"441 S Barrington Ave UNIT 303, Los Angeles, CA 90049",1400000,2.0,3.0,1314.0,
-"9419 1/2 N Sepulveda Blvd #1, North Hills, CA 91343",650000,3.0,3.0,1494.0,
-"7049 Vassar Ave, Canoga Park, CA 91303",2850000,13.0,20.0,9883.0,
-"2205 N Stonewood Ct, San Pedro, CA 90732",796000,3.0,3.0,1598.0,
-"521 N Via De La Paz, Pacific Palisades, CA 90272",2550000,,,,
-"905 S Bedford St APT 5, Los Angeles, CA 90035",4050,3.0,2.0,1500.0,
-"24673 Overland Dr, Canoga Park, CA 91304",1660000,4.0,3.0,2752.0,
-"8204 Clemens Ave, Canoga Park, CA 91304",1140000,4.0,3.0,2225.0,
-"6552 Valley Circle Blvd, West Hills, CA 91307",945000,3.0,2.0,1250.0,
-"5539 Royer Ave, Woodland Hills, CA 91367",925000,4.0,3.0,2050.0,
-"23018 Leonora Dr, Woodland Hills, CA 91367",1200000,4.0,3.0,1848.0,
-"23204 Leonora Dr, Woodland Hills, CA 91367",985000,3.0,2.0,1523.0,
-"4809 Dunman Ave, Woodland Hills, CA 91364",1430000,3.0,2.0,2080.0,
-"6644 Bothwell Rd, Reseda, CA 91335",715000,3.0,2.0,1295.0,
-"6653 Belmar Ave, Reseda, CA 91335",1050000,3.0,2.0,1092.0,
-"20418 Miranda St, Woodland Hills, CA 91367",1060000,3.0,3.0,1800.0,
-"20200 Clark St, Woodland Hills, CA 91367",1460000,4.0,4.0,2619.0,
-"5864 Jamieson Ave, Encino, CA 91316",1600000,3.0,3.0,1993.0,
-"5440 Lindley Ave UNIT 208, Encino, CA 91316",622500,2.0,2.0,1582.0,
-"4730 Azucena Rd, Woodland Hills, CA 91364",3400000,6.0,5.0,5895.0,
-"4717 Poe Ave, Woodland Hills, CA 91364",2230000,3.0,3.0,3136.0,
-"4310 Torreon Dr, Woodland Hills, CA 91364",1110000,3.0,3.0,2122.0,
-"7740 Clearfield Ave, Panorama City, CA 91402",1290000,4.0,3.0,2200.0,
-"4753 Noble Ave, Sherman Oaks, CA 91403",2650000,6.0,6.0,4100.0,
-"5757 Sunnyslope Ave, Van Nuys, CA 91401",825000,2.0,1.0,1033.0,
-"10447 Helendale Ave, Tujunga, CA 91042",855000,2.0,1.0,1042.0,
-"6841 Haywood St, Tujunga, CA 91042",530000,1.0,1.0,524.0,
-"10923 Haskell Ave, Granada Hills, CA 91344",840000,3.0,2.0,1275.0,
-"9754 Swinton Ave, North Hills, CA 91343",1000000,3.0,2.0,2019.0,
-"9500 Texhoma Ave, Northridge, CA 91325",1370000,4.0,3.0,2820.0,
-"18763 Sunburst St, Northridge, CA 91324",850000,3.0,2.0,1486.0,
-"7941 Agnew Ave, Los Angeles, CA 90045",1650000,2.0,2.0,1497.0,
-"8319 Berger Ave, Playa Del Rey, CA 90293",1850000,4.0,3.0,2685.0,
-"7135 W 91st St, Los Angeles, CA 90045",1380000,3.0,2.0,1305.0,
-"4360 Glencoe Ave UNIT 2, Marina Del Rey, CA 90292",1400000,2.0,3.0,1544.0,
-"2432 Cloy Ave, Venice, CA 90291",1930000,2.0,2.0,1123.0,
-"10845 Woodbine St, Los Angeles, CA 90034",1410000,2.0,1.0,896.0,
-"10739 Esther Ave, Los Angeles, CA 90064",2880000,5.0,3.0,2200.0,
-"2577 Wellesley Ave, Los Angeles, CA 90064",1480000,3.0,1.0,1134.0,
-"9017 Alcott St APT 102, Los Angeles, CA 90035",942500,3.0,2.0,1369.0,
-"3561 Clarington Ave APT 310, Los Angeles, CA 90034",699500,2.0,2.0,1039.0,
-"3627 Keystone Ave APT 2, Los Angeles, CA 90034",1010000,3.0,3.0,1562.0,
-"2202 Kelton Ave, Los Angeles, CA 90064",1820000,3.0,3.0,1990.0,
-"1505 S Bentley Ave APT 102, Los Angeles, CA 90025",975000,2.0,2.0,1667.0,
-"2102 Century Park Ln APT 317, Los Angeles, CA 90067",1180000,2.0,2.0,1560.0,
-"2122 Century Park Ln APT 108, Los Angeles, CA 90067",1450000,3.0,3.0,1903.0,
-"1229 Smithwood Dr, Los Angeles, CA 90035",1870000,5.0,3.0,3282.0,
-"404 S Westgate Ave, Los Angeles, CA 90049",8900000,5.0,5.0,5061.0,
-"403 S Bundy Dr, Los Angeles, CA 90049",3600000,3.0,3.0,2563.0,
-"604 Haverford Ave, Pacific Palisades, CA 90272",2000000,,,,
-"16327 Akron St, Pacific Palisades, CA 90272",1050000,,,,
-"1836 Michael Ln, Pacific Palisades, CA 90272",865000,,,,
-"5382 1/2 Village Grn, Los Angeles, CA 90016",683000,2.0,1.0,990.0,
-"2843 Virginia Rd, Los Angeles, CA 90016",1290000,3.0,2.0,1415.0,
-"1841 Clyde Ave, Los Angeles, CA 90019",930000,2.0,1.0,1027.0,
-"1120 S Burnside Ave, Los Angeles, CA 90019",1450000,3.0,2.0,1756.0,
-"800 W 1st St APT 2608, Los Angeles, CA 90012",940000,4.0,5.0,2906.0,
-"435 S La Fayette Park Pl UNIT 311, Los Angeles, CA 90057",639000,2.0,2.0,1445.0,
-"142 S Savannah St, Los Angeles, CA 90033",1300000,8.0,4.0,2656.0,
-"525 Clifton St, Los Angeles, CA 90031",443000,4.0,2.0,1708.0,
-"4280 Via Arbolada UNIT 338, Los Angeles, CA 90042",625500,2.0,2.0,1192.0,
-"2428 Panorama Ter, Los Angeles, CA 90039",1410000,2.0,2.0,1568.0,
-"3545 The Paseo, Los Angeles, CA 90065",600000,1.0,1.0,518.0,
-"4991 Coringa Dr, Los Angeles, CA 90042",1270000,3.0,2.0,1993.0,
-"4908 Stratford Rd, Los Angeles, CA 90042",1780000,3.0,2.0,1624.0,
-"5928 Meridian St, Los Angeles, CA 90042",1070000,2.0,1.0,1200.0,
-"5051 Rosewood Ave APT 206, Los Angeles, CA 90004",630000,2.0,2.0,1055.0,
-"1940 N Highland Ave APT 25, Los Angeles, CA 90068",490000,2.0,2.0,980.0,
-"2307 El Contento Dr, Los Angeles, CA 90068",2000000,4.0,4.0,1955.0,
-"4649 W Avenue 40, Los Angeles, CA 90065",1020000,4.0,2.0,2182.0,
-"1335 W 68th St, Los Angeles, CA 90044",450000,1.0,1.0,782.0,
-"205 W 98th St, Los Angeles, CA 90003",415000,3.0,2.0,1472.0,
-"1414 260th St UNIT 5, Harbor City, CA 90710",467500,2.0,2.0,1119.0,
-"1036 N Fries Ave, Wilmington, CA 90744",525000,2.0,1.0,900.0,
-"2275 Stonewood Ct, San Pedro, CA 90732",810000,4.0,3.0,1736.0,
-"994 W 7th St, San Pedro, CA 90731",1480000,10.0,8.0,5878.0,
-"3311 S Carolina St, San Pedro, CA 90731",680000,1.0,1.0,648.0,
-"16710 Nicklaus Dr UNIT 73, Sylmar, CA 91342",640000,3.0,3.0,1620.0,
-"1850 Upperton Ave, Los Angeles, CA 90042",1900000,4.0,3.0,2396.0,
-"1100 Wilshire Blvd APT 2902, Los Angeles, CA 90017",925000,2.0,2.0,1765.0,
-"1050 S Grand Ave UNIT 1208, Los Angeles, CA 90015",670000,1.0,1.0,840.0,
-"14708 Sherman Way, Van Nuys, CA 91405",842000,4.0,4.0,2100.0,
-"8250 Lankershim Blvd #8, North Hollywood, CA 91605",189950,3.0,2.0,800.0,
-"4715 S La Villa Marina #B, Marina Del Rey, CA 90292",1380000,3.0,3.0,1582.0,
-"10580 Wilshire Blvd #PENTHOUSE 26, Los Angeles, CA 90024",10600000,3.0,6.0,4489.0,
-"317 W 56th St, Los Angeles, CA 90037",1820000,1.0,1.0,5528.0,
-"115 E 116th Pl, Los Angeles, CA 90061",1300000,9.0,6.0,3326.0,
-"849 S Broadway #1006, Los Angeles, CA 90014",750000,1.0,1.0,1130.0,
-"11296 Brookhaven Ave, Los Angeles, CA 90064",3100000,12.0,12.0,6292.0,
-"10714 Sutter Ave, Pacoima, CA 91331",1250000,2.0,1.0,4960.0,
-"8051 Bobbyboyar Ave, West Hills, CA 91304",1100000,4.0,3.0,2047.0,
-"5908 Vista De La Luz, Woodland Hills, CA 91367",2049999,4.0,3.0,3689.0,
-"22925 Styles St, Woodland Hills, CA 91367",1150000,4.0,3.0,2362.0,
-"22816 Califa St, Woodland Hills, CA 91367",1350000,3.0,2.0,1648.0,
-"4701 Deseret Dr, Woodland Hills, CA 91364",1650000,3.0,3.0,2630.0,
-"18405 Collins St UNIT C, Tarzana, CA 91356",555000,2.0,3.0,1659.0,
-"5834 Balcom Ave, Encino, CA 91316",825000,2.0,1.0,781.0,
-"4352 Saltillo St, Woodland Hills, CA 91364",940000,2.0,1.0,1102.0,
-"4335 Chaumont Rd, Woodland Hills, CA 91364",2049999,4.0,4.0,2618.0,
-"16144 Gilmore St, Van Nuys, CA 91406",645000,3.0,1.0,1085.0,
-"15150 Dickens St APT 203, Sherman Oaks, CA 91403",580000,2.0,2.0,1734.0,
-"3610 Westfall Dr, Encino, CA 91436",4250000,6.0,8.0,6200.0,
-"5663 Case Ave, North Hollywood, CA 91601",3900000,25.0,22.0,9722.0,
-"5739 Colfax Ave, North Hollywood, CA 91601",905400,2.0,2.0,1498.0,
-"5425 Strohm Ave, North Hollywood, CA 91601",875000,2.0,1.0,926.0,
-"11465 Fox Hollow Ln, Pacoima, CA 91331",720000,3.0,3.0,1926.0,
-"14906 Chatsworth Dr, Mission Hills, CA 91345",1550000,3.0,1.0,960.0,
-"9525 Stanwin Ave, Pacoima, CA 91331",680000,3.0,2.0,1584.0,
-"13415 Bryson St, Panorama City, CA 91402",900000,4.0,3.0,2164.0,
-"9551 Sepulveda Blvd UNIT 4, North Hills, CA 91343",525000,2.0,2.0,956.0,
-"16701 Chatsworth St, Granada Hills, CA 91344",825000,4.0,3.0,1510.0,
-"20830 Parthenia St, Winnetka, CA 91306",1340000,4.0,4.0,2935.0,
-"3322 W 66th St, Los Angeles, CA 90043",1250000,4.0,3.0,1521.0,
-"6129 W 76th St, Los Angeles, CA 90045",1600000,3.0,2.0,1440.0,
-"7838 Stewart Ave, Los Angeles, CA 90045",2000000,3.0,3.0,1656.0,
-"7363 W 87th Pl, Los Angeles, CA 90045",1700000,4.0,3.0,1867.0,
-"522 Altair Pl, Venice, CA 90291",1720000,2.0,3.0,1267.0,
-"3113 Mountain View Ave, Los Angeles, CA 90066",2300000,3.0,1.0,1157.0,
-"2758 Butler Ave, Los Angeles, CA 90064",1290000,3.0,1.0,1073.0,
-"2224 Guthrie Dr, Los Angeles, CA 90034",5000000,6.0,5.0,5129.0,
-"1440 Veteran Ave APT 241, Los Angeles, CA 90024",550000,1.0,1.0,693.0,
-"1665 Summitridge Dr, Beverly Hills, CA 90210",4750000,4.0,5.0,4825.0,
-"11736 Gwynne Ln, Los Angeles, CA 90077",2850000,3.0,3.0,2614.0,
-"410 Via De La Paz, Pacific Palisades, CA 90272",2690000,,,,
-"1159 Monument St, Pacific Palisades, CA 90272",2340000,,,,
-"5325 S Victoria Ave, Los Angeles, CA 90043",1540000,4.0,4.0,2110.0,
-"1153 S Alfred St, Los Angeles, CA 90035",1630000,3.0,2.0,2123.0,
-"400 S La Fayette Park Pl APT 102, Los Angeles, CA 90057",529000,2.0,2.0,1238.0,
-"1557 Curran St, Los Angeles, CA 90026",1130000,3.0,2.0,2450.0,
-"1947 Whitmore Ave, Los Angeles, CA 90039",718500,1.0,1.0,576.0,
-"4042 Marchena Dr, Los Angeles, CA 90065",2120000,4.0,3.0,2492.0,
-"5336 Stratford Rd, Los Angeles, CA 90042",1170000,3.0,2.0,1080.0,
-"825 N Hobart Blvd, Los Angeles, CA 90029",1830000,13.0,7.0,4312.0,
-"532 N Virgil Ave, Los Angeles, CA 90004",1420000,2.0,2.0,1620.0,
-"1600 N Hobart Blvd APT 11, Los Angeles, CA 90027",450000,1.0,1.0,800.0,
-"4843 Genevieve Ave, Los Angeles, CA 90041",1100000,4.0,2.0,1670.0,
-"531 W 61st St, Los Angeles, CA 90044",600000,2.0,1.0,1016.0,
-"12760 Judd St, Pacoima, CA 91331",750000,5.0,3.0,1630.0,
-"2919 Gleneden St, Los Angeles, CA 90039",1130000,3.0,2.0,1484.0,
-"2011 Cummings Dr, Los Angeles, CA 90027",6580000,5.0,7.0,5639.0,
-"13044 Pacific Promenade APT 420, Playa Vista, CA 90094",1490000,2.0,3.0,1482.0,
-"20234 Cohasset St UNIT 3, Winnetka, CA 91306",435000,2.0,2.0,1040.0,
-"11806 N Ricasoli Way, Porter Ranch, CA 91326",1310000,3.0,3.0,2251.0,
-"15237 De Pauw St, Pacific Palisades, CA 90272",500000,,,,
-"11312 Huston St #6, North Hollywood, CA 91601",3395,3.0,3.0,1325.0,
-"20409 W Esmerelda Ln, Northridge, CA 91326",1690000,4.0,5.0,3295.0,
-"6030 S Seabluff Dr APT 413, Los Angeles, CA 90094",1400000,3.0,2.0,1280.0,
-"7940 Stansbury Ave, Panorama City, CA 91402",4000,3.0,2.0,1300.0,
-"12131 Beaufait Ave, Porter Ranch, CA 91326",5500,4.0,2.0,2094.0,
-"3640 Cardiff Ave APT 110, Los Angeles, CA 90034",3400,2.0,2.0,907.0,
-"9955 Westwanda Dr, Beverly Hills, CA 90210",2110000,3.0,2.0,2478.0,
-"3960 Westside Ave, Los Angeles, CA 90008",1230000,3.0,2.0,1816.0,
-"5510 Owensmouth Ave APT 313, Woodland Hills, CA 91367",500000,2.0,2.0,920.0,
-"8719 Woodley Ave SUITE B, North Hills, CA 91343",2880,,0.0,860.0,
-"16404 Donmetz St, Granada Hills, CA 91344",2500,1.0,1.0,640.0,
-"1480 Vine St APT 401, Los Angeles, CA 90028",5665,2.0,2.0,1110.0,
-"18620 Hatteras St UNIT 276, Tarzana, CA 91356",2200,2.0,2.0,910.0,
-"15632 Viewridge Ln #36, Granada Hills, CA 91344",515500,2.0,3.0,1371.0,
-"1454 W 28th St, Los Angeles, CA 90007",1030000,4.0,1.0,2601.0,
-"243 E 29th St, Los Angeles, CA 90011",649000,6.0,3.0,2215.0,
-"3340 E 1st St, Los Angeles, CA 90063",649000,2.0,3.0,912.0,
-"23240 Leonora Dr, Woodland Hills, CA 91367",1650000,5.0,5.0,2500.0,
-"20347 Runnymede St, Winnetka, CA 91306",3200,2.0,2.0,996.0,
-"14200 Polk St UNIT 52, Sylmar, CA 91342",545000,3.0,2.0,1179.0,
-"14594 Dyer St, Sylmar, CA 91342",695000,3.0,2.0,1569.0,
-"2548 Angelo Dr, Los Angeles, CA 90077",1900000,3.0,3.0,2867.0,
-"5150 Raleigh St, Los Angeles, CA 90004",975000,5.0,3.0,2507.0,
-"5329 Shirley Ave, Tarzana, CA 91356",2600000,4.0,5.0,4450.0,
-"879 W 18th St #3, San Pedro, CA 90731",450000,,,,
-"7800 Topanga Canyon Blvd APT 323, Canoga Park, CA 91304",399000,2.0,2.0,1036.0,
-"22525 Sherman Way UNIT 1201, Los Angeles, CA 91307",650000,3.0,3.0,1633.0,
-"22854 Sherman Way, West Hills, CA 91307",830750,3.0,2.0,1358.0,
-"7008 Scarborough Peak Dr, West Hills, CA 91307",1020000,4.0,3.0,1690.0,
-"20554 Valerio St, Winnetka, CA 91306",795000,3.0,2.0,1616.0,
-"5715 Cahill Ave, Tarzana, CA 91356",1090000,3.0,2.0,1479.0,
-"18600 Clark St UNIT 102, Tarzana, CA 91356",460000,2.0,2.0,1200.0,
-"18854 Edleen Dr, Tarzana, CA 91356",1710000,4.0,3.0,2701.0,
-"4314 Coronet Dr, Encino, CA 91316",1760000,3.0,2.0,2591.0,
-"14202 Lanark St, Panorama City, CA 91402",880000,5.0,4.0,1850.0,
-"7801 Clearfield Ave, Panorama City, CA 91402",770000,4.0,2.0,1520.0,
-"6913 Bevis Ave, Van Nuys, CA 91405",770000,3.0,2.0,2109.0,
-"14741 Killion St, Van Nuys, CA 91411",1030000,2.0,1.0,1060.0,
-"5437 Noble Ave, Sherman Oaks, CA 91411",2300000,4.0,4.0,2268.0,
-"5460 White Oak Ave UNIT A118, Los Angeles, CA 91316",220000,1.0,1.0,683.0,
-"4747 Firmament Ave, Encino, CA 91436",1450000,3.0,3.0,1515.0,
-"4634 Vesper Ave, Sherman Oaks, CA 91403",2880000,5.0,6.0,3764.0,
-"14332 Roblar Pl, Sherman Oaks, CA 91423",2210000,4.0,2.0,2551.0,
-"4348 Mammoth Ave APT 102, Sherman Oaks, CA 91423",4000,2.0,3.0,1601.0,
-"6910 Bellaire Ave, North Hollywood, CA 91605",865000,4.0,3.0,1764.0,
-"6006 Sunnyslope Ave, Van Nuys, CA 91401",1450000,4.0,3.0,2264.0,
-"6050 Vantage Ave, North Hollywood, CA 91606",920000,3.0,3.0,1480.0,
-"11554 Haynes St, North Hollywood, CA 91606",1200000,7.0,5.0,2862.0,
-"11925 Tiara St, Valley Village, CA 91607",1180000,3.0,3.0,1853.0,
-"12806 Tiara St, Valley Village, CA 91607",1000000,3.0,2.0,1470.0,
-"12144 Blix St, Valley Village, CA 91607",1600000,3.0,3.0,2333.0,
-"4739 Ventura Canyon Ave, Sherman Oaks, CA 91423",2020000,4.0,4.0,2775.0,
-"4223 Wilkinson Ave, Studio City, CA 91604",1800000,3.0,2.0,1621.0,
-"9436 Via Monique, Burbank, CA 91504",875000,3.0,3.0,1602.0,
-"7552 Bloomington Ave, Burbank, CA 91504",780000,3.0,2.0,1234.0,
-"4936 Strohm Ave, Toluca Lake, CA 91601",3480000,6.0,7.0,4381.0,
-"4445 Cartwright Ave APT 207, North Hollywood, CA 91602",566250,2.0,2.0,1322.0,
-"15428 Roxford St, Sylmar, CA 91342",1300000,3.0,3.0,1617.0,
-"14739 Ararat St, Sylmar, CA 91342",660000,3.0,2.0,1118.0,
-"11568 Luanda St, Sylmar, CA 91342",840000,3.0,3.0,1600.0,
-"9231 Ledge Ave, Sun Valley, CA 91352",1200000,5.0,3.0,2830.0,
-"7632 McGroarty St, Tujunga, CA 91042",987000,3.0,3.0,2867.0,
-"14016 Candlewood Dr, Sylmar, CA 91342",822000,3.0,2.0,1292.0,
-"16827 Bircher St, Granada Hills, CA 91344",1140000,4.0,2.0,1795.0,
-"10838 Burnet Ave, Mission Hills, CA 91345",1190000,6.0,4.0,2524.0,
-"9006 Patrick Ave, Pacoima, CA 91331",781000,3.0,2.0,1264.0,
-"9436 Natick Ave, North Hills, CA 91343",830000,4.0,2.0,1864.0,
-"8800 Cedros Ave APT 210, Panorama City, CA 91402",275000,1.0,1.0,643.0,
-"10217 Lemona Ave, Mission Hills, CA 91345",1100000,3.0,2.0,1819.0,
-"9947 Norwich Ave, Mission Hills, CA 91345",665000,3.0,2.0,1246.0,
-"9946 Ruffner Ave, North Hills, CA 91343",913500,4.0,3.0,2000.0,
-"16901 Kinzie St, Northridge, CA 91343",1170000,4.0,2.0,2024.0,
-"16625 Dearborn St, North Hills, CA 91343",860000,4.0,3.0,1901.0,
-"17027 Simonds St, Granada Hills, CA 91344",965000,5.0,3.0,2574.0,
-"11787 Oakhurst Way, Porter Ranch, CA 91326",1230000,5.0,3.0,2591.0,
-"22331 Mission Cir, Chatsworth, CA 91311",675000,3.0,3.0,1586.0,
-"10206 Oklahoma Ave UNIT D, Chatsworth, CA 91311",570000,2.0,2.0,1155.0,
-"20657 Septo St, Chatsworth, CA 91311",775000,5.0,3.0,2201.0,
-"8449 Melvin Ave, Northridge, CA 91324",975000,2.0,3.0,2324.0,
-"11730 Preston Trails Ave, Porter Ranch, CA 91326",1290000,3.0,2.0,2093.0,
-"2609 Hyde Park Blvd, Los Angeles, CA 90043",597000,2.0,1.0,815.0,
-"8601 Falmouth Ave APT 404, Playa Del Rey, CA 90293",640000,1.0,2.0,855.0,
-"4351 Redwood Ave UNIT 6, Marina Del Rey, CA 90292",1160000,2.0,2.0,1057.0,
-"13236 Fiji Way UNIT D, Los Angeles, CA 90292",1350000,3.0,3.0,1763.0,
-"11 19th Ave, Venice, CA 90291",2600000,4.0,5.0,2724.0,
-"20 19th Ave, Venice, CA 90291",1630000,4.0,4.0,2328.0,
-"2918 Sanborn Ave, Venice, CA 90291",1670000,3.0,3.0,1076.0,
-"4066 Tivoli Ave, Los Angeles, CA 90066",1890000,4.0,3.0,1851.0,
-"4040 Grand View Blvd UNIT 7, Los Angeles, CA 90066",765000,2.0,2.0,841.0,
-"2031 Glyndon Ave, Venice, CA 90291",2290000,2.0,2.0,935.0,
-"3731 Wasatch Ave, Los Angeles, CA 90066",4780000,5.0,5.0,4154.0,
-"11925 Charnock Rd, Los Angeles, CA 90066",2650000,5.0,5.0,3761.0,
-"10806 Esther Ave, Los Angeles, CA 90064",1680000,4.0,2.0,1496.0,
-"2170 Linnington Ave, Los Angeles, CA 90025",1510000,3.0,3.0,1692.0,
-"10346 Louisiana Ave, Los Angeles, CA 90025",4700000,4.0,5.0,3957.0,
-"1612 Gilcrest Dr, Beverly Hills, CA 90210",2650000,2.0,2.0,1766.0,
-"969 Hilgard Ave APT 703, Los Angeles, CA 90024",560000,1.0,1.0,778.0,
-"1006 N Beverly Glen Blvd, Los Angeles, CA 90077",875000,2.0,1.0,994.0,
-"456 N Bowling Green Way, Los Angeles, CA 90049",10300000,5.0,7.0,7246.0,
-"1124 Napoli Dr, Pacific Palisades, CA 90272",25800000,5.0,6.0,10568.0,
-"345 W Channel Rd, Santa Monica, CA 90402",10200000,5.0,7.0,,
-"207 Tranquillo Rd, Pacific Palisades, CA 90272",1670000,,,,
-"857 Castac Pl, Pacific Palisades, CA 90272",1100000,,,,
-"1224 El Hito Cir, Pacific Palisades, CA 90272",2430000,5.0,2.0,2136.0,
-"950 Galloway St, Pacific Palisades, CA 90272",1560000,,,,
-"16795 Monte Hermoso Dr, Pacific Palisades, CA 90272",2800000,3.0,4.0,3421.0,
-"1490 W 51st St, Los Angeles, CA 90062",540000,2.0,1.0,1248.0,
-"4170 4th Ave, Los Angeles, CA 90008",750000,3.0,2.0,1450.0,
-"3980 Cherrywood Ave, Los Angeles, CA 90008",877500,2.0,1.0,1445.0,
-"3904 Dalton Ave, Los Angeles, CA 90062",550000,3.0,2.0,1480.0,
-"3501 Hillcrest Dr, Los Angeles, CA 90016",1360000,4.0,3.0,1522.0,
-"5703 Clemson St, Los Angeles, CA 90016",450000,2.0,1.0,785.0,
-"3010 11th Ave, Los Angeles, CA 90018",885000,2.0,1.0,1092.0,
-"2709 S Harcourt Ave, Los Angeles, CA 90016",1430000,3.0,2.0,1252.0,
-"2829 Blanchard St, Los Angeles, CA 90033",425000,3.0,2.0,1444.0,
-"5361 Oakland St, Los Angeles, CA 90032",1080000,3.0,2.0,1461.0,
-"3523 Winchester Ave, Los Angeles, CA 90032",1150000,3.0,2.0,2243.0,
-"3400 Carnation Ave, Los Angeles, CA 90026",2500000,4.0,3.0,2468.0,
-"4132 Cumberland Ave, Los Angeles, CA 90027",1240000,2.0,1.0,752.0,
-"3210 Windsor Ave, Los Angeles, CA 90039",1400000,2.0,2.0,1059.0,
-"2006 El Moran St, Los Angeles, CA 90039",1210000,1.0,1.0,949.0,
-"2560 Hyler Ave, Los Angeles, CA 90041",1310000,3.0,2.0,1192.0,
-"446 N Croft Ave, Los Angeles, CA 90048",4220000,6.0,7.0,4200.0,
-"616 N Gower St, Los Angeles, CA 90004",2350000,5.0,5.0,2415.0,
-"8021 Floral Ave, Los Angeles, CA 90046",3720000,4.0,5.0,3282.0,
-"3480 Barham Blvd APT 105, Los Angeles, CA 90068",630000,2.0,2.0,1129.0,
-"4325 Price St, Los Angeles, CA 90027",1100000,3.0,2.0,1620.0,
-"3360 Ley Dr, Los Angeles, CA 90027",2730000,4.0,4.0,3420.0,
-"4022 Goodwin Ave, Los Angeles, CA 90039",975000,5.0,4.0,2736.0,
-"5337 La Roda Ave, Los Angeles, CA 90041",1900000,3.0,2.0,2346.0,
-"1626 W 60th Pl, Los Angeles, CA 90047",511000,2.0,1.0,900.0,
-"424 E 61st St, Los Angeles, CA 90003",480000,4.0,3.0,1740.0,
-"822 W 65th St, Los Angeles, CA 90044",920000,4.0,3.0,1738.0,
-"2126 W 77th St, Los Angeles, CA 90047",665000,3.0,2.0,1374.0,
-"234 E 81st St, Los Angeles, CA 90003",502777,2.0,1.0,668.0,
-"536 W Century Blvd, Los Angeles, CA 90044",875000,7.0,3.0,2711.0,
-"962 E Lanzit Ave, Los Angeles, CA 90059",505000,3.0,2.0,1170.0,
-"17321 Merit Ave, Gardena, CA 90247",710000,3.0,2.0,1395.0,
-"1509 W 207th St, Torrance, CA 90501",820000,4.0,3.0,1758.0,
-"1220 W L St, Wilmington, CA 90744",950000,4.0,2.0,2660.0,
-"23510 Kentworthy Ave, Harbor City, CA 90710",895000,4.0,2.0,1574.0,
-"426 N Pacific Ave, San Pedro, CA 90731",890000,4.0,3.0,1864.0,
-"348 S Hamilton Ave, San Pedro, CA 90732",720000,1.0,1.0,624.0,
-"3500 S Peck Ave APT 2, San Pedro, CA 90731",700000,2.0,2.0,1238.0,
-"1847 El Rey Rd, San Pedro, CA 90732",1240000,3.0,2.0,1977.0,
-"8944 Megan Ave, Canoga Park, CA 91304",950000,4.0,2.0,1818.0,
-"10982 Roebling Ave APT 338, Los Angeles, CA 90024",455000,0.0,1.0,502.0,
-"1435 Lomita Blvd APT 103, Harbor City, CA 90710",700000,3.0,2.0,1670.0,
-"630 W 6th St APT 410, Los Angeles, CA 90017",450000,2.0,2.0,810.0,
-"21450 Burbank Blvd APT 311, Woodland Hills, CA 91367",540000,2.0,2.0,910.0,
-"14114 Almetz Cir, Sylmar, CA 91342",730000,3.0,3.0,2050.0,
-"8960 Telfair Ave, Sun Valley, CA 91352",920000,4.0,3.0,1959.0,
-"1155 S Grand Ave APT 305, Los Angeles, CA 90015",585000,1.0,1.0,1050.0,
-"3740 Santa Rosalia Dr #408, Los Angeles, CA 90008",555000,2.0,2.0,1000.0,
-"333 S Mapleton Dr, Los Angeles, CA 90024",13500000,,,,
-"21301 Erwin St UNIT 413, Woodland Hills, CA 91367",625000,2.0,2.0,1050.0,
-"7100 Alvern St APT 114, Los Angeles, CA 90045",675000,2.0,2.0,1130.0,
-"11633 Chenault St UNIT 203, Los Angeles, CA 90049",1150000,2.0,3.0,1660.0,
-"17657 W Murphy Ln, Northridge, CA 91325",900000,4.0,4.0,1846.0,
-"20621 W Chestnut Cir, Porter Ranch, CA 91326",1200000,4.0,3.0,2189.0,
-"746 S Los Angeles St APT 706, Los Angeles, CA 90014",412000,1.0,1.0,770.0,
-"8307 S Figueroa St, Los Angeles, CA 90003",2120000,18.0,10.0,7584.0,
-"2332 S Bentley Ave, Los Angeles, CA 90064",6300000,25.0,29.0,17974.0,
-"4201 Topanga Canyon Blvd #31, Woodland Hills, CA 91364",385000,2.0,2.0,1250.0,
-"5014 Whitsett Ave, Valley Village, CA 91607",2850000,12.0,18.0,6992.0,
-"18621 Saticoy St, Reseda, CA 91335",6330000,58.0,50.0,22154.0,
-"145 E Avenue 35 APT 7, Los Angeles, CA 90031",700000,11.0,9.0,3778.0,
-"12027 Red Hawk Ln, Porter Ranch, CA 91326",2800000,4.0,5.0,4107.0,
-"2280 W 24th St, Los Angeles, CA 90018",1700000,6.0,5.0,4114.0,
-"11204 S Broadway, Los Angeles, CA 90061",2850000,41.0,23.0,17516.0,
-"5742 Hazeltine Ave, Van Nuys, CA 91401",1240000,12.0,10.0,5708.0,
-"1416 W Rolland Curtis Pl, Los Angeles, CA 90062",1430000,10.0,6.0,3709.0,
-"6137 N Paseo La Vis, Woodland Hills, CA 91367",1980000,5.0,4.0,3366.0,
-"1458-1460 W 80th St, Los Angeles, CA 90047",1050000,6.0,3.0,2684.0,
-"4505 Santa Rosalia Dr, Los Angeles, CA 90008",2400000,15.0,16.0,14006.0,
-"8323 Blackburn Ave, Los Angeles, CA 90048",2600000,16.0,9.0,9576.0,
-"1 Century Dr UNIT 19B, Los Angeles, CA 90067",5300000,3.0,5.0,3520.0,
-"20526 Overlook Ct, Porter Ranch, CA 91326",2200000,5.0,5.0,3873.0,
-"20326 W Liverpool Way, Porter Ranch, CA 91326",2970000,5.0,6.0,4618.0,
-"1631 Champlain Ter, Los Angeles, CA 90026",1340000,4.0,2.0,1952.0,
-"902 El Medio Ave, Pacific Palisades, CA 90272",9995,4.0,3.0,2759.0,
-"6179 Platt Ave, Woodland Hills, CA 91367",815000,3.0,2.0,1160.0,
-"6225 Shoup Ave UNIT 111, Woodland Hills, CA 91367",525000,1.0,2.0,1032.0,
-"23414 Clarendon St, Woodland Hills, CA 91367",1700000,5.0,4.0,3426.0,
-"23309 Ladrillo St, Woodland Hills, CA 91367",1650000,4.0,3.0,2085.0,
-"20934 Vose St, Canoga Park, CA 91303",717500,3.0,2.0,1228.0,
-"18411 Hatteras St UNIT 235, Tarzana, CA 91356",499999,2.0,2.0,964.0,
-"21228 Martinez St, Woodland Hills, CA 91364",958000,2.0,2.0,1285.0,
-"4324 Natoma Ave, Woodland Hills, CA 91364",1450000,4.0,3.0,2383.0,
-"15511 Sherman Way APT 25, Los Angeles, CA 91406",490000,3.0,2.0,1142.0,
-"6601 Burnet Ave, Van Nuys, CA 91405",860000,3.0,2.0,1386.0,
-"14259 Hatteras St, Van Nuys, CA 91401",1550000,4.0,5.0,2412.0,
-"17150 Burbank Blvd UNIT 34, Encino, CA 91316",680000,2.0,3.0,2089.0,
-"5460 White Oak Ave UNIT F201, Los Angeles, CA 91316",230000,1.0,1.0,683.0,
-"4632 Lemona Ave, Sherman Oaks, CA 91403",1500000,4.0,3.0,1700.0,
-"12251 Hartsook St, Valley Village, CA 91607",2560000,4.0,4.0,2669.0,
-"4311 Greenbush Ave, Sherman Oaks, CA 91423",1470000,3.0,2.0,1449.0,
-"12427 Landale St, Studio City, CA 91604",2100000,4.0,4.0,2840.0,
-"4500 Whitsett Ave UNIT 5, Studio City, CA 91604",760000,2.0,2.0,1439.0,
-"4115 Shadyglade Ave, Studio City, CA 91604",4250000,5.0,6.0,4330.0,
-"7807 Arvilla Ave, Sun Valley, CA 91352",800000,3.0,3.0,1183.0,
-"10852 Otsego St, North Hollywood, CA 91601",840000,3.0,1.0,967.0,
-"15301 Larkspur St, Sylmar, CA 91342",1050000,4.0,3.0,1924.0,
-"13421 Hubbard St UNIT 127, Sylmar, CA 91342",620000,3.0,3.0,1795.0,
-"10550 Mather Ave, Sunland, CA 91040",530000,2.0,1.0,1085.0,
-"11820 Shoshone Ave, Granada Hills, CA 91344",1350000,5.0,4.0,2592.0,
-"8358 Murietta Ave, Panorama City, CA 91402",750000,3.0,2.0,1377.0,
-"11205 Montgomery Ave, Granada Hills, CA 91344",1230000,5.0,4.0,2019.0,
-"11209 Forbes Ave, Granada Hills, CA 91344",1230000,4.0,3.0,1956.0,
-"17227 Minnehaha St, Granada Hills, CA 91344",760000,3.0,2.0,1550.0,
-"17256 Kalisher St, Granada Hills, CA 91344",825000,4.0,2.0,1352.0,
-"21901 Lassen St UNIT 167, Chatsworth, CA 91311",620000,3.0,3.0,1438.0,
-"20716 Community St, Winnetka, CA 91306",800000,3.0,2.0,1566.0,
-"7141 Knowlton Pl, Los Angeles, CA 90045",1350000,2.0,2.0,1241.0,
-"8116 Belford Ave, Los Angeles, CA 90045",1050000,3.0,1.0,981.0,
-"8318 Kittyhawk Ave, Los Angeles, CA 90045",1190000,4.0,2.0,1612.0,
-"12420 Hammack St, Los Angeles, CA 90066",1350000,2.0,1.0,1093.0,
-"3904 East Blvd, Los Angeles, CA 90066",2330000,4.0,1.0,2033.0,
-"12539 Presnell St, Los Angeles, CA 90066",1940000,3.0,3.0,1800.0,
-"2403 Ocean Ave, Venice, CA 90291",1500000,2.0,2.0,808.0,
-"12713 Westminster Ave, Los Angeles, CA 90066",1800000,3.0,1.0,1241.0,
-"10520 Almayo Ave, Los Angeles, CA 90064",2350000,3.0,3.0,2292.0,
-"10327 Missouri Ave APT 301, Los Angeles, CA 90025",1100000,2.0,3.0,1399.0,
-"10490 Wilshire Blvd APT 1501, Los Angeles, CA 90024",2100000,2.0,3.0,2776.0,
-"136 S Clark Dr APT 2, Los Angeles, CA 90048",699000,1.0,2.0,758.0,
-"10835 Savona Rd, Los Angeles, CA 90077",3500000,5.0,4.0,3458.0,
-"2020 Coldwater Canyon Dr, Beverly Hills, CA 90210",2450000,5.0,5.0,5342.0,
-"568 N Greencraig Rd, Los Angeles, CA 90049",3820000,5.0,4.0,3738.0,
-"12188 W Sunset Blvd, Los Angeles, CA 90049",1950000,5.0,3.0,3193.0,
-"12443 W Sunset Blvd, Los Angeles, CA 90049",41000,7.0,7.0,7870.0,
-"14929 La Cumbre Dr, Pacific Palisades, CA 90272",5280000,4.0,3.0,2909.0,
-"14924 Camarosa Dr, Pacific Palisades, CA 90272",22100000,7.0,9.0,8388.0,
-"428 Via De La Paz, Pacific Palisades, CA 90272",2780000,,,,
-"5453 Village Grn, Los Angeles, CA 90016",735000,2.0,2.0,1100.0,
-"3963 3rd Ave, Los Angeles, CA 90008",1250000,4.0,4.0,2152.0,
-"3045 10th Ave, Los Angeles, CA 90018",1130000,2.0,2.0,1194.0,
-"1709 Buckingham Rd, Los Angeles, CA 90019",2800000,6.0,6.0,4013.0,
-"981 S Saint Andrews Pl APT 104, Los Angeles, CA 90019",525000,2.0,2.0,921.0,
-"4245 Wall St, Los Angeles, CA 90011",810000,5.0,5.0,2954.0,
-"485 N Concord St, Los Angeles, CA 90063",475000,3.0,3.0,1757.0,
-"1840 Jones Ave, Los Angeles, CA 90032",846000,2.0,1.0,912.0,
-"4049 Via Marisol APT 217, Los Angeles, CA 90042",689000,2.0,2.0,1500.0,
-"2017 Hyperion Ave, Los Angeles, CA 90027",740000,2.0,1.0,928.0,
-"2019 Hyperion Ave, Los Angeles, CA 90027",650000,2.0,1.0,760.0,
-"3038 Saint George St, Los Angeles, CA 90027",2290000,3.0,4.0,2264.0,
-"236 Joy St, Los Angeles, CA 90042",1040000,3.0,2.0,1385.0,
-"3922 Yosemite Way, Los Angeles, CA 90065",1120000,4.0,2.0,1653.0,
-"1222 N Virgil Ave, Los Angeles, CA 90029",900000,3.0,2.0,1865.0,
-"5824 Harold Way, Los Angeles, CA 90028",1170000,4.0,4.0,2390.0,
-"8383 Hollywood Blvd, Los Angeles, CA 90069",3100000,3.0,2.0,2176.0,
-"1242 Cedaredge Ave, Los Angeles, CA 90041",1240000,3.0,3.0,1972.0,
-"115 E 75th St, Los Angeles, CA 90003",610000,3.0,2.0,1514.0,
-"923 E 98th St, Los Angeles, CA 90002",440000,2.0,2.0,864.0,
-"623 E 116th St, Los Angeles, CA 90059",703000,3.0,2.0,1034.0,
-"1062 252nd St, Harbor City, CA 90710",885000,6.0,4.0,1967.0,
-"1414 W 13th St, San Pedro, CA 90732",800000,2.0,1.0,954.0,
-"7701 Ducor Ave, Canoga Park, CA 91304",785000,3.0,2.0,1303.0,
-"5167 Knollwood Way, Woodland Hills, CA 91364",1220000,4.0,4.0,3096.0,
-"5530 Owensmouth Ave APT 306, Woodland Hills, CA 91367",415000,2.0,1.0,740.0,
-"21500 Burbank Blvd APT 201, Woodland Hills, CA 91367",387000,1.0,1.0,610.0,
-"654 S Soto St, Los Angeles, CA 90023",1170000,4.0,4.0,2330.0,
-"8804 Hollywood Blvd, Los Angeles, CA 90069",6100000,3.0,6.0,5013.0,
-"1100 Wilshire Blvd APT 1702, Los Angeles, CA 90017",620000,1.0,2.0,1100.0,
-"12244 Emelita St, Valley Village, CA 91607",2560000,5.0,5.0,3739.0,
-"639 Pheasant Dr #340, Los Angeles, CA 90065",43000,,,,
-"635 Pheasant Dr #339, Los Angeles, CA 90065",25000,,,,
-"212 S Berendo St, Los Angeles, CA 90004",1530000,16.0,8.0,6680.0,
-"11915 Jefferson Blvd, Culver City, CA 90230",4000000,24.0,14.0,10340.0,
-"6300 Waring Ave, Los Angeles, CA 90038",1540000,8.0,6.0,4550.0,
-"7001 Hazeltine Ave, Van Nuys, CA 91405",1800000,14.0,10.0,8150.0,
-"8136 N Genesta Ave, Van Nuys, CA 91406",899999,3.0,3.0,1850.0,
-"10290 Tujunga Canyon Blvd UNIT 102, Tujunga, CA 91042",550000,2.0,2.0,1028.0,
-"2634 Dalton Ave, Los Angeles, CA 90018",1650000,10.0,9.0,5621.0,
-"1315 Montana St, Los Angeles, CA 90026",2640000,14.0,10.0,5152.0,
-"7060 Shoup Ave UNIT 199, Canoga Park, CA 91303",380000,1.0,1.0,670.0,
-"20235 Keswick St UNIT 121, Winnetka, CA 91306",473000,2.0,2.0,1021.0,
-"22348 Kittridge St, Canoga Park, CA 91303",885000,3.0,2.0,1440.0,
-"5412 Lindley Ave UNIT 308, Encino, CA 91316",2700,2.0,2.0,1150.0,
-"5461 Bothwell Rd, Tarzana, CA 91356",5290000,6.0,7.0,6942.0,
-"5163 Alhama Dr, Woodland Hills, CA 91364",1080000,3.0,3.0,1522.0,
-"6924 Colbath Ave, Van Nuys, CA 91405",1260000,3.0,2.0,1654.0,
-"6909 Texhoma Ave, Van Nuys, CA 91406",862000,3.0,2.0,1516.0,
-"6820 Encino Ave, Van Nuys, CA 91406",905000,3.0,2.0,1450.0,
-"6840 Orion Ave, Van Nuys, CA 91406",4295,3.0,2.0,1304.0,
-"5907 Cantaloupe Ave, Van Nuys, CA 91401",1300000,4.0,3.0,2106.0,
-"14071 Roblar Rd, Sherman Oaks, CA 91423",3800000,7.0,6.0,4095.0,
-"14007 Milbank St UNIT 5, Sherman Oaks, CA 91423",515000,2.0,2.0,953.0,
-"4512 Libbit Ave, Encino, CA 91436",2200000,4.0,5.0,2500.0,
-"7820 Fulton Ave, North Hollywood, CA 91605",1450000,5.0,5.0,3000.0,
-"11818 Hamlin St, North Hollywood, CA 91606",935000,5.0,3.0,2352.0,
-"5657 Fulton Ave, Van Nuys, CA 91401",1020000,3.0,3.0,1973.0,
-"13507 Raven St, Sylmar, CA 91342",508000,3.0,1.0,960.0,
-"11661 Luanda St, Sylmar, CA 91342",840000,3.0,3.0,1600.0,
-"11008 Quill Ave, Sunland, CA 91040",867000,4.0,2.0,1405.0,
-"8630 Forsythe St, Sunland, CA 91040",830000,3.0,2.0,1277.0,
-"12611 Amboy Ave, Sylmar, CA 91342",1720000,8.0,5.0,2938.0,
-"10330 Columbus Ave, Mission Hills, CA 91345",741000,3.0,2.0,1437.0,
-"9216 Tobias Ave UNIT 1, Panorama City, CA 91402",531400,3.0,3.0,1276.0,
-"9651 Comanche Ave, Chatsworth, CA 91311",700000,3.0,2.0,1758.0,
-"21000 Parthenia St UNIT 6, Canoga Park, CA 91304",288000,1.0,1.0,679.0,
-"6031 6th Ave, Los Angeles, CA 90043",688000,3.0,2.0,1583.0,
-"7715 Stewart Ave, Los Angeles, CA 90045",2150000,3.0,2.0,1815.0,
-"8701 Delgany Ave UNIT 210, Los Angeles, CA 90293",650000,2.0,2.0,1325.0,
-"8638 Yorktown Ave, Los Angeles, CA 90045",1040000,2.0,1.0,905.0,
-"11954 Lucile St, Los Angeles, CA 90230",2880000,5.0,5.0,3377.0,
-"4250 Sunnyside Ave, Los Angeles, CA 90066",1700000,4.0,2.0,1428.0,
-"926 Nowita Pl, Venice, CA 90291",2290000,3.0,2.0,1368.0,
-"2311 Glencoe Ave, Venice, CA 90291",2380000,4.0,2.0,1850.0,
-"11737 Darlington Ave APT 103, Los Angeles, CA 90049",1150000,2.0,2.0,1720.0,
-"12001 Goshen Ave APT 303, Los Angeles, CA 90049",1050000,3.0,2.0,1387.0,
-"2178 Century Hl, Los Angeles, CA 90067",1480000,2.0,3.0,2372.0,
-"1320 Beverly Grove Pl, Beverly Hills, CA 90210",15800000,7.0,9.0,10500.0,
-"2596 Wallingford Dr, Beverly Hills, CA 90210",3800000,4.0,4.0,3040.0,
-"745 Toyopa Dr, Pacific Palisades, CA 90272",3500000,,,,
-"1491 Capri Dr, Pacific Palisades, CA 90272",6340000,4.0,4.0,3147.0,
-"1774 Palisades Dr, Pacific Palisades, CA 90272",1580000,3.0,4.0,2086.0,
-"920 N Kenter Ave, Los Angeles, CA 90049",3230000,4.0,3.0,3000.0,
-"5188 Village Grn, Los Angeles, CA 90016",540000,2.0,1.0,818.0,
-"3926 S Ridgeley Dr, Los Angeles, CA 90008",905000,3.0,1.0,1106.0,
-"2011 S Curson Ave, Los Angeles, CA 90016",981000,2.0,1.0,896.0,
-"5966 Airdrome St, Los Angeles, CA 90035",1010000,2.0,1.0,878.0,
-"1067 Hi Point St, Los Angeles, CA 90035",2160000,3.0,2.0,1783.0,
-"932 S Cloverdale Ave, Los Angeles, CA 90036",1960000,3.0,3.0,2565.0,
-"1213 E 57th St, Los Angeles, CA 90011",665000,4.0,2.0,1216.0,
-"3850 Monterey Rd, Los Angeles, CA 90032",1000000,3.0,2.0,1271.0,
-"808 New Depot St, Los Angeles, CA 90012",558888,2.0,2.0,1284.0,
-"1312 N Avenue 46, Los Angeles, CA 90041",1090000,3.0,2.0,2060.0,
-"4514 Mont Eagle Pl, Los Angeles, CA 90041",1340000,3.0,2.0,1493.0,
-"834 N Avenue 63, Los Angeles, CA 90042",1320000,3.0,2.0,1302.0,
-"6650 Maryland Dr, Los Angeles, CA 90048",2400000,3.0,2.0,2045.0,
-"740 N Laurel Ave, Los Angeles, CA 90046",2290000,3.0,2.0,1827.0,
-"417 N Orange Grove Ave, Los Angeles, CA 90036",2020000,8.0,8.0,5520.0,
-"3055 Nichols Canyon Rd, Los Angeles, CA 90046",3020000,5.0,4.0,2923.0,
-"4185 Holly Knoll Dr, Los Angeles, CA 90027",1820000,2.0,2.0,1823.0,
-"347 E 102nd St, Los Angeles, CA 90003",550000,3.0,1.0,895.0,
-"800 W 110th St, Los Angeles, CA 90044",1040000,3.0,3.0,3014.0,
-"669 W Sepulveda St, San Pedro, CA 90731",720000,3.0,2.0,1231.0,
-"530 Molino St APT 202, Los Angeles, CA 90013",645000,0.0,1.0,1290.0,
-"13031 Villosa Pl APT 133, Playa Vista, CA 90094",1300000,2.0,3.0,1660.0,
-"1100 S Hope St APT 1216, Los Angeles, CA 90015",1450000,2.0,3.0,1660.0,
-"3604 Westwood Blvd APT 203, Los Angeles, CA 90034",719000,2.0,2.0,1000.0,
-"4644 Coldwater Canyon Ave #103, Studio City, CA 91604",880000,3.0,3.0,1770.0,
-"3785 Wilshire Blvd APT 1602, Los Angeles, CA 90010",1360000,3.0,3.0,1700.0,
-"15445 Cobalt St SPACE 206, Sylmar, CA 91342",340000,2.0,2.0,1800.0,
-"15445 Cobalt St SPACE 222, Sylmar, CA 91342",190000,2.0,2.0,1344.0,
-"21500 Lassen St SPACE 37, Chatsworth, CA 91311",275000,3.0,2.0,1344.0,
-"441 S Barrington Ave UNIT 210, Los Angeles, CA 90049",2230000,3.0,4.0,2502.0,
-"12714 Sea Spray Pl #6, Los Angeles, CA 90094",2530000,3.0,3.0,2141.0,
-"4240 Laurel Canyon Blvd UNIT 307, Studio City, CA 91604",1150000,3.0,3.0,1970.0,
-"1032 S Bonnie Brae St, Los Angeles, CA 90006",1350000,9.0,5.0,2857.0,
-"6906 Ntierno Ln, Los Angeles, CA 90038",1200000,3.0,4.0,2237.0,
-"3438 McKinley Ave, Los Angeles, CA 90011",1200000,16.0,8.0,8816.0,
-"119 S Westlake Ave, Los Angeles, CA 90057",540000,2.0,2.0,900.0,
-"5871 Pickford St, Los Angeles, CA 90019",1900000,14.0,12.0,7006.0,
-"1001 Chautauqua Blvd LOT 24, Pacific Palisades, CA 90272",2500000,,,,
-"3424 1/2 Paloma St, Los Angeles, CA 90011",810000,7.0,3.0,2298.0,
-"1344 W 225th St, Torrance, CA 90501",1750000,19.0,10.0,7688.0,
-"247 N New Hampshire Ave, Los Angeles, CA 90004",1400000,2.0,12.0,7736.0,
-"1961 Mayview Dr, Los Angeles, CA 90027",1630000,3.0,3.0,1912.0,
-"13139 Hubbard St, Sylmar, CA 91342",2500,2.0,1.0,550.0,
-"21021 Gault St #9, Canoga Park, CA 91303",699999,3.0,2.0,1802.0,
-"514 Union Dr, Los Angeles, CA 90017",4700000,8.0,47.0,25720.0,
-"23676 Strathern St, Canoga Park, CA 91304",1200000,4.0,3.0,2114.0,
-"7538 Remmet Ave, Canoga Park, CA 91303",11000000,5.0,3.0,1958.0,
-"20612 Covello St, Winnetka, CA 91306",890000,3.0,2.0,2129.0,
-"6120 Zelzah Ave, Encino, CA 91316",1080000,3.0,2.0,1327.0,
-"6449 Quakertown Ave, Woodland Hills, CA 91367",900000,4.0,2.0,1439.0,
-"18356 Collins St UNIT B, Tarzana, CA 91356",709000,3.0,3.0,1512.0,
-"19750 Wells Dr, Woodland Hills, CA 91364",3650000,5.0,6.0,5120.0,
-"4614 La Subida Pl, Tarzana, CA 91356",1700000,4.0,3.0,3304.0,
-"4807 Vanalden Ave, Tarzana, CA 91356",2190000,6.0,5.0,3080.0,
-"4530 Tyrone Ave, Sherman Oaks, CA 91423",2230000,5.0,4.0,3508.0,
-"14058 Davana Ter, Sherman Oaks, CA 91423",4330000,6.0,8.0,5300.0,
-"15474 Loom Pl, Sherman Oaks, CA 91403",2200000,4.0,3.0,3000.0,
-"4405 Estrondo Dr, Encino, CA 91436",15950,4.0,5.0,3500.0,
-"13021 Killion St, Van Nuys, CA 91401",1350000,3.0,3.0,1570.0,
-"11039 Blix St, North Hollywood, CA 91602",1160000,2.0,1.0,1197.0,
-"4440 Elmer Ave, North Hollywood, CA 91602",1550000,2.0,2.0,1566.0,
-"4231 Tujunga Ave APT A, Studio City, CA 91604",1020000,3.0,4.0,1880.0,
-"4237 Bluebell Ave, Studio City, CA 91604",3680000,4.0,4.0,3660.0,
-"3801 Weslin Ave, Sherman Oaks, CA 91423",1800000,4.0,2.0,2075.0,
-"12968 Vaughn St, San Fernando, CA 91340",809000,4.0,2.0,1475.0,
-"11300 Foothill Blvd UNIT 72, Sylmar, CA 91342",435000,2.0,3.0,1090.0,
-"12351 Osborne Pl APT 3, Pacoima, CA 91331",435000,2.0,1.0,1070.0,
-"10480 Sunland Blvd APT 16, Sunland, CA 91040",595000,3.0,3.0,1513.0,
-"17027 Tennyson Pl, Granada Hills, CA 91344",1100000,4.0,3.0,2769.0,
-"12142 Gerald Ave, Granada Hills, CA 91344",1300000,4.0,3.0,2622.0,
-"16428 Londelius St, North Hills, CA 91343",950000,3.0,2.0,1958.0,
-"17025 Labrador St, Northridge, CA 91325",1240000,4.0,3.0,2106.0,
-"10718 Limerick Ave, Chatsworth, CA 91311",1320000,5.0,4.0,3061.0,
-"9845 Encino Ave, Northridge, CA 91325",1170000,5.0,3.0,2360.0,
-"9757 Reseda Blvd UNIT 71, Northridge, CA 91324",555000,2.0,3.0,1396.0,
-"3556 Butler Ave, Los Angeles, CA 90066",1840000,3.0,2.0,2268.0,
-"3273 Tilden Ave, Los Angeles, CA 90034",1450000,3.0,2.0,1301.0,
-"3036 Glendon Ave, Los Angeles, CA 90034",3050000,4.0,5.0,3200.0,
-"1801 S Shenandoah St, Los Angeles, CA 90035",1650000,2.0,2.0,1672.0,
-"3535 Dunn Dr APT 106, Los Angeles, CA 90034",780000,2.0,3.0,1390.0,
-"2349 S Beverly Glen Blvd UNIT 201, Los Angeles, CA 90064",760000,2.0,2.0,1157.0,
-"10960 Ashton Ave APT 307, Los Angeles, CA 90024",514000,1.0,1.0,555.0,
-"321 S San Vicente Blvd APT 103, Los Angeles, CA 90048",570000,2.0,2.0,1282.0,
-"9662 Highridge Dr, Beverly Hills, CA 90210",2330000,4.0,3.0,2515.0,
-"11645 Montana Ave APT 102, Los Angeles, CA 90049",630000,2.0,1.0,884.0,
-"530 El Medio Ave, Pacific Palisades, CA 90272",1780000,,,,
-"712 Muskingum Ave, Pacific Palisades, CA 90272",3000000,3.0,3.0,2053.0,
-"641 Lachman Ln, Pacific Palisades, CA 90272",1650000,,,,
-"916 Iliff St, Pacific Palisades, CA 90272",1910000,,,,
-"920 Iliff St, Pacific Palisades, CA 90272",1910000,,,,
-"3221 Elvido Dr, Los Angeles, CA 90049",3710000,4.0,4.0,3400.0,
-"4250 9th Ave, Los Angeles, CA 90008",1100000,3.0,2.0,2105.0,
-"1643 Leighton Ave, Los Angeles, CA 90062",670000,2.0,1.0,1214.0,
-"1327 Exposition Blvd, Los Angeles, CA 90018",750000,2.0,2.0,848.0,
-"2130 W 27th St, Los Angeles, CA 90018",1230000,3.0,2.0,1504.0,
-"2145 S Orange Dr, Los Angeles, CA 90016",1030000,3.0,2.0,1424.0,
-"1762 Glendale Blvd, Los Angeles, CA 90026",1050000,3.0,3.0,1943.0,
-"1743 Griffith Park Blvd, Los Angeles, CA 90026",1200000,2.0,2.0,1109.0,
-"3349 Wood Ter, Los Angeles, CA 90027",1230000,3.0,2.0,1715.0,
-"2306 Elmgrove St, Los Angeles, CA 90031",760000,4.0,1.0,1178.0,
-"625 Isabel St, Los Angeles, CA 90065",1590000,4.0,3.0,2265.0,
-"4129 Marmion Way, Los Angeles, CA 90065",910000,2.0,2.0,942.0,
-"301 S Avenue 55, Los Angeles, CA 90042",1050000,5.0,3.0,2011.0,
-"1032 Glen Arbor Ave, Los Angeles, CA 90041",1310000,3.0,2.0,1222.0,
-"166 N Citrus Ave, Los Angeles, CA 90036",2220000,3.0,3.0,2138.0,
-"745 N Croft Ave, Los Angeles, CA 90069",1900000,4.0,2.0,2852.0,
-"1615 N Laurel Ave APT 211, Los Angeles, CA 90046",600000,1.0,1.0,855.0,
-"2620 Rutherford Dr, Los Angeles, CA 90068",1500000,3.0,2.0,1713.0,
-"4343 Finley Ave APT 36, Los Angeles, CA 90027",870000,2.0,2.0,1207.0,
-"223 E 83rd St, Los Angeles, CA 90003",790000,3.0,3.0,1187.0,
-"629 E 93rd St, Los Angeles, CA 90002",655000,3.0,2.0,1216.0,
-"407 W 107th St, Los Angeles, CA 90003",930000,5.0,4.0,2251.0,
-"2433 S Gaffey St, San Pedro, CA 90731",660000,2.0,3.0,1309.0,
-"624 W 38th St, San Pedro, CA 90731",1490000,4.0,4.0,1944.0,
-"2209 W 25th St UNIT 2, Los Angeles, CA 90732",1150000,2.0,2.0,1754.0,
-"22939 Lull St, Canoga Park, CA 91304",1050000,4.0,2.0,1939.0,
-"821 S Gramercy Pl #3, Los Angeles, CA 90005",832000,3.0,3.0,1636.0,
-"20075 Pienza Ln, Northridge, CA 91326",4400,4.0,3.0,1563.0,
-"13045 Pacific Promenade UNIT 337, Playa Vista, CA 90094",630000,1.0,1.0,581.0,
-"1700 Sawtelle Blvd APT 115, Los Angeles, CA 90025",951313,1.0,3.0,1177.0,
-"1029 S Hobart Blvd APT 203, Los Angeles, CA 90006",695000,2.0,2.0,1200.0,
-"2268 W 14th St, Los Angeles, CA 90006",4700000,1.0,47.0,26096.0,
-"201 Furness Ave, Los Angeles, CA 90042",25000,,,,
-"1121-1123 E Opp St, Wilmington, CA 90744",1070000,7.0,6.0,2764.0,
-"7137 Greeley St #2, Tujunga, CA 91042",2200,2.0,1.0,850.0,
-"321 S Oxford Ave #307, Los Angeles, CA 90010",970000,3.0,2.0,1528.0,
-"5938 Buffalo Ave #13, Van Nuys, CA 91401",1460000,,,,
-"2229 S Beverly Dr, Los Angeles, CA 90034",2150000,2.0,2.0,1994.0,
-"4731 S La Villa Marina #F, Marina Del Rey, CA 90292",1070000,2.0,3.0,1582.0,
-"411 S Hamel Rd #104, Los Angeles, CA 90048",1730000,2.0,3.0,1823.0,
-"3245 W Avenue 32, Los Angeles, CA 90065",4110000,24.0,24.0,11966.0,
-"2460 N Eastern Ave, Los Angeles, CA 90032",2310000,28.0,14.0,11570.0,
-"6445 Neddy Ave, West Hills, CA 91307",1250000,4.0,4.0,2252.0,
-"5700 Fairhaven Ave, Woodland Hills, CA 91367",1340000,3.0,6.0,2841.0,
-"4883 Excelente Dr, Woodland Hills, CA 91364",1620000,3.0,2.0,2327.0,
-"4630 Dunas Ln, Tarzana, CA 91356",1250000,3.0,2.0,1553.0,
-"7752 Ostrom Ave, Van Nuys, CA 91406",850000,3.0,2.0,1342.0,
-"15405 Covello St, Van Nuys, CA 91406",910000,4.0,4.0,1600.0,
-"5834 Costello Ave, Van Nuys, CA 91401",1430000,4.0,3.0,2170.0,
-"4949 Genesta Ave UNIT 102, Encino, CA 91316",780000,3.0,3.0,1811.0,
-"7931 Vantage Ave, North Hollywood, CA 91605",892000,3.0,2.0,1315.0,
-"3949 Dixie Canyon Ave, Sherman Oaks, CA 91423",5250000,6.0,6.0,4696.0,
-"10518 Sunland Blvd UNIT 7, Sunland, CA 91040",555000,2.0,2.0,1072.0,
-"7719 Jayseel St, Tujunga, CA 91042",820000,3.0,2.0,1257.0,
-"16001 Circle Diamond Rd, Sylmar, CA 91342",890347,4.0,3.0,2114.0,
-"19533 Rinaldi St UNIT 48, Porter Ranch, CA 91326",575000,3.0,2.0,1036.0,
-"19455 Eagle Ridge Ln, Porter Ranch, CA 91326",762500,2.0,3.0,1787.0,
-"10043 Donna Ave, Northridge, CA 91324",1600000,6.0,4.0,3913.0,
-"401 Campdell St, Playa Del Rey, CA 90293",1480000,3.0,3.0,1178.0,
-"3624 Westwood Blvd APT 102, Los Angeles, CA 90034",749000,3.0,3.0,1218.0,
-"2869 Anchor Ave, Los Angeles, CA 90064",1860000,3.0,2.0,1725.0,
-"10535 Wilshire Blvd APT 410, Los Angeles, CA 90024",650000,2.0,2.0,1088.0,
-"2293 Stratford Cir, Los Angeles, CA 90077",5300000,6.0,9.0,7559.0,
-"2107 Coldwater Canyon Dr, Beverly Hills, CA 90210",2700000,3.0,3.0,2395.0,
-"585 Lorna Ln, Los Angeles, CA 90049",4150000,3.0,3.0,2700.0,
-"11755 Montana Ave APT 308, Los Angeles, CA 90049",1030000,2.0,2.0,1438.0,
-"639 S Bundy Dr, Los Angeles, CA 90049",2500000,3.0,3.0,2519.0,
-"1143 Kagawa St, Pacific Palisades, CA 90272",1750000,,,,
-"1046 Fiske St, Pacific Palisades, CA 90272",1460000,,,,
-"17130 Avenida De La Herradura, Pacific Palisades, CA 90272",900000,,,,
-"16814 Calle Bellevista, Pacific Palisades, CA 90272",1150000,,,,
-"732 W 41st Dr, Los Angeles, CA 90037",540750,5.0,3.0,2760.0,
-"3907 S Bronson Ave, Los Angeles, CA 90008",867500,2.0,2.0,1420.0,
-"2700 S Palm Grove Ave, Los Angeles, CA 90016",1280000,5.0,4.0,2131.0,
-"247 S Benton Way, Los Angeles, CA 90057",800000,3.0,2.0,1210.0,
-"4559 E Rose Hill Dr, Los Angeles, CA 90032",1650000,4.0,3.0,1805.0,
-"3703 Harriman Ave, Los Angeles, CA 90032",1150000,3.0,2.0,1991.0,
-"5269 Huntington Dr N, Los Angeles, CA 90032",638000,3.0,,1388.0,
-"4139 Camero Ave, Los Angeles, CA 90027",1680000,3.0,3.0,2010.0,
-"2117 Redrock Ct, Los Angeles, CA 90039",3100000,4.0,5.0,3085.0,
-"3315 Griffith Park Blvd APT 309, Los Angeles, CA 90027",910000,2.0,2.0,1438.0,
-"3029 Isabel Dr, Los Angeles, CA 90065",1900000,3.0,3.0,1577.0,
-"5244 Hub St, Los Angeles, CA 90042",1450000,6.0,3.0,2920.0,
-"535 N Sierra Bonita Ave, Los Angeles, CA 90036",2700000,5.0,6.0,2725.0,
-"740 N Kings Rd APT 205, Los Angeles, CA 90069",555000,1.0,1.0,880.0,
-"1231 Hilldale Ave, Los Angeles, CA 90069",3400000,2.0,2.0,2015.0,
-"2101 W 76th St, Los Angeles, CA 90047",1050000,5.0,5.0,2178.0,
-"1014 W 185th St, Gardena, CA 90248",760000,3.0,2.0,1504.0,
-"2220 S Pacific Ave, San Pedro, CA 90731",960000,6.0,4.0,4140.0,
-"2708 S Carolina St, San Pedro, CA 90731",750000,3.0,2.0,1860.0,
-"7723 Capistrano Ave, West Hills, CA 91304",800000,3.0,2.0,1570.0,
-"1935 Wollam St, Los Angeles, CA 90065",1230000,4.0,3.0,1532.0,
-"4541 Colfax Ave #102, Studio City, CA 91602",939000,3.0,3.0,1697.0,
-"9712 Pine Orchard St, Pacoima, CA 91331",770000,4.0,3.0,2061.0,
-"409 W 22nd St, San Pedro, CA 90731",1400000,8.0,8.0,6496.0,
-"3406 Garden Ave, Los Angeles, CA 90039",1730000,12.0,9.0,5963.0,
-"4567 Pickford St, Los Angeles, CA 90019",1650000,16.0,12.0,5817.0,
-"20761 Liana Ct, Porter Ranch, CA 91326",1920000,6.0,6.0,3828.0,
-"7513 S Cimarron St, Los Angeles, CA 90047",1050000,5.0,5.0,2178.0,
-"839 S Wilton Pl, Los Angeles, CA 90005",4650000,15.0,40.0,27118.0,
-"4321 Saugus Ave, Sherman Oaks, CA 91403",3110000,16.0,16.0,11010.0,
-"10962 Wescott Ave, Sunland, CA 91040",870000,3.0,2.0,1199.0,
-"430 W 19th St, San Pedro, CA 90731",829000,4.0,2.0,1516.0,
-"3521 W 60th St, Los Angeles, CA 90043",925000,3.0,3.0,1422.0,
-"8140 Calabar Ave, Playa Del Rey, CA 90293",1750000,4.0,3.0,3346.0,
-"13573 Gladstone Ave, Sylmar, CA 91342",1080000,3.0,3.0,3000.0,
-"22845 Leonora Dr, Woodland Hills, CA 91367",845000,2.0,1.0,1002.0,
-"5347 Hinton Ave, Woodland Hills, CA 91367",1920000,5.0,4.0,3271.0,
-"4801 Excelente Dr, Woodland Hills, CA 91364",1280000,3.0,3.0,1798.0,
-"22954 Darien St, Woodland Hills, CA 91364",1760000,5.0,3.0,3156.0,
-"8243 Burton Pl, Reseda, CA 91335",885000,4.0,2.0,1192.0,
-"8115 Etiwanda Ave, Reseda, CA 91335",910000,4.0,3.0,1535.0,
-"18203 Arminta St, Reseda, CA 91335",1400000,5.0,3.0,1777.0,
-"21045 Blythe St, Canoga Park, CA 91304",755000,3.0,2.0,1393.0,
-"19355 Sherman Way UNIT 41, Reseda, CA 91335",538000,2.0,3.0,1448.0,
-"6838 Yarmouth Ave, Reseda, CA 91335",769000,2.0,1.0,900.0,
-"22239 1/4 Erwin St, Los Angeles, CA 91367",586000,2.0,2.0,1416.0,
-"21535 Erwin St UNIT 117, Woodland Hills, CA 91367",563000,2.0,2.0,1240.0,
-"20556 Califa St, Woodland Hills, CA 91367",1930000,4.0,4.0,2550.0,
-"18711 Miranda St, Tarzana, CA 91356",1150000,5.0,4.0,2993.0,
-"5400 Lindley Ave UNIT 117, Encino, CA 91316",445000,2.0,2.0,1043.0,
-"5118 Cerrillos Dr, Woodland Hills, CA 91364",2290000,5.0,5.0,4000.0,
-"14844 Lull St, Van Nuys, CA 91405",899900,4.0,3.0,1710.0,
-"7013 Willis Ave, Van Nuys, CA 91405",675000,2.0,1.0,814.0,
-"14914 Hamlin St APT 105, Van Nuys, CA 91411",420000,2.0,2.0,930.0,
-"14330 Killion St, Van Nuys, CA 91401",1300000,4.0,3.0,2360.0,
-"15202 Weddington St, Van Nuys, CA 91411",1650000,3.0,3.0,1676.0,
-"4841 Swinton Ave, Encino, CA 91436",1560000,4.0,3.0,2200.0,
-"14745 Hartsook St, Sherman Oaks, CA 91403",1420000,5.0,3.0,2590.0,
-"3532 Beverly Glen Blvd, Sherman Oaks, CA 91423",2069999,3.0,3.0,1953.0,
-"12703 Welby Way, North Hollywood, CA 91606",822000,4.0,1.0,1296.0,
-"7103 Van Noord Ave, North Hollywood, CA 91605",950000,4.0,3.0,2067.0,
-"5748 Hillview Park Ave, Van Nuys, CA 91401",2340000,6.0,4.0,4180.0,
-"5258 Irvine Ave, North Hollywood, CA 91601",1030000,3.0,2.0,1672.0,
-"5325 Cleon Ave, North Hollywood, CA 91601",910000,4.0,4.0,2352.0,
-"14158 Paddock St, Sylmar, CA 91342",630000,3.0,2.0,1410.0,
-"12573 Bradley Ave UNIT 1, Sylmar, CA 91342",359000,1.0,1.0,686.0,
-"14043 Aztec St, Sylmar, CA 91342",750000,2.0,1.0,702.0,
-"8220 Owens St, Sunland, CA 91040",905000,3.0,2.0,1231.0,
-"13901 Emir Ave, Sylmar, CA 91342",1150000,4.0,3.0,2451.0,
-"12716 Goethe Pl, Granada Hills, CA 91344",1100000,5.0,3.0,2181.0,
-"11340 Rincon Ave, San Fernando, CA 91340",615000,3.0,2.0,865.0,
-"13773 Wingo St, Pacoima, CA 91331",700000,3.0,2.0,1600.0,
-"9601 Woodman Ave APT 8, Pacoima, CA 91331",545000,3.0,2.0,1145.0,
-"14900 Blackhawk St, Mission Hills, CA 91345",888000,4.0,2.0,1833.0,
-"14712 Hiawatha St, Mission Hills, CA 91345",825000,3.0,2.0,1264.0,
-"15058 Providence Ln, North Hills, CA 91343",715000,3.0,3.0,1919.0,
-"15714 San Jose St, Granada Hills, CA 91344",800000,3.0,4.0,1681.0,
-"11012 Montgomery Ave, Granada Hills, CA 91344",1090000,5.0,3.0,1960.0,
-"16330 San Fernando Mission Blvd, Granada Hills, CA 91344",745000,4.0,2.0,2167.0,
-"8840 Valjean Ave, North Hills, CA 91343",1500000,5.0,5.0,2631.0,
-"10217 Amestoy Ave, Northridge, CA 91325",1050000,3.0,2.0,1908.0,
-"22211 Frontier Pl, Chatsworth, CA 91311",605000,2.0,3.0,1365.0,
-"22100 Acorn St, Chatsworth, CA 91311",1120000,4.0,3.0,2789.0,
-"10127 Hanna Ave, Chatsworth, CA 91311",1000000,4.0,3.0,2084.0,
-"19416 Kinzie St, Northridge, CA 91324",1400000,5.0,3.0,3092.0,
-"19945 Labrador St, Chatsworth, CA 91311",1120000,5.0,4.0,2527.0,
-"11453 Porter Valley Dr, Porter Ranch, CA 91326",300000,3.0,2.0,1857.0,
-"11721 Killimore Ave, Porter Ranch, CA 91326",1370000,5.0,4.0,2860.0,
-"8162 Manitoba St UNIT 303, Playa Del Rey, CA 90293",750000,2.0,2.0,1004.0,
-"12030 Hammack St, Los Angeles, CA 90230",1300000,3.0,2.0,1776.0,
-"1702 Abbot Kinney Blvd, Venice, CA 90291",1440000,4.0,2.0,1867.0,
-"1510 Electric Ave, Venice, CA 90291",2330000,5.0,4.0,2438.0,
-"1410 Federal Ave, Los Angeles, CA 90025",1230000,3.0,3.0,2082.0,
-"9120 Gibson St, Los Angeles, CA 90034",1500000,3.0,2.0,1440.0,
-"1545 S Beverly Dr APT 101, Los Angeles, CA 90035",1380000,4.0,4.0,2595.0,
-"3743 S Canfield Ave APT 303, Los Angeles, CA 90034",865000,2.0,3.0,1359.0,
-"3123 Earlmar Dr, Los Angeles, CA 90064",2850000,4.0,3.0,2907.0,
-"10750 Wilshire Blvd APT 503, Los Angeles, CA 90024",1220000,2.0,3.0,1733.0,
-"1617 S Beverly Glen Blvd APT 301, Los Angeles, CA 90024",1200000,2.0,2.0,1635.0,
-"400 S Bentley Ave, Los Angeles, CA 90049",2400000,3.0,3.0,2319.0,
-"10412 Hebron Ln, Los Angeles, CA 90077",1600000,3.0,2.0,2185.0,
-"15515 Hamner Dr, Los Angeles, CA 90077",2600000,4.0,3.0,2832.0,
-"11750 W Sunset Blvd APT 214, Los Angeles, CA 90049",378946,1.0,1.0,749.0,
-"13716 W Sunset Blvd, Pacific Palisades, CA 90272",3570000,4.0,5.0,3393.0,
-"735 Ocampo Dr, Pacific Palisades, CA 90272",4500000,,,,
-"417 Puerto Del Mar, Pacific Palisades, CA 90272",1350000,4.0,2.0,1852.0,
-"652 Jacon Way, Pacific Palisades, CA 90272",1290000,,,,
-"16541 Akron St, Pacific Palisades, CA 90272",1130000,,,,
-"1325 Chautauqua Blvd, Pacific Palisades, CA 90272",1000000,4.0,6.0,6239.0,
-"15021 Bestor Blvd, Pacific Palisades, CA 90272",2530000,,,,
-"16670 Via Pacifica, Pacific Palisades, CA 90272",1450000,,,,
-"820 W 50th St, Los Angeles, CA 90037",680000,3.0,2.0,1422.0,
-"1323 W 41st Pl, Los Angeles, CA 90037",650000,3.0,1.0,1626.0,
-"2444 Exposition Pl, Los Angeles, CA 90018",1170000,3.0,2.0,1867.0,
-"1525 S Sierra Bonita Ave, Los Angeles, CA 90019",1050000,2.0,1.0,1028.0,
-"727 S Ardmore Ave APT 106, Los Angeles, CA 90005",670000,2.0,2.0,1290.0,
-"733 E 49th St, Los Angeles, CA 90011",665000,5.0,2.0,1582.0,
-"2857 Cincinnati St, Los Angeles, CA 90033",500000,4.0,4.0,3884.0,
-"214 N Mott St, Los Angeles, CA 90033",585000,3.0,2.0,784.0,
-"2021 N Hicks Ave, Los Angeles, CA 90032",500000,2.0,1.0,984.0,
-"4499 Via Marisol APT 327, Los Angeles, CA 90042",450000,2.0,2.0,1048.0,
-"1323 Lilac Ter, Los Angeles, CA 90026",1740000,7.0,7.0,3667.0,
-"(undisclosed Address), Los Angeles, CA 90027",1010000,2.0,2.0,1573.0,
-"949 Mayo St, Los Angeles, CA 90042",1200000,3.0,2.0,1517.0,
-"1123 N Alexandria Ave, Los Angeles, CA 90029",300000,7.0,6.0,3488.0,
-"1154 N Heliotrope Dr, Los Angeles, CA 90029",935000,,,,
-"8162 Kirkwood Dr, Los Angeles, CA 90046",1750000,3.0,2.0,2030.0,
-"8466 Brier Dr, Los Angeles, CA 90046",2870000,3.0,4.0,2043.0,
-"2000 Davies Way, Los Angeles, CA 90046",2000000,3.0,2.0,1668.0,
-"3144 Nichols Canyon Rd, Los Angeles, CA 90046",2990000,4.0,3.0,2440.0,
-"5218 Mount Royal Dr, Los Angeles, CA 90041",2340000,5.0,3.0,2795.0,
-"832 W 95th St, Los Angeles, CA 90044",710000,3.0,3.0,1374.0,
-"639 E 105th St, Los Angeles, CA 90002",425000,2.0,1.0,854.0,
-"10448 W Zamora Ave, Los Angeles, CA 90002",681000,3.0,3.0,1518.0,
-"515 W Gardena Blvd UNIT 83, Gardena, CA 90248",580000,3.0,2.0,1235.0,
-"1614 Amelia Ave, San Pedro, CA 90731",1450000,4.0,3.0,2413.0,
-"2269 Stonewood Ct, San Pedro, CA 90732",730000,2.0,3.0,1351.0,
-"2129 W 25th St UNIT 2, Los Angeles, CA 90732",1130000,3.0,3.0,2678.0,
-"1948 Malcolm Ave APT 402, Los Angeles, CA 90025",1210000,2.0,2.0,1517.0,
-"13080 Pacific Promenade APT 302, Playa Vista, CA 90094",1310000,2.0,3.0,1652.0,
-"914 5th Ave, Venice, CA 90291",1500000,3.0,2.0,1265.0,
-"6241 Crescent Park W UNIT 109, Playa Vista, CA 90094",1940000,3.0,3.0,2140.0,
-"460 S Spring St APT 302, Los Angeles, CA 90013",410000,1.0,1.0,720.0,
-"3750 Santa Rosalia Dr APT 614, Los Angeles, CA 90008",675000,3.0,2.0,1570.0,
-"2020 N Holly Dr #9, Los Angeles, CA 90068",1000000,3.0,3.0,1630.0,
-"811 S Bedford St APT 304, Los Angeles, CA 90035",870000,2.0,2.0,1435.0,
-"13545 Village Ln, Sylmar, CA 91342",799999,4.0,3.0,2094.0,
-"900 S Westgate Ave APT 201, Los Angeles, CA 90049",1560000,3.0,3.0,1672.0,
-"4080 Glencoe Ave UNIT 312, Marina Del Rey, CA 90292",1400000,2.0,2.0,1672.0,
-"11312 Huston St #8, North Hollywood, CA 91601",3395,3.0,3.0,1320.0,
-"1416 E Cesar E Chavez Ave, Los Angeles, CA 90033",530000,2.0,5.0,1535.0,
-"24425 Woolsey Canyon Rd SPACE 85, Canoga Park, CA 91304",145000,2.0,2.0,1056.0,
-"877 S Francisco St #523, Los Angeles, CA 90017",360000,0.0,1.0,482.0,
-"859 Hyperion Ave, Los Angeles, CA 90029",1380000,3.0,4.0,2020.0,
-"108 W 2nd St APT 906, Los Angeles, CA 90012",678000,0.0,1.0,1200.0,
+Address,AIN,Sold Price,Bedrooms,Bathrooms,Area (SqFt),Property Type
+"18319 Jovan St, Reseda, CA 91335",,780000,3.0,1.0,1398.0,SINGLE_FAMILY
+"11500 San Vicente Blvd APT 218, Los Angeles, CA 90049",,1850000,3.0,4.0,2300.0,CONDO
+"2132 Century Park Ln APT 213, Los Angeles, CA 90067",,1410000,2.0,2.0,1674.0,CONDO
+"17813 Malden St, Northridge, CA 91325",,1230000,4.0,3.0,2558.0,SINGLE_FAMILY
+"821 S Gramercy Pl #2, Los Angeles, CA 90005",,800000,3.0,3.0,1631.0,TOWNHOUSE
+"22960 Crespi St, Woodland Hills, CA 91364",,1100000,4.0,3.0,2005.0,SINGLE_FAMILY
+"18419 Erwin St, Reseda, CA 91335",,801000,3.0,2.0,1017.0,SINGLE_FAMILY
+"22100 Burbank Blvd UNIT 250F, Woodland Hills, CA 91367",,190000,0.0,1.0,358.0,CONDO
+"4647 Willis Ave UNIT 217, Sherman Oaks, CA 91403",,583500,3.0,2.0,1446.0,CONDO
+"7431 Shadyglade Ave UNIT 4, North Hollywood, CA 91605",,555000,2.0,2.0,964.0,TOWNHOUSE
+"11105 Emelita St, North Hollywood, CA 91601",,1180000,4.0,3.0,1854.0,SINGLE_FAMILY
+"12345 Hillslope St, Studio City, CA 91604",,2400000,3.0,4.0,2461.0,SINGLE_FAMILY
+"17547 Rushing Dr, Granada Hills, CA 91344",,1300000,4.0,2.0,2223.0,SINGLE_FAMILY
+"13886 Paxton St, Pacoima, CA 91331",,760000,3.0,2.0,1128.0,SINGLE_FAMILY
+"15936 Osborne St, North Hills, CA 91343",,1050000,3.0,2.0,1858.0,SINGLE_FAMILY
+"18128 Sandringham Ct, Porter Ranch, CA 91326",,1380000,4.0,4.0,3986.0,SINGLE_FAMILY
+"8328 Reading Ave, Los Angeles, CA 90045",,1790000,4.0,2.0,2089.0,SINGLE_FAMILY
+"5104 Lindblade Dr, Los Angeles, CA 90230",,1290000,3.0,3.0,1620.0,SINGLE_FAMILY
+"2200 Penmar Ave, Venice, CA 90291",,1400000,4.0,3.0,2054.0,MULTI_FAMILY
+"3660 Beethoven St, Los Angeles, CA 90066",,2260000,4.0,5.0,3272.0,SINGLE_FAMILY
+"3544 S Centinela Ave APT 307, Los Angeles, CA 90066",,590000,2.0,2.0,957.0,CONDO
+"3214 Cardiff Ave, Los Angeles, CA 90034",,2590000,4.0,3.0,2357.0,SINGLE_FAMILY
+"1663 Malcolm Ave APT 103, Los Angeles, CA 90024",,1550000,3.0,4.0,2178.0,TOWNHOUSE
+"1057 Corsica Dr, Pacific Palisades, CA 90272",,13000000,5.0,6.0,6000.0,SINGLE_FAMILY
+"1006 Kagawa St, Pacific Palisades, CA 90272",,1980000,,,,LOT
+"847 Iliff St, Pacific Palisades, CA 90272",,1810000,,,,LOT
+"13176 Boca De Canon Ln, Los Angeles, CA 90049",,5200000,4.0,5.0,3768.0,SINGLE_FAMILY
+"3328 Mandeville Canyon Rd, Los Angeles, CA 90049",,2630000,3.0,3.0,2501.0,SINGLE_FAMILY
+"4553 Don Ricardo Dr, Los Angeles, CA 90008",,678277,2.0,2.0,1221.0,TOWNHOUSE
+"1701 S Kingsley Dr, Los Angeles, CA 90006",,865000,5.0,2.0,3050.0,MULTI_FAMILY
+"1236 S Union Ave #8, Los Angeles, CA 90015",,515000,3.0,3.0,1223.0,CONDO
+"3066 E 5th St, Los Angeles, CA 90063",,890000,6.0,3.0,2638.0,MULTI_FAMILY
+"4210 Via Arbolada UNIT 205, Los Angeles, CA 90042",,641000,2.0,2.0,1037.0,CONDO
+"2236 Earl Ct, Los Angeles, CA 90039",,1350000,2.0,2.0,955.0,SINGLE_FAMILY
+"3042 Glenhurst Ave, Los Angeles, CA 90039",,1180000,5.0,3.0,3011.0,MULTI_FAMILY
+"338 S Highland Ave, Los Angeles, CA 90036",,3360000,5.0,6.0,4546.0,SINGLE_FAMILY
+"9636 S Harvard Blvd, Los Angeles, CA 90047",,630000,2.0,1.0,1106.0,SINGLE_FAMILY
+"424 Island Ave, Wilmington, CA 90744",,550000,4.0,4.0,2145.0,MULTI_FAMILY
+"414 Island Ave, Wilmington, CA 90744",,550000,4.0,4.0,2145.0,MULTI_FAMILY
+"1116 Westmont Dr, San Pedro, CA 90731",,995000,3.0,2.0,1350.0,SINGLE_FAMILY
+"1437 Dalmatia Dr, San Pedro, CA 90732",,666999,2.0,3.0,1429.0,TOWNHOUSE
+"5565 Canoga Ave APT 205, Woodland Hills, CA 91367",,375000,1.0,1.0,610.0,CONDO
+"21001 Plummer St SPACE 46, Chatsworth, CA 91311",,210000,2.0,2.0,1040.0,MANUFACTURED
+"1017 N Croft Ave #301, West Hollywood, CA 90069",,1620000,2.0,3.0,1392.0,CONDO
+"3868 Scadlock Ln, Sherman Oaks, CA 91403",,1350000,3.0,4.0,2010.0,SINGLE_FAMILY
+"219 Howland Canal, Venice, CA 90291",,3200000,3.0,3.0,2354.0,SINGLE_FAMILY
+"23510 Justice St, Canoga Park, CA 91304",,942000,4.0,3.0,1903.0,SINGLE_FAMILY
+"6423 Sheltondale Ave, West Hills, CA 91307",,770000,3.0,2.0,1150.0,SINGLE_FAMILY
+"23463 Friar St, Woodland Hills, CA 91367",,1030000,3.0,2.0,1616.0,SINGLE_FAMILY
+"23856 Aetna St, Woodland Hills, CA 91367",,1050000,4.0,2.0,1889.0,SINGLE_FAMILY
+"6402 Bertrand Ave, Reseda, CA 91335",,805000,3.0,1.0,1123.0,SINGLE_FAMILY
+"19120 Hartland St, Reseda, CA 91335",,930000,5.0,3.0,1865.0,SINGLE_FAMILY
+"19540 Sherman Way UNIT 605, Reseda, CA 91335",,543500,3.0,3.0,1272.0,TOWNHOUSE
+"7020 Quartz Ave, Winnetka, CA 91306",,735000,3.0,2.0,1306.0,SINGLE_FAMILY
+"7005 Jordan Ave UNIT 215, Canoga Park, CA 91303",,505000,2.0,3.0,1581.0,CONDO
+"6205 1/2 Randi Ave, Los Angeles, CA 91367",,735000,2.0,3.0,1888.0,TOWNHOUSE
+"20449 Aetna St, Woodland Hills, CA 91367",,955000,2.0,3.0,1735.0,SINGLE_FAMILY
+"18547 Collins St APT B1, Tarzana, CA 91356",,650000,4.0,3.0,1698.0,CONDO
+"5461 Newcastle Ave APT 14, Encino, CA 91316",,585000,2.0,3.0,1258.0,CONDO
+"5325 Newcastle Ave UNIT 338, Encino, CA 91316",,490000,2.0,2.0,1145.0,CONDO
+"5401 Zelzah Ave APT 124, Encino, CA 91316",,815000,3.0,3.0,2226.0,TOWNHOUSE
+"17711 Margate St APT 6, Encino, CA 91316",,4115,3.0,3.0,1866.0,TOWNHOUSE
+"5403 Newcastle Ave APT 19, Encino, CA 91316",,311805,1.0,1.0,657.0,CONDO
+"5169 Hesperia Ave, Encino, CA 91316",,1170000,3.0,2.0,1517.0,SINGLE_FAMILY
+"7660 Ostrom Ave, Van Nuys, CA 91406",,870000,3.0,1.0,1102.0,SINGLE_FAMILY
+"5655 Katherine Ave, Van Nuys, CA 91401",,1270000,2.0,1.0,1065.0,SINGLE_FAMILY
+"5460 White Oak Ave UNIT E212, Encino, CA 91316",,270000,2.0,2.0,990.0,CONDO
+"3564 Summerfield Dr, Sherman Oaks, CA 91423",,1730000,5.0,4.0,2504.0,SINGLE_FAMILY
+"8201 Vantage Ave, North Hollywood, CA 91605",,4500,4.0,2.0,1432.0,SINGLE_FAMILY
+"12330 Magnolia Blvd APT 101, Valley Village, CA 91607",,670000,2.0,3.0,1327.0,CONDO
+"10421 Addison St, North Hollywood, CA 91601",,2260000,4.0,3.0,2044.0,SINGLE_FAMILY
+"13750 Hubbard St UNIT 28, Sylmar, CA 91342",,495000,3.0,3.0,1137.0,TOWNHOUSE
+"11622 Remington St, Sylmar, CA 91342",,770000,3.0,2.0,1132.0,SINGLE_FAMILY
+"11150 Glenoaks Blvd UNIT 106, Pacoima, CA 91331",,475000,3.0,2.0,1017.0,TOWNHOUSE
+"7935 Kyle St, Sunland, CA 91040",,990000,3.0,2.0,1396.0,SINGLE_FAMILY
+"10339 Fernglen Ave, Tujunga, CA 91042",,722000,2.0,1.0,996.0,SINGLE_FAMILY
+"13974 Tucker Ave, Sylmar, CA 91342",,900000,4.0,2.0,1770.0,SINGLE_FAMILY
+"11225 Acala Ave, San Fernando, CA 91340",,590000,3.0,1.0,1078.0,SINGLE_FAMILY
+"13087 Kelowna St, Pacoima, CA 91331",,750000,3.0,2.0,1406.0,SINGLE_FAMILY
+"11777 Neenach St, Sun Valley, CA 91352",,719108,2.0,2.0,1093.0,SINGLE_FAMILY
+"15140 Chase St, North Hills, CA 91343",,695000,3.0,3.0,1740.0,SINGLE_FAMILY
+"16619 Osborne St, North Hills, CA 91343",,1000000,4.0,2.0,1755.0,SINGLE_FAMILY
+"18438 Los Alimos St, Porter Ranch, CA 91326",,975000,4.0,2.0,1698.0,SINGLE_FAMILY
+"22352 Heritage Pass Pl, Chatsworth, CA 91311",,594000,2.0,2.0,1185.0,TOWNHOUSE
+"10200 Bothwell Rd, Northridge, CA 91324",,1230000,3.0,3.0,2436.0,SINGLE_FAMILY
+"10315 Vanalden Ave, Porter Ranch, CA 91326",,1150000,4.0,3.0,2566.0,SINGLE_FAMILY
+"18627 Hillsboro Rd, Porter Ranch, CA 91326",,1380000,4.0,4.0,3022.0,SINGLE_FAMILY
+"19806 Needles St, Chatsworth, CA 91311",,810000,3.0,3.0,1823.0,SINGLE_FAMILY
+"18620 Citronia St, Northridge, CA 91324",,1130000,3.0,2.0,1917.0,SINGLE_FAMILY
+"11921 Calle Vista Ct, Porter Ranch, CA 91326",,1170000,3.0,3.0,1889.0,SINGLE_FAMILY
+"7907 Croydon Ave, Los Angeles, CA 90045",,2200000,3.0,2.0,2025.0,SINGLE_FAMILY
+"6443 W 81st St, Los Angeles, CA 90045",,2880000,4.0,4.0,3333.0,SINGLE_FAMILY
+"400 Campdell St, Playa Del Rey, CA 90293",,2100000,4.0,3.0,3068.0,SINGLE_FAMILY
+"8635 Falmouth Ave APT 212, Playa Del Rey, CA 90293",,495000,1.0,1.0,710.0,CONDO
+"5435 W 76th St, Los Angeles, CA 90045",,1580000,4.0,3.0,2080.0,SINGLE_FAMILY
+"12700 Bonaparte Ave, Los Angeles, CA 90066",,1240000,3.0,1.0,1034.0,SINGLE_FAMILY
+"2914 Grayson Ave, Venice, CA 90291",,2120000,2.0,2.0,1726.0,SINGLE_FAMILY
+"2500 Abbot Kinney Blvd APT 25, Venice, CA 90291",,940000,2.0,3.0,878.0,CONDO
+"969 S Carmelina Ave, Los Angeles, CA 90049",,3920000,5.0,5.0,3830.0,SINGLE_FAMILY
+"3439 Keystone Ave APT 3, Los Angeles, CA 90034",,950000,2.0,3.0,1298.0,CONDO
+"1300 Midvale Ave APT 502, Los Angeles, CA 90024",,630000,1.0,1.0,818.0,CONDO
+"2122 Century Park Ln APT 109, Los Angeles, CA 90067",,1430000,2.0,3.0,1659.0,CONDO
+"667 Ledo Way, Los Angeles, CA 90049",,10000000,4.0,8.0,6238.0,SINGLE_FAMILY
+"626 Bienveneda Ave, Pacific Palisades, CA 90272",,750000,,,,LOT
+"15007 McKendree Ave, Pacific Palisades, CA 90272",,1900000,,,,LOT
+"1034 Embury St, Pacific Palisades, CA 90272",,1410000,,,,LOT
+"314 N Barrington Ave, Los Angeles, CA 90049",,10600000,5.0,8.0,8497.0,SINGLE_FAMILY
+"2030 Palisades Dr, Pacific Palisades, CA 90272",,1780000,3.0,4.0,2567.0,CONDO
+"2110 Eric Dr, Los Angeles, CA 90049",,4350000,4.0,4.0,3113.0,SINGLE_FAMILY
+"5323 Blackwelder St, Los Angeles, CA 90016",,840000,2.0,1.0,760.0,SINGLE_FAMILY
+"2120 Carmona Ave, Los Angeles, CA 90016",,1350000,11.0,7.0,4982.0,MULTI_FAMILY
+"1120 S Lucerne Blvd, Los Angeles, CA 90019",,800000,2.0,1.0,1008.0,SINGLE_FAMILY
+"332 N Saint Louis St, Los Angeles, CA 90033",,875000,6.0,5.0,3398.0,MULTI_FAMILY
+"2200 Avon St, Los Angeles, CA 90026",,754000,,,,LOT
+"3744 Clayton Ave, Los Angeles, CA 90027",,2750000,4.0,5.0,3638.0,SINGLE_FAMILY
+"3961 Cumberland Ave, Los Angeles, CA 90027",,1240000,3.0,2.0,1917.0,SINGLE_FAMILY
+"404 Canyon Vista Dr, Los Angeles, CA 90065",,730000,1.0,1.0,420.0,SINGLE_FAMILY
+"108 S Detroit St, Los Angeles, CA 90036",,2100000,6.0,4.0,4790.0,CONDO
+"131 S Arden Blvd, Los Angeles, CA 90004",,3450000,3.0,3.0,2462.0,SINGLE_FAMILY
+"927 N Laurel Ave, Los Angeles, CA 90046",,3250000,5.0,5.0,3870.0,SINGLE_FAMILY
+"763 N Heliotrope Dr, Los Angeles, CA 90029",,950000,4.0,4.0,3992.0,MULTI_FAMILY
+"1304 N Mansfield Ave, Los Angeles, CA 90028",,1260000,3.0,4.0,2044.0,SINGLE_FAMILY
+"2335 Stanley Hills Dr, Los Angeles, CA 90046",,945000,3.0,2.0,1236.0,SINGLE_FAMILY
+"2034 Grace Ave, Los Angeles, CA 90068",,2500000,3.0,4.0,1931.0,SINGLE_FAMILY
+"6801 Iris Cir, Los Angeles, CA 90068",,2150000,4.0,4.0,2814.0,SINGLE_FAMILY
+"3260 De Witt Dr, Los Angeles, CA 90068",,1350000,4.0,2.0,1776.0,SINGLE_FAMILY
+"5014 El Verano Ave, Los Angeles, CA 90041",,1200000,2.0,2.0,1152.0,SINGLE_FAMILY
+"1620 W 59th Pl, Los Angeles, CA 90047",,645000,2.0,1.0,878.0,SINGLE_FAMILY
+"854 W Gage Ave, Los Angeles, CA 90044",,775000,8.0,4.0,2304.0,MULTI_FAMILY
+"7827 S Hobart Blvd, Los Angeles, CA 90047",,805000,3.0,4.0,1512.0,SINGLE_FAMILY
+"722 W 79th St, Los Angeles, CA 90044",,720000,8.0,4.0,3226.0,MULTI_FAMILY
+"10640 S Gramercy Pl, Los Angeles, CA 90047",,545500,2.0,1.0,1229.0,SINGLE_FAMILY
+"10722 Anzac Ave, Los Angeles, CA 90059",,326788,2.0,1.0,720.0,SINGLE_FAMILY
+"1104 Frigate Ave, Wilmington, CA 90744",,755000,3.0,2.0,1441.0,SINGLE_FAMILY
+"303 W Sepulveda St, San Pedro, CA 90731",,570000,2.0,1.0,818.0,SINGLE_FAMILY
+"1336 S Palos Verdes St, San Pedro, CA 90731",,850000,3.0,2.0,1639.0,SINGLE_FAMILY
+"1156 W 26th St, San Pedro, CA 90731",,1080000,3.0,2.0,1468.0,SINGLE_FAMILY
+"8323 Gustav Ln, Canoga Park, CA 91304",,1160000,4.0,2.0,2043.0,SINGLE_FAMILY
+"22017 Bryant St, West Hills, CA 91304",,989000,3.0,3.0,1407.0,SINGLE_FAMILY
+"6011 Dawn Crk UNIT 7, Playa Vista, CA 90094",,1770000,3.0,3.0,2060.0,TOWNHOUSE
+"5545 Canoga Ave APT 121, Woodland Hills, CA 91367",,510000,2.0,2.0,910.0,CONDO
+"11500 Tennessee Ave UNIT 114, Los Angeles, CA 90064",,1140000,2.0,3.0,1610.0,CONDO
+"15050 Sherman Way UNIT 146, Los Angeles, CA 91405",,515000,2.0,2.0,1309.0,CONDO
+"15455 Glenoaks Blvd SPACE 266, Sylmar, CA 91342",,395000,3.0,3.0,1520.0,MANUFACTURED
+"8801 Eton Ave SPACE 90, Canoga Park, CA 91304",,230000,3.0,2.0,1152.0,MANUFACTURED
+"7435-7437 Balcom Ave, Reseda, CA 91335",,1010000,6.0,4.0,2007.0,SINGLE_FAMILY
+"919 1/2 N Benton Way, Los Angeles, CA 90026",,725000,3.0,3.0,1100.0,CONDO
+"5864 Saturn St, Los Angeles, CA 90019",,1400000,3.0,4.0,1856.0,SINGLE_FAMILY
+"8761 Cashio St, Los Angeles, CA 90035",,1250000,4.0,2.0,2350.0,MULTI_FAMILY
+"19432 1/2 Keswick St, Reseda, CA 91335",,2150,1.0,1.0,463.0,SINGLE_FAMILY
+"25399 Pine Creek Ln #207, Wilmington, CA 90744",,495000,2.0,2.0,1170.0,TOWNHOUSE
+"5866 Saturn St, Los Angeles, CA 90035",,1350000,3.0,4.0,1856.0,SINGLE_FAMILY
+"7420 Elmer Ave, Sun Valley, CA 91352",,4100,3.0,2.0,1150.0,SINGLE_FAMILY
+"10580 Wilshire Blvd APT 16NW, Los Angeles, CA 90024",,3700000,3.0,4.0,2776.0,CONDO
+"24201 Friar St, Woodland Hills, CA 91367",,1180000,3.0,2.0,1685.0,SINGLE_FAMILY
+"22608 Crespi St, Woodland Hills, CA 91364",,1450000,4.0,3.0,2107.0,SINGLE_FAMILY
+"8016 Lubao Ave, Winnetka, CA 91306",,880000,4.0,2.0,1753.0,SINGLE_FAMILY
+"5720 Comanche Ave, Woodland Hills, CA 91367",,1470000,3.0,2.0,1800.0,SINGLE_FAMILY
+"5948 Hesperia Ave, Encino, CA 91316",,1330000,3.0,3.0,2004.0,SINGLE_FAMILY
+"13838 Vanowen St, Van Nuys, CA 91405",,1450000,6.0,8.0,3796.0,MULTI_FAMILY
+"3217 Bennett Dr, Los Angeles, CA 90068",,1210000,2.0,1.0,1112.0,SINGLE_FAMILY
+"11242 Kamloops St, Sylmar, CA 91342",,827000,3.0,2.0,1390.0,SINGLE_FAMILY
+"7611 Yates St, Tujunga, CA 91042",,812000,2.0,2.0,1146.0,SINGLE_FAMILY
+"10112 Woodward Ave, Sunland, CA 91040",,1090000,3.0,2.0,1673.0,SINGLE_FAMILY
+"10124 Oro Vista Ave, Sunland, CA 91040",,1220000,4.0,3.0,2806.0,SINGLE_FAMILY
+"17500 Rushing Dr, Granada Hills, CA 91344",,1270000,3.0,2.0,2275.0,SINGLE_FAMILY
+"13723 Pinney St, Pacoima, CA 91331",,835000,4.0,2.0,1586.0,SINGLE_FAMILY
+"9651 Gullo Ave, Pacoima, CA 91331",,770000,3.0,3.0,1622.0,SINGLE_FAMILY
+"10400 Langdon Ave, Mission Hills, CA 91345",,600000,3.0,2.0,1184.0,SINGLE_FAMILY
+"9025 Willis Ave UNIT 147, Panorama City, CA 91402",,425000,3.0,3.0,1658.0,TOWNHOUSE
+"9150 Sophia Ave, North Hills, CA 91343",,1010000,3.0,2.0,1671.0,SINGLE_FAMILY
+"11063 White Oak Ave, Granada Hills, CA 91344",,1120000,3.0,2.0,1404.0,SINGLE_FAMILY
+"10214 Larwin Ave UNIT 3, Chatsworth, CA 91311",,750000,4.0,3.0,2008.0,TOWNHOUSE
+"18241 Andrea Cir N UNIT 1, Northridge, CA 91325",,785000,3.0,3.0,2061.0,TOWNHOUSE
+"9917 Independence Ave UNIT C, Chatsworth, CA 91311",,510000,2.0,2.0,1079.0,TOWNHOUSE
+"21025 Lemarsh St UNIT G39, Chatsworth, CA 91311",,685000,3.0,3.0,1650.0,TOWNHOUSE
+"9950 Topanga Canyon Blvd UNIT 5, Chatsworth, CA 91311",,575000,3.0,3.0,1445.0,TOWNHOUSE
+"18200 Sandringham Ct, Porter Ranch, CA 91326",,1710000,4.0,5.0,4043.0,SINGLE_FAMILY
+"13236 Fiji Way UNIT J, Los Angeles, CA 90292",,1200000,2.0,3.0,1763.0,TOWNHOUSE
+"3734 Wade St, Los Angeles, CA 90066",,2260000,3.0,4.0,2406.0,SINGLE_FAMILY
+"3481 Saint Susan Pl, Los Angeles, CA 90066",,2900000,4.0,4.0,2089.0,SINGLE_FAMILY
+"2541 Midvale Ave, Los Angeles, CA 90064",,1630000,3.0,1.0,1297.0,SINGLE_FAMILY
+"11337 Nebraska Ave APT 305, Los Angeles, CA 90025",,788000,2.0,2.0,1258.0,CONDO
+"1242 S Barrington Ave #O109, Los Angeles, CA 90025",,814000,2.0,2.0,1170.0,CONDO
+"315 26th St, Santa Monica, CA 90402",,3350000,3.0,2.0,1680.0,SINGLE_FAMILY
+"235 Main St APT 121, Venice, CA 90291",,888000,2.0,2.0,1188.0,CONDO
+"400 Chautauqua Blvd, Pacific Palisades, CA 90272",,25000,5.0,6.0,5445.0,SINGLE_FAMILY
+"16449 Akron St, Pacific Palisades, CA 90272",,2100000,4.0,2.0,1650.0,SINGLE_FAMILY
+"826 Galloway St, Pacific Palisades, CA 90272",,1500000,,,,LOT
+"5407 8th Ave, Los Angeles, CA 90043",,862000,3.0,3.0,1601.0,SINGLE_FAMILY
+"4911 S Wilton Pl, Los Angeles, CA 90062",,815000,3.0,2.0,1173.0,SINGLE_FAMILY
+"1575 W 37th St, Los Angeles, CA 90018",,791000,3.0,2.0,1540.0,MULTI_FAMILY
+"1511 Carmona Ave, Los Angeles, CA 90019",,1450000,3.0,3.0,1316.0,SINGLE_FAMILY
+"322 Cornwell St, Los Angeles, CA 90033",,940000,7.0,5.0,2728.0,MULTI_FAMILY
+"3120 Minnesota St, Los Angeles, CA 90031",,710000,2.0,1.0,744.0,SINGLE_FAMILY
+"2214 Thomas St, Los Angeles, CA 90031",,1030000,6.0,3.0,3360.0,MULTI_FAMILY
+"3423 Stockbridge Ave, Los Angeles, CA 90032",,895000,2.0,1.0,1153.0,SINGLE_FAMILY
+"4406 Berenice Ave, Los Angeles, CA 90031",,970001,1.0,1.0,856.0,SINGLE_FAMILY
+"926 W Kensington Rd, Los Angeles, CA 90026",,1770000,4.0,2.0,2683.0,SINGLE_FAMILY
+"881 Mount Washington Dr, Los Angeles, CA 90065",,1360000,3.0,3.0,2682.0,SINGLE_FAMILY
+"4819 Glenalbyn Dr, Los Angeles, CA 90065",,1000000,3.0,2.0,1140.0,SINGLE_FAMILY
+"555 N Irving Blvd, Los Angeles, CA 90004",,2060000,3.0,3.0,1469.0,SINGLE_FAMILY
+"842 N McCadden Pl, Los Angeles, CA 90038",,1310000,8.0,4.0,2091.0,MULTI_FAMILY
+"901 N Alexandria Ave, Los Angeles, CA 90029",,875000,3.0,2.0,1991.0,SINGLE_FAMILY
+"7250 Franklin Ave UNIT 107, Los Angeles, CA 90046",,742500,2.0,2.0,1260.0,CONDO
+"1615 N Laurel Ave APT 112, Los Angeles, CA 90046",,566500,1.0,1.0,844.0,CONDO
+"5698 Holly Oak Dr, Los Angeles, CA 90068",,2700000,4.0,5.0,3986.0,SINGLE_FAMILY
+"2531 N Commonwealth Ave, Los Angeles, CA 90027",,2430000,3.0,3.0,2006.0,SINGLE_FAMILY
+"7726 Dalton Ave, Los Angeles, CA 90047",,745000,4.0,2.0,1292.0,SINGLE_FAMILY
+"823 W 73rd St, Los Angeles, CA 90044",,625000,2.0,2.0,1078.0,SINGLE_FAMILY
+"1254 W 80th St, Los Angeles, CA 90044",,650000,2.0,2.0,1494.0,SINGLE_FAMILY
+"1236 W 81st Pl, Los Angeles, CA 90044",,630000,2.0,1.0,1548.0,SINGLE_FAMILY
+"9116 S Wilton Pl, Los Angeles, CA 90047",,866000,3.0,3.0,1406.0,SINGLE_FAMILY
+"9715 S Hoover St, Los Angeles, CA 90044",,315630,4.0,3.0,1626.0,MULTI_FAMILY
+"1177 Wellesley Ave UNIT 201, Los Angeles, CA 90049",,1280000,3.0,4.0,2178.0,TOWNHOUSE
+"441 S Barrington Ave UNIT 303, Los Angeles, CA 90049",,1400000,2.0,3.0,1314.0,CONDO
+"9419 1/2 N Sepulveda Blvd #1, North Hills, CA 91343",,650000,3.0,3.0,1494.0,CONDO
+"7049 Vassar Ave, Canoga Park, CA 91303",,2850000,13.0,20.0,9883.0,MULTI_FAMILY
+"2205 N Stonewood Ct, San Pedro, CA 90732",,796000,3.0,3.0,1598.0,TOWNHOUSE
+"521 N Via De La Paz, Pacific Palisades, CA 90272",,2550000,,,,LOT
+"905 S Bedford St APT 5, Los Angeles, CA 90035",,4050,3.0,2.0,1500.0,APARTMENT
+"24673 Overland Dr, Canoga Park, CA 91304",,1660000,4.0,3.0,2752.0,SINGLE_FAMILY
+"8204 Clemens Ave, Canoga Park, CA 91304",,1140000,4.0,3.0,2225.0,SINGLE_FAMILY
+"6552 Valley Circle Blvd, West Hills, CA 91307",,945000,3.0,2.0,1250.0,SINGLE_FAMILY
+"5539 Royer Ave, Woodland Hills, CA 91367",,925000,4.0,3.0,2050.0,SINGLE_FAMILY
+"23018 Leonora Dr, Woodland Hills, CA 91367",,1200000,4.0,3.0,1848.0,SINGLE_FAMILY
+"23204 Leonora Dr, Woodland Hills, CA 91367",,985000,3.0,2.0,1523.0,SINGLE_FAMILY
+"4809 Dunman Ave, Woodland Hills, CA 91364",,1430000,3.0,2.0,2080.0,SINGLE_FAMILY
+"6644 Bothwell Rd, Reseda, CA 91335",,715000,3.0,2.0,1295.0,SINGLE_FAMILY
+"6653 Belmar Ave, Reseda, CA 91335",,1050000,3.0,2.0,1092.0,SINGLE_FAMILY
+"20418 Miranda St, Woodland Hills, CA 91367",,1060000,3.0,3.0,1800.0,SINGLE_FAMILY
+"20200 Clark St, Woodland Hills, CA 91367",,1460000,4.0,4.0,2619.0,SINGLE_FAMILY
+"5864 Jamieson Ave, Encino, CA 91316",,1600000,3.0,3.0,1993.0,SINGLE_FAMILY
+"5440 Lindley Ave UNIT 208, Encino, CA 91316",,622500,2.0,2.0,1582.0,CONDO
+"4730 Azucena Rd, Woodland Hills, CA 91364",,3400000,6.0,5.0,5895.0,SINGLE_FAMILY
+"4717 Poe Ave, Woodland Hills, CA 91364",,2230000,3.0,3.0,3136.0,SINGLE_FAMILY
+"4310 Torreon Dr, Woodland Hills, CA 91364",,1110000,3.0,3.0,2122.0,SINGLE_FAMILY
+"7740 Clearfield Ave, Panorama City, CA 91402",,1290000,4.0,3.0,2200.0,SINGLE_FAMILY
+"4753 Noble Ave, Sherman Oaks, CA 91403",,2650000,6.0,6.0,4100.0,SINGLE_FAMILY
+"5757 Sunnyslope Ave, Van Nuys, CA 91401",,825000,2.0,1.0,1033.0,SINGLE_FAMILY
+"10447 Helendale Ave, Tujunga, CA 91042",,855000,2.0,1.0,1042.0,SINGLE_FAMILY
+"6841 Haywood St, Tujunga, CA 91042",,530000,1.0,1.0,524.0,SINGLE_FAMILY
+"10923 Haskell Ave, Granada Hills, CA 91344",,840000,3.0,2.0,1275.0,SINGLE_FAMILY
+"9754 Swinton Ave, North Hills, CA 91343",,1000000,3.0,2.0,2019.0,SINGLE_FAMILY
+"9500 Texhoma Ave, Northridge, CA 91325",,1370000,4.0,3.0,2820.0,SINGLE_FAMILY
+"18763 Sunburst St, Northridge, CA 91324",,850000,3.0,2.0,1486.0,SINGLE_FAMILY
+"7941 Agnew Ave, Los Angeles, CA 90045",,1650000,2.0,2.0,1497.0,SINGLE_FAMILY
+"8319 Berger Ave, Playa Del Rey, CA 90293",,1850000,4.0,3.0,2685.0,SINGLE_FAMILY
+"7135 W 91st St, Los Angeles, CA 90045",,1380000,3.0,2.0,1305.0,SINGLE_FAMILY
+"4360 Glencoe Ave UNIT 2, Marina Del Rey, CA 90292",,1400000,2.0,3.0,1544.0,TOWNHOUSE
+"2432 Cloy Ave, Venice, CA 90291",,1930000,2.0,2.0,1123.0,SINGLE_FAMILY
+"10845 Woodbine St, Los Angeles, CA 90034",,1410000,2.0,1.0,896.0,SINGLE_FAMILY
+"10739 Esther Ave, Los Angeles, CA 90064",,2880000,5.0,3.0,2200.0,SINGLE_FAMILY
+"2577 Wellesley Ave, Los Angeles, CA 90064",,1480000,3.0,1.0,1134.0,SINGLE_FAMILY
+"9017 Alcott St APT 102, Los Angeles, CA 90035",,942500,3.0,2.0,1369.0,CONDO
+"3561 Clarington Ave APT 310, Los Angeles, CA 90034",,699500,2.0,2.0,1039.0,CONDO
+"3627 Keystone Ave APT 2, Los Angeles, CA 90034",,1010000,3.0,3.0,1562.0,TOWNHOUSE
+"2202 Kelton Ave, Los Angeles, CA 90064",,1820000,3.0,3.0,1990.0,SINGLE_FAMILY
+"1505 S Bentley Ave APT 102, Los Angeles, CA 90025",,975000,2.0,2.0,1667.0,CONDO
+"2102 Century Park Ln APT 317, Los Angeles, CA 90067",,1180000,2.0,2.0,1560.0,CONDO
+"2122 Century Park Ln APT 108, Los Angeles, CA 90067",,1450000,3.0,3.0,1903.0,CONDO
+"1229 Smithwood Dr, Los Angeles, CA 90035",,1870000,5.0,3.0,3282.0,MULTI_FAMILY
+"404 S Westgate Ave, Los Angeles, CA 90049",,8900000,5.0,5.0,5061.0,SINGLE_FAMILY
+"403 S Bundy Dr, Los Angeles, CA 90049",,3600000,3.0,3.0,2563.0,SINGLE_FAMILY
+"604 Haverford Ave, Pacific Palisades, CA 90272",,2000000,,,,LOT
+"16327 Akron St, Pacific Palisades, CA 90272",,1050000,,,,LOT
+"1836 Michael Ln, Pacific Palisades, CA 90272",,865000,,,,LOT
+"5382 1/2 Village Grn, Los Angeles, CA 90016",,683000,2.0,1.0,990.0,CONDO
+"2843 Virginia Rd, Los Angeles, CA 90016",,1290000,3.0,2.0,1415.0,SINGLE_FAMILY
+"1841 Clyde Ave, Los Angeles, CA 90019",,930000,2.0,1.0,1027.0,SINGLE_FAMILY
+"1120 S Burnside Ave, Los Angeles, CA 90019",,1450000,3.0,2.0,1756.0,SINGLE_FAMILY
+"800 W 1st St APT 2608, Los Angeles, CA 90012",,940000,4.0,5.0,2906.0,CONDO
+"435 S La Fayette Park Pl UNIT 311, Los Angeles, CA 90057",,639000,2.0,2.0,1445.0,CONDO
+"142 S Savannah St, Los Angeles, CA 90033",,1300000,8.0,4.0,2656.0,MULTI_FAMILY
+"525 Clifton St, Los Angeles, CA 90031",,443000,4.0,2.0,1708.0,MULTI_FAMILY
+"4280 Via Arbolada UNIT 338, Los Angeles, CA 90042",,625500,2.0,2.0,1192.0,CONDO
+"2428 Panorama Ter, Los Angeles, CA 90039",,1410000,2.0,2.0,1568.0,SINGLE_FAMILY
+"3545 The Paseo, Los Angeles, CA 90065",,600000,1.0,1.0,518.0,SINGLE_FAMILY
+"4991 Coringa Dr, Los Angeles, CA 90042",,1270000,3.0,2.0,1993.0,SINGLE_FAMILY
+"4908 Stratford Rd, Los Angeles, CA 90042",,1780000,3.0,2.0,1624.0,SINGLE_FAMILY
+"5928 Meridian St, Los Angeles, CA 90042",,1070000,2.0,1.0,1200.0,SINGLE_FAMILY
+"5051 Rosewood Ave APT 206, Los Angeles, CA 90004",,630000,2.0,2.0,1055.0,CONDO
+"1940 N Highland Ave APT 25, Los Angeles, CA 90068",,490000,2.0,2.0,980.0,CONDO
+"2307 El Contento Dr, Los Angeles, CA 90068",,2000000,4.0,4.0,1955.0,SINGLE_FAMILY
+"4649 W Avenue 40, Los Angeles, CA 90065",,1020000,4.0,2.0,2182.0,SINGLE_FAMILY
+"1335 W 68th St, Los Angeles, CA 90044",,450000,1.0,1.0,782.0,SINGLE_FAMILY
+"205 W 98th St, Los Angeles, CA 90003",,415000,3.0,2.0,1472.0,SINGLE_FAMILY
+"1414 260th St UNIT 5, Harbor City, CA 90710",,467500,2.0,2.0,1119.0,CONDO
+"1036 N Fries Ave, Wilmington, CA 90744",,525000,2.0,1.0,900.0,SINGLE_FAMILY
+"2275 Stonewood Ct, San Pedro, CA 90732",,810000,4.0,3.0,1736.0,TOWNHOUSE
+"994 W 7th St, San Pedro, CA 90731",,1480000,10.0,8.0,5878.0,MULTI_FAMILY
+"3311 S Carolina St, San Pedro, CA 90731",,680000,1.0,1.0,648.0,SINGLE_FAMILY
+"16710 Nicklaus Dr UNIT 73, Sylmar, CA 91342",,640000,3.0,3.0,1620.0,TOWNHOUSE
+"1850 Upperton Ave, Los Angeles, CA 90042",,1900000,4.0,3.0,2396.0,SINGLE_FAMILY
+"1100 Wilshire Blvd APT 2902, Los Angeles, CA 90017",,925000,2.0,2.0,1765.0,CONDO
+"1050 S Grand Ave UNIT 1208, Los Angeles, CA 90015",,670000,1.0,1.0,840.0,CONDO
+"14708 Sherman Way, Van Nuys, CA 91405",,842000,4.0,4.0,2100.0,SINGLE_FAMILY
+"8250 Lankershim Blvd #8, North Hollywood, CA 91605",,189950,3.0,2.0,800.0,MANUFACTURED
+"4715 S La Villa Marina #B, Marina Del Rey, CA 90292",,1380000,3.0,3.0,1582.0,TOWNHOUSE
+"10580 Wilshire Blvd #PENTHOUSE 26, Los Angeles, CA 90024",,10600000,3.0,6.0,4489.0,CONDO
+"317 W 56th St, Los Angeles, CA 90037",,1820000,1.0,1.0,5528.0,MULTI_FAMILY
+"115 E 116th Pl, Los Angeles, CA 90061",,1300000,9.0,6.0,3326.0,MULTI_FAMILY
+"849 S Broadway #1006, Los Angeles, CA 90014",,750000,1.0,1.0,1130.0,CONDO
+"11296 Brookhaven Ave, Los Angeles, CA 90064",,3100000,12.0,12.0,6292.0,MULTI_FAMILY
+"10714 Sutter Ave, Pacoima, CA 91331",,1250000,2.0,1.0,4960.0,MULTI_FAMILY
+"8051 Bobbyboyar Ave, West Hills, CA 91304",,1100000,4.0,3.0,2047.0,SINGLE_FAMILY
+"5908 Vista De La Luz, Woodland Hills, CA 91367",,2049999,4.0,3.0,3689.0,SINGLE_FAMILY
+"22925 Styles St, Woodland Hills, CA 91367",,1150000,4.0,3.0,2362.0,SINGLE_FAMILY
+"22816 Califa St, Woodland Hills, CA 91367",,1350000,3.0,2.0,1648.0,SINGLE_FAMILY
+"4701 Deseret Dr, Woodland Hills, CA 91364",,1650000,3.0,3.0,2630.0,SINGLE_FAMILY
+"18405 Collins St UNIT C, Tarzana, CA 91356",,555000,2.0,3.0,1659.0,CONDO
+"5834 Balcom Ave, Encino, CA 91316",,825000,2.0,1.0,781.0,SINGLE_FAMILY
+"4352 Saltillo St, Woodland Hills, CA 91364",,940000,2.0,1.0,1102.0,SINGLE_FAMILY
+"4335 Chaumont Rd, Woodland Hills, CA 91364",,2049999,4.0,4.0,2618.0,SINGLE_FAMILY
+"16144 Gilmore St, Van Nuys, CA 91406",,645000,3.0,1.0,1085.0,SINGLE_FAMILY
+"15150 Dickens St APT 203, Sherman Oaks, CA 91403",,580000,2.0,2.0,1734.0,CONDO
+"3610 Westfall Dr, Encino, CA 91436",,4250000,6.0,8.0,6200.0,SINGLE_FAMILY
+"5663 Case Ave, North Hollywood, CA 91601",,3900000,25.0,22.0,9722.0,MULTI_FAMILY
+"5739 Colfax Ave, North Hollywood, CA 91601",,905400,2.0,2.0,1498.0,SINGLE_FAMILY
+"5425 Strohm Ave, North Hollywood, CA 91601",,875000,2.0,1.0,926.0,SINGLE_FAMILY
+"14906 Chatsworth Dr, Mission Hills, CA 91345",,1550000,3.0,1.0,960.0,SINGLE_FAMILY
+"9525 Stanwin Ave, Pacoima, CA 91331",,680000,3.0,2.0,1584.0,SINGLE_FAMILY
+"13415 Bryson St, Panorama City, CA 91402",,900000,4.0,3.0,2164.0,SINGLE_FAMILY
+"9551 Sepulveda Blvd UNIT 4, North Hills, CA 91343",,525000,2.0,2.0,956.0,TOWNHOUSE
+"16701 Chatsworth St, Granada Hills, CA 91344",,825000,4.0,3.0,1510.0,SINGLE_FAMILY
+"20830 Parthenia St, Winnetka, CA 91306",,1340000,4.0,4.0,2935.0,SINGLE_FAMILY
+"3322 W 66th St, Los Angeles, CA 90043",,1250000,4.0,3.0,1521.0,SINGLE_FAMILY
+"6129 W 76th St, Los Angeles, CA 90045",,1600000,3.0,2.0,1440.0,SINGLE_FAMILY
+"7838 Stewart Ave, Los Angeles, CA 90045",,2000000,3.0,3.0,1656.0,SINGLE_FAMILY
+"7363 W 87th Pl, Los Angeles, CA 90045",,1700000,4.0,3.0,1867.0,SINGLE_FAMILY
+"522 Altair Pl, Venice, CA 90291",,1720000,2.0,3.0,1267.0,SINGLE_FAMILY
+"3113 Mountain View Ave, Los Angeles, CA 90066",,2300000,3.0,1.0,1157.0,SINGLE_FAMILY
+"2758 Butler Ave, Los Angeles, CA 90064",,1290000,3.0,1.0,1073.0,SINGLE_FAMILY
+"2224 Guthrie Dr, Los Angeles, CA 90034",,5000000,6.0,5.0,5129.0,SINGLE_FAMILY
+"1440 Veteran Ave APT 241, Los Angeles, CA 90024",,550000,1.0,1.0,693.0,CONDO
+"1665 Summitridge Dr, Beverly Hills, CA 90210",,4750000,4.0,5.0,4825.0,SINGLE_FAMILY
+"11736 Gwynne Ln, Los Angeles, CA 90077",,2850000,3.0,3.0,2614.0,SINGLE_FAMILY
+"410 Via De La Paz, Pacific Palisades, CA 90272",,2690000,,,,LOT
+"1159 Monument St, Pacific Palisades, CA 90272",,2340000,,,,LOT
+"5325 S Victoria Ave, Los Angeles, CA 90043",,1540000,4.0,4.0,2110.0,MULTI_FAMILY
+"1153 S Alfred St, Los Angeles, CA 90035",,1630000,3.0,2.0,2123.0,SINGLE_FAMILY
+"400 S La Fayette Park Pl APT 102, Los Angeles, CA 90057",,529000,2.0,2.0,1238.0,CONDO
+"1557 Curran St, Los Angeles, CA 90026",,1130000,3.0,2.0,2450.0,SINGLE_FAMILY
+"1947 Whitmore Ave, Los Angeles, CA 90039",,718500,1.0,1.0,576.0,SINGLE_FAMILY
+"4042 Marchena Dr, Los Angeles, CA 90065",,2120000,4.0,3.0,2492.0,SINGLE_FAMILY
+"5336 Stratford Rd, Los Angeles, CA 90042",,1170000,3.0,2.0,1080.0,SINGLE_FAMILY
+"825 N Hobart Blvd, Los Angeles, CA 90029",,1830000,13.0,7.0,4312.0,MULTI_FAMILY
+"532 N Virgil Ave, Los Angeles, CA 90004",,1420000,2.0,2.0,1620.0,SINGLE_FAMILY
+"1600 N Hobart Blvd APT 11, Los Angeles, CA 90027",,450000,1.0,1.0,800.0,CONDO
+"4843 Genevieve Ave, Los Angeles, CA 90041",,1100000,4.0,2.0,1670.0,SINGLE_FAMILY
+"531 W 61st St, Los Angeles, CA 90044",,600000,2.0,1.0,1016.0,SINGLE_FAMILY
+"12760 Judd St, Pacoima, CA 91331",,750000,5.0,3.0,1630.0,SINGLE_FAMILY
+"2919 Gleneden St, Los Angeles, CA 90039",,1130000,3.0,2.0,1484.0,SINGLE_FAMILY
+"2011 Cummings Dr, Los Angeles, CA 90027",,6580000,5.0,7.0,5639.0,SINGLE_FAMILY
+"13044 Pacific Promenade APT 420, Playa Vista, CA 90094",,1490000,2.0,3.0,1482.0,CONDO
+"20234 Cohasset St UNIT 3, Winnetka, CA 91306",,435000,2.0,2.0,1040.0,CONDO
+"11806 N Ricasoli Way, Porter Ranch, CA 91326",,1310000,3.0,3.0,2251.0,SINGLE_FAMILY
+"15237 De Pauw St, Pacific Palisades, CA 90272",,500000,,,,LOT
+"11312 Huston St #6, North Hollywood, CA 91601",,3395,3.0,3.0,1325.0,APARTMENT
+"20409 W Esmerelda Ln, Northridge, CA 91326",,1690000,4.0,5.0,3295.0,SINGLE_FAMILY
+"6030 S Seabluff Dr APT 413, Los Angeles, CA 90094",,1400000,3.0,2.0,1280.0,CONDO
+"7940 Stansbury Ave, Panorama City, CA 91402",,4000,3.0,2.0,1300.0,SINGLE_FAMILY
+"12131 Beaufait Ave, Porter Ranch, CA 91326",,5500,4.0,2.0,2094.0,SINGLE_FAMILY
+"3640 Cardiff Ave APT 110, Los Angeles, CA 90034",,3400,2.0,2.0,907.0,APARTMENT
+"9955 Westwanda Dr, Beverly Hills, CA 90210",,2110000,3.0,2.0,2478.0,SINGLE_FAMILY
+"3960 Westside Ave, Los Angeles, CA 90008",,1230000,3.0,2.0,1816.0,SINGLE_FAMILY
+"5510 Owensmouth Ave APT 313, Woodland Hills, CA 91367",,500000,2.0,2.0,920.0,CONDO
+"8719 Woodley Ave SUITE B, North Hills, CA 91343",,2880,,0.0,860.0,SINGLE_FAMILY
+"16404 Donmetz St, Granada Hills, CA 91344",,2500,1.0,1.0,640.0,SINGLE_FAMILY
+"1480 Vine St APT 401, Los Angeles, CA 90028",,5665,2.0,2.0,1110.0,APARTMENT
+"18620 Hatteras St UNIT 276, Tarzana, CA 91356",,2200,2.0,2.0,910.0,APARTMENT
+"15632 Viewridge Ln #36, Granada Hills, CA 91344",,515500,2.0,3.0,1371.0,CONDO
+"1454 W 28th St, Los Angeles, CA 90007",,1030000,4.0,1.0,2601.0,SINGLE_FAMILY
+"243 E 29th St, Los Angeles, CA 90011",,649000,6.0,3.0,2215.0,MULTI_FAMILY
+"3340 E 1st St, Los Angeles, CA 90063",,649000,2.0,3.0,912.0,SINGLE_FAMILY
+"23240 Leonora Dr, Woodland Hills, CA 91367",,1650000,5.0,5.0,2500.0,SINGLE_FAMILY
+"20347 Runnymede St, Winnetka, CA 91306",,3200,2.0,2.0,996.0,SINGLE_FAMILY
+"14200 Polk St UNIT 52, Sylmar, CA 91342",,545000,3.0,2.0,1179.0,CONDO
+"14594 Dyer St, Sylmar, CA 91342",,695000,3.0,2.0,1569.0,SINGLE_FAMILY
+"2548 Angelo Dr, Los Angeles, CA 90077",,1900000,3.0,3.0,2867.0,CONDO
+"5150 Raleigh St, Los Angeles, CA 90004",,975000,5.0,3.0,2507.0,MULTI_FAMILY
+"5329 Shirley Ave, Tarzana, CA 91356",,2600000,4.0,5.0,4450.0,SINGLE_FAMILY
+"879 W 18th St #3, San Pedro, CA 90731",,450000,,,,LOT
+"7800 Topanga Canyon Blvd APT 323, Canoga Park, CA 91304",,399000,2.0,2.0,1036.0,CONDO
+"22525 Sherman Way UNIT 1201, Los Angeles, CA 91307",,650000,3.0,3.0,1633.0,TOWNHOUSE
+"22854 Sherman Way, West Hills, CA 91307",,830750,3.0,2.0,1358.0,SINGLE_FAMILY
+"7008 Scarborough Peak Dr, West Hills, CA 91307",,1020000,4.0,3.0,1690.0,SINGLE_FAMILY
+"20554 Valerio St, Winnetka, CA 91306",,795000,3.0,2.0,1616.0,SINGLE_FAMILY
+"5715 Cahill Ave, Tarzana, CA 91356",,1090000,3.0,2.0,1479.0,SINGLE_FAMILY
+"18600 Clark St UNIT 102, Tarzana, CA 91356",,460000,2.0,2.0,1200.0,CONDO
+"18854 Edleen Dr, Tarzana, CA 91356",,1710000,4.0,3.0,2701.0,SINGLE_FAMILY
+"4314 Coronet Dr, Encino, CA 91316",,1760000,3.0,2.0,2591.0,SINGLE_FAMILY
+"14202 Lanark St, Panorama City, CA 91402",,880000,5.0,4.0,1850.0,SINGLE_FAMILY
+"7801 Clearfield Ave, Panorama City, CA 91402",,770000,4.0,2.0,1520.0,SINGLE_FAMILY
+"6913 Bevis Ave, Van Nuys, CA 91405",,770000,3.0,2.0,2109.0,SINGLE_FAMILY
+"14741 Killion St, Van Nuys, CA 91411",,1030000,2.0,1.0,1060.0,SINGLE_FAMILY
+"5437 Noble Ave, Sherman Oaks, CA 91411",,2300000,4.0,4.0,2268.0,SINGLE_FAMILY
+"5460 White Oak Ave UNIT A118, Los Angeles, CA 91316",,220000,1.0,1.0,683.0,CONDO
+"4747 Firmament Ave, Encino, CA 91436",,1450000,3.0,3.0,1515.0,SINGLE_FAMILY
+"4634 Vesper Ave, Sherman Oaks, CA 91403",,2880000,5.0,6.0,3764.0,SINGLE_FAMILY
+"14332 Roblar Pl, Sherman Oaks, CA 91423",,2210000,4.0,2.0,2551.0,SINGLE_FAMILY
+"4348 Mammoth Ave APT 102, Sherman Oaks, CA 91423",,4000,2.0,3.0,1601.0,CONDO
+"6910 Bellaire Ave, North Hollywood, CA 91605",,865000,4.0,3.0,1764.0,SINGLE_FAMILY
+"6006 Sunnyslope Ave, Van Nuys, CA 91401",,1450000,4.0,3.0,2264.0,SINGLE_FAMILY
+"6050 Vantage Ave, North Hollywood, CA 91606",,920000,3.0,3.0,1480.0,SINGLE_FAMILY
+"11554 Haynes St, North Hollywood, CA 91606",,1200000,7.0,5.0,2862.0,MULTI_FAMILY
+"11925 Tiara St, Valley Village, CA 91607",,1180000,3.0,3.0,1853.0,SINGLE_FAMILY
+"12806 Tiara St, Valley Village, CA 91607",,1000000,3.0,2.0,1470.0,SINGLE_FAMILY
+"12144 Blix St, Valley Village, CA 91607",,1600000,3.0,3.0,2333.0,SINGLE_FAMILY
+"4739 Ventura Canyon Ave, Sherman Oaks, CA 91423",,2020000,4.0,4.0,2775.0,SINGLE_FAMILY
+"4223 Wilkinson Ave, Studio City, CA 91604",,1800000,3.0,2.0,1621.0,SINGLE_FAMILY
+"9436 Via Monique, Burbank, CA 91504",,875000,3.0,3.0,1602.0,TOWNHOUSE
+"7552 Bloomington Ave, Burbank, CA 91504",,780000,3.0,2.0,1234.0,SINGLE_FAMILY
+"4936 Strohm Ave, Toluca Lake, CA 91601",,3480000,6.0,7.0,4381.0,SINGLE_FAMILY
+"4445 Cartwright Ave APT 207, North Hollywood, CA 91602",,566250,2.0,2.0,1322.0,CONDO
+"15428 Roxford St, Sylmar, CA 91342",,1300000,3.0,3.0,1617.0,SINGLE_FAMILY
+"14739 Ararat St, Sylmar, CA 91342",,660000,3.0,2.0,1118.0,SINGLE_FAMILY
+"11568 Luanda St, Sylmar, CA 91342",,840000,3.0,3.0,1600.0,SINGLE_FAMILY
+"9231 Ledge Ave, Sun Valley, CA 91352",,1200000,5.0,3.0,2830.0,SINGLE_FAMILY
+"7632 McGroarty St, Tujunga, CA 91042",,987000,3.0,3.0,2867.0,SINGLE_FAMILY
+"14016 Candlewood Dr, Sylmar, CA 91342",,822000,3.0,2.0,1292.0,SINGLE_FAMILY
+"16827 Bircher St, Granada Hills, CA 91344",,1140000,4.0,2.0,1795.0,SINGLE_FAMILY
+"10838 Burnet Ave, Mission Hills, CA 91345",,1190000,6.0,4.0,2524.0,SINGLE_FAMILY
+"9006 Patrick Ave, Pacoima, CA 91331",,781000,3.0,2.0,1264.0,SINGLE_FAMILY
+"9436 Natick Ave, North Hills, CA 91343",,830000,4.0,2.0,1864.0,SINGLE_FAMILY
+"8800 Cedros Ave APT 210, Panorama City, CA 91402",,275000,1.0,1.0,643.0,CONDO
+"10217 Lemona Ave, Mission Hills, CA 91345",,1100000,3.0,2.0,1819.0,SINGLE_FAMILY
+"9947 Norwich Ave, Mission Hills, CA 91345",,665000,3.0,2.0,1246.0,SINGLE_FAMILY
+"9946 Ruffner Ave, North Hills, CA 91343",,913500,4.0,3.0,2000.0,SINGLE_FAMILY
+"16901 Kinzie St, Northridge, CA 91343",,1170000,4.0,2.0,2024.0,SINGLE_FAMILY
+"16625 Dearborn St, North Hills, CA 91343",,860000,4.0,3.0,1901.0,SINGLE_FAMILY
+"17027 Simonds St, Granada Hills, CA 91344",,965000,5.0,3.0,2574.0,SINGLE_FAMILY
+"11787 Oakhurst Way, Porter Ranch, CA 91326",,1230000,5.0,3.0,2591.0,SINGLE_FAMILY
+"22331 Mission Cir, Chatsworth, CA 91311",,675000,3.0,3.0,1586.0,TOWNHOUSE
+"10206 Oklahoma Ave UNIT D, Chatsworth, CA 91311",,570000,2.0,2.0,1155.0,TOWNHOUSE
+"20657 Septo St, Chatsworth, CA 91311",,775000,5.0,3.0,2201.0,SINGLE_FAMILY
+"8449 Melvin Ave, Northridge, CA 91324",,975000,2.0,3.0,2324.0,SINGLE_FAMILY
+"11730 Preston Trails Ave, Porter Ranch, CA 91326",,1290000,3.0,2.0,2093.0,SINGLE_FAMILY
+"2609 Hyde Park Blvd, Los Angeles, CA 90043",,597000,2.0,1.0,815.0,SINGLE_FAMILY
+"8601 Falmouth Ave APT 404, Playa Del Rey, CA 90293",,640000,1.0,2.0,855.0,CONDO
+"4351 Redwood Ave UNIT 6, Marina Del Rey, CA 90292",,1160000,2.0,2.0,1057.0,TOWNHOUSE
+"13236 Fiji Way UNIT D, Los Angeles, CA 90292",,1350000,3.0,3.0,1763.0,TOWNHOUSE
+"11 19th Ave, Venice, CA 90291",,2600000,4.0,5.0,2724.0,MULTI_FAMILY
+"20 19th Ave, Venice, CA 90291",,1630000,4.0,4.0,2328.0,MULTI_FAMILY
+"2918 Sanborn Ave, Venice, CA 90291",,1670000,3.0,3.0,1076.0,SINGLE_FAMILY
+"4066 Tivoli Ave, Los Angeles, CA 90066",,1890000,4.0,3.0,1851.0,SINGLE_FAMILY
+"4040 Grand View Blvd UNIT 7, Los Angeles, CA 90066",,765000,2.0,2.0,841.0,CONDO
+"2031 Glyndon Ave, Venice, CA 90291",,2290000,2.0,2.0,935.0,SINGLE_FAMILY
+"3731 Wasatch Ave, Los Angeles, CA 90066",,4780000,5.0,5.0,4154.0,SINGLE_FAMILY
+"11925 Charnock Rd, Los Angeles, CA 90066",,2650000,5.0,5.0,3761.0,SINGLE_FAMILY
+"10806 Esther Ave, Los Angeles, CA 90064",,1680000,4.0,2.0,1496.0,SINGLE_FAMILY
+"2170 Linnington Ave, Los Angeles, CA 90025",,1510000,3.0,3.0,1692.0,SINGLE_FAMILY
+"10346 Louisiana Ave, Los Angeles, CA 90025",,4700000,4.0,5.0,3957.0,SINGLE_FAMILY
+"1612 Gilcrest Dr, Beverly Hills, CA 90210",,2650000,2.0,2.0,1766.0,SINGLE_FAMILY
+"969 Hilgard Ave APT 703, Los Angeles, CA 90024",,560000,1.0,1.0,778.0,CONDO
+"1006 N Beverly Glen Blvd, Los Angeles, CA 90077",,875000,2.0,1.0,994.0,SINGLE_FAMILY
+"456 N Bowling Green Way, Los Angeles, CA 90049",,10300000,5.0,7.0,7246.0,SINGLE_FAMILY
+"1124 Napoli Dr, Pacific Palisades, CA 90272",,25800000,5.0,6.0,10568.0,SINGLE_FAMILY
+"345 W Channel Rd, Santa Monica, CA 90402",,10200000,5.0,7.0,,SINGLE_FAMILY
+"207 Tranquillo Rd, Pacific Palisades, CA 90272",,1670000,,,,LOT
+"857 Castac Pl, Pacific Palisades, CA 90272",,1100000,,,,LOT
+"1224 El Hito Cir, Pacific Palisades, CA 90272",,2430000,5.0,2.0,2136.0,SINGLE_FAMILY
+"950 Galloway St, Pacific Palisades, CA 90272",,1560000,,,,LOT
+"16795 Monte Hermoso Dr, Pacific Palisades, CA 90272",,2800000,3.0,4.0,3421.0,SINGLE_FAMILY
+"1490 W 51st St, Los Angeles, CA 90062",,540000,2.0,1.0,1248.0,SINGLE_FAMILY
+"4170 4th Ave, Los Angeles, CA 90008",,750000,3.0,2.0,1450.0,SINGLE_FAMILY
+"3980 Cherrywood Ave, Los Angeles, CA 90008",,877500,2.0,1.0,1445.0,SINGLE_FAMILY
+"3904 Dalton Ave, Los Angeles, CA 90062",,550000,3.0,2.0,1480.0,SINGLE_FAMILY
+"3501 Hillcrest Dr, Los Angeles, CA 90016",,1360000,4.0,3.0,1522.0,SINGLE_FAMILY
+"5703 Clemson St, Los Angeles, CA 90016",,450000,2.0,1.0,785.0,CONDO
+"3010 11th Ave, Los Angeles, CA 90018",,885000,2.0,1.0,1092.0,SINGLE_FAMILY
+"2709 S Harcourt Ave, Los Angeles, CA 90016",,1430000,3.0,2.0,1252.0,SINGLE_FAMILY
+"2829 Blanchard St, Los Angeles, CA 90033",,425000,3.0,2.0,1444.0,MULTI_FAMILY
+"5361 Oakland St, Los Angeles, CA 90032",,1080000,3.0,2.0,1461.0,SINGLE_FAMILY
+"3523 Winchester Ave, Los Angeles, CA 90032",,1150000,3.0,2.0,2243.0,SINGLE_FAMILY
+"3400 Carnation Ave, Los Angeles, CA 90026",,2500000,4.0,3.0,2468.0,SINGLE_FAMILY
+"4132 Cumberland Ave, Los Angeles, CA 90027",,1240000,2.0,1.0,752.0,SINGLE_FAMILY
+"3210 Windsor Ave, Los Angeles, CA 90039",,1400000,2.0,2.0,1059.0,SINGLE_FAMILY
+"2006 El Moran St, Los Angeles, CA 90039",,1210000,1.0,1.0,949.0,SINGLE_FAMILY
+"2560 Hyler Ave, Los Angeles, CA 90041",,1310000,3.0,2.0,1192.0,SINGLE_FAMILY
+"446 N Croft Ave, Los Angeles, CA 90048",,4220000,6.0,7.0,4200.0,SINGLE_FAMILY
+"616 N Gower St, Los Angeles, CA 90004",,2350000,5.0,5.0,2415.0,SINGLE_FAMILY
+"8021 Floral Ave, Los Angeles, CA 90046",,3720000,4.0,5.0,3282.0,SINGLE_FAMILY
+"3480 Barham Blvd APT 105, Los Angeles, CA 90068",,630000,2.0,2.0,1129.0,CONDO
+"4325 Price St, Los Angeles, CA 90027",,1100000,3.0,2.0,1620.0,SINGLE_FAMILY
+"3360 Ley Dr, Los Angeles, CA 90027",,2730000,4.0,4.0,3420.0,SINGLE_FAMILY
+"4022 Goodwin Ave, Los Angeles, CA 90039",,975000,5.0,4.0,2736.0,MULTI_FAMILY
+"5337 La Roda Ave, Los Angeles, CA 90041",,1900000,3.0,2.0,2346.0,SINGLE_FAMILY
+"1626 W 60th Pl, Los Angeles, CA 90047",,511000,2.0,1.0,900.0,SINGLE_FAMILY
+"424 E 61st St, Los Angeles, CA 90003",,480000,4.0,3.0,1740.0,MULTI_FAMILY
+"822 W 65th St, Los Angeles, CA 90044",,920000,4.0,3.0,1738.0,MULTI_FAMILY
+"2126 W 77th St, Los Angeles, CA 90047",,665000,3.0,2.0,1374.0,SINGLE_FAMILY
+"234 E 81st St, Los Angeles, CA 90003",,502777,2.0,1.0,668.0,SINGLE_FAMILY
+"536 W Century Blvd, Los Angeles, CA 90044",,875000,7.0,3.0,2711.0,MULTI_FAMILY
+"962 E Lanzit Ave, Los Angeles, CA 90059",,505000,3.0,2.0,1170.0,SINGLE_FAMILY
+"17321 Merit Ave, Gardena, CA 90247",,710000,3.0,2.0,1395.0,SINGLE_FAMILY
+"1509 W 207th St, Torrance, CA 90501",,820000,4.0,3.0,1758.0,TOWNHOUSE
+"1220 W L St, Wilmington, CA 90744",,950000,4.0,2.0,2660.0,SINGLE_FAMILY
+"23510 Kentworthy Ave, Harbor City, CA 90710",,895000,4.0,2.0,1574.0,SINGLE_FAMILY
+"426 N Pacific Ave, San Pedro, CA 90731",,890000,4.0,3.0,1864.0,SINGLE_FAMILY
+"348 S Hamilton Ave, San Pedro, CA 90732",,720000,1.0,1.0,624.0,SINGLE_FAMILY
+"3500 S Peck Ave APT 2, San Pedro, CA 90731",,700000,2.0,2.0,1238.0,CONDO
+"1847 El Rey Rd, San Pedro, CA 90732",,1240000,3.0,2.0,1977.0,SINGLE_FAMILY
+"8944 Megan Ave, Canoga Park, CA 91304",,950000,4.0,2.0,1818.0,SINGLE_FAMILY
+"10982 Roebling Ave APT 338, Los Angeles, CA 90024",,455000,0.0,1.0,502.0,CONDO
+"1435 Lomita Blvd APT 103, Harbor City, CA 90710",,700000,3.0,2.0,1670.0,CONDO
+"630 W 6th St APT 410, Los Angeles, CA 90017",,450000,2.0,2.0,810.0,CONDO
+"21450 Burbank Blvd APT 311, Woodland Hills, CA 91367",,540000,2.0,2.0,910.0,CONDO
+"14114 Almetz Cir, Sylmar, CA 91342",,730000,3.0,3.0,2050.0,SINGLE_FAMILY
+"8960 Telfair Ave, Sun Valley, CA 91352",,920000,4.0,3.0,1959.0,SINGLE_FAMILY
+"1155 S Grand Ave APT 305, Los Angeles, CA 90015",,585000,1.0,1.0,1050.0,CONDO
+"3740 Santa Rosalia Dr #408, Los Angeles, CA 90008",,555000,2.0,2.0,1000.0,CONDO
+"333 S Mapleton Dr, Los Angeles, CA 90024",,13500000,,,,LOT
+"21301 Erwin St UNIT 413, Woodland Hills, CA 91367",,625000,2.0,2.0,1050.0,CONDO
+"7100 Alvern St APT 114, Los Angeles, CA 90045",,675000,2.0,2.0,1130.0,CONDO
+"11633 Chenault St UNIT 203, Los Angeles, CA 90049",,1150000,2.0,3.0,1660.0,CONDO
+"17657 W Murphy Ln, Northridge, CA 91325",,900000,4.0,4.0,1846.0,SINGLE_FAMILY
+"20621 W Chestnut Cir, Porter Ranch, CA 91326",,1200000,4.0,3.0,2189.0,SINGLE_FAMILY
+"746 S Los Angeles St APT 706, Los Angeles, CA 90014",,412000,1.0,1.0,770.0,CONDO
+"8307 S Figueroa St, Los Angeles, CA 90003",,2120000,18.0,10.0,7584.0,MULTI_FAMILY
+"2332 S Bentley Ave, Los Angeles, CA 90064",,6300000,25.0,29.0,17974.0,MULTI_FAMILY
+"4201 Topanga Canyon Blvd #31, Woodland Hills, CA 91364",,385000,2.0,2.0,1250.0,MANUFACTURED
+"5014 Whitsett Ave, Valley Village, CA 91607",,2850000,12.0,18.0,6992.0,MULTI_FAMILY
+"18621 Saticoy St, Reseda, CA 91335",,6330000,58.0,50.0,22154.0,MULTI_FAMILY
+"145 E Avenue 35 APT 7, Los Angeles, CA 90031",,700000,11.0,9.0,3778.0,MULTI_FAMILY
+"12027 Red Hawk Ln, Porter Ranch, CA 91326",,2800000,4.0,5.0,4107.0,SINGLE_FAMILY
+"2280 W 24th St, Los Angeles, CA 90018",,1700000,6.0,5.0,4114.0,SINGLE_FAMILY
+"11204 S Broadway, Los Angeles, CA 90061",,2850000,41.0,23.0,17516.0,MULTI_FAMILY
+"5742 Hazeltine Ave, Van Nuys, CA 91401",,1240000,12.0,10.0,5708.0,MULTI_FAMILY
+"1416 W Rolland Curtis Pl, Los Angeles, CA 90062",,1430000,10.0,6.0,3709.0,MULTI_FAMILY
+"6137 N Paseo La Vis, Woodland Hills, CA 91367",,1980000,5.0,4.0,3366.0,SINGLE_FAMILY
+"1458-1460 W 80th St, Los Angeles, CA 90047",,1050000,6.0,3.0,2684.0,MULTI_FAMILY
+"4505 Santa Rosalia Dr, Los Angeles, CA 90008",,2400000,15.0,16.0,14006.0,MULTI_FAMILY
+"8323 Blackburn Ave, Los Angeles, CA 90048",,2600000,16.0,9.0,9576.0,MULTI_FAMILY
+"1 Century Dr UNIT 19B, Los Angeles, CA 90067",,5300000,3.0,5.0,3520.0,CONDO
+"20526 Overlook Ct, Porter Ranch, CA 91326",,2200000,5.0,5.0,3873.0,SINGLE_FAMILY
+"20326 W Liverpool Way, Porter Ranch, CA 91326",,2970000,5.0,6.0,4618.0,SINGLE_FAMILY
+"1631 Champlain Ter, Los Angeles, CA 90026",,1340000,4.0,2.0,1952.0,SINGLE_FAMILY
+"902 El Medio Ave, Pacific Palisades, CA 90272",,9995,4.0,3.0,2759.0,SINGLE_FAMILY
+"6179 Platt Ave, Woodland Hills, CA 91367",,815000,3.0,2.0,1160.0,SINGLE_FAMILY
+"6225 Shoup Ave UNIT 111, Woodland Hills, CA 91367",,525000,1.0,2.0,1032.0,TOWNHOUSE
+"23414 Clarendon St, Woodland Hills, CA 91367",,1700000,5.0,4.0,3426.0,SINGLE_FAMILY
+"23309 Ladrillo St, Woodland Hills, CA 91367",,1650000,4.0,3.0,2085.0,SINGLE_FAMILY
+"20934 Vose St, Canoga Park, CA 91303",,717500,3.0,2.0,1228.0,SINGLE_FAMILY
+"18411 Hatteras St UNIT 235, Tarzana, CA 91356",,499999,2.0,2.0,964.0,TOWNHOUSE
+"21228 Martinez St, Woodland Hills, CA 91364",,958000,2.0,2.0,1285.0,SINGLE_FAMILY
+"4324 Natoma Ave, Woodland Hills, CA 91364",,1450000,4.0,3.0,2383.0,SINGLE_FAMILY
+"15511 Sherman Way APT 25, Los Angeles, CA 91406",,490000,3.0,2.0,1142.0,CONDO
+"6601 Burnet Ave, Van Nuys, CA 91405",,860000,3.0,2.0,1386.0,SINGLE_FAMILY
+"14259 Hatteras St, Van Nuys, CA 91401",,1550000,4.0,5.0,2412.0,SINGLE_FAMILY
+"17150 Burbank Blvd UNIT 34, Encino, CA 91316",,680000,2.0,3.0,2089.0,CONDO
+"5460 White Oak Ave UNIT F201, Los Angeles, CA 91316",,230000,1.0,1.0,683.0,CONDO
+"4632 Lemona Ave, Sherman Oaks, CA 91403",,1500000,4.0,3.0,1700.0,SINGLE_FAMILY
+"12251 Hartsook St, Valley Village, CA 91607",,2560000,4.0,4.0,2669.0,SINGLE_FAMILY
+"4311 Greenbush Ave, Sherman Oaks, CA 91423",,1470000,3.0,2.0,1449.0,SINGLE_FAMILY
+"12427 Landale St, Studio City, CA 91604",,2100000,4.0,4.0,2840.0,SINGLE_FAMILY
+"4500 Whitsett Ave UNIT 5, Studio City, CA 91604",,760000,2.0,2.0,1439.0,CONDO
+"4115 Shadyglade Ave, Studio City, CA 91604",,4250000,5.0,6.0,4330.0,SINGLE_FAMILY
+"7807 Arvilla Ave, Sun Valley, CA 91352",,800000,3.0,3.0,1183.0,SINGLE_FAMILY
+"10852 Otsego St, North Hollywood, CA 91601",,840000,3.0,1.0,967.0,SINGLE_FAMILY
+"15301 Larkspur St, Sylmar, CA 91342",,1050000,4.0,3.0,1924.0,SINGLE_FAMILY
+"13421 Hubbard St UNIT 127, Sylmar, CA 91342",,620000,3.0,3.0,1795.0,CONDO
+"10550 Mather Ave, Sunland, CA 91040",,530000,2.0,1.0,1085.0,SINGLE_FAMILY
+"11820 Shoshone Ave, Granada Hills, CA 91344",,1350000,5.0,4.0,2592.0,SINGLE_FAMILY
+"8358 Murietta Ave, Panorama City, CA 91402",,750000,3.0,2.0,1377.0,SINGLE_FAMILY
+"11205 Montgomery Ave, Granada Hills, CA 91344",,1230000,5.0,4.0,2019.0,SINGLE_FAMILY
+"11209 Forbes Ave, Granada Hills, CA 91344",,1230000,4.0,3.0,1956.0,SINGLE_FAMILY
+"17227 Minnehaha St, Granada Hills, CA 91344",,760000,3.0,2.0,1550.0,SINGLE_FAMILY
+"17256 Kalisher St, Granada Hills, CA 91344",,825000,4.0,2.0,1352.0,SINGLE_FAMILY
+"21901 Lassen St UNIT 167, Chatsworth, CA 91311",,620000,3.0,3.0,1438.0,TOWNHOUSE
+"20716 Community St, Winnetka, CA 91306",,800000,3.0,2.0,1566.0,SINGLE_FAMILY
+"7141 Knowlton Pl, Los Angeles, CA 90045",,1350000,2.0,2.0,1241.0,SINGLE_FAMILY
+"8116 Belford Ave, Los Angeles, CA 90045",,1050000,3.0,1.0,981.0,SINGLE_FAMILY
+"8318 Kittyhawk Ave, Los Angeles, CA 90045",,1190000,4.0,2.0,1612.0,MULTI_FAMILY
+"12420 Hammack St, Los Angeles, CA 90066",,1350000,2.0,1.0,1093.0,SINGLE_FAMILY
+"3904 East Blvd, Los Angeles, CA 90066",,2330000,4.0,1.0,2033.0,SINGLE_FAMILY
+"12539 Presnell St, Los Angeles, CA 90066",,1940000,3.0,3.0,1800.0,SINGLE_FAMILY
+"2403 Ocean Ave, Venice, CA 90291",,1500000,2.0,2.0,808.0,SINGLE_FAMILY
+"12713 Westminster Ave, Los Angeles, CA 90066",,1800000,3.0,1.0,1241.0,SINGLE_FAMILY
+"10520 Almayo Ave, Los Angeles, CA 90064",,2350000,3.0,3.0,2292.0,SINGLE_FAMILY
+"10327 Missouri Ave APT 301, Los Angeles, CA 90025",,1100000,2.0,3.0,1399.0,CONDO
+"10490 Wilshire Blvd APT 1501, Los Angeles, CA 90024",,2100000,2.0,3.0,2776.0,CONDO
+"136 S Clark Dr APT 2, Los Angeles, CA 90048",,699000,1.0,2.0,758.0,CONDO
+"10835 Savona Rd, Los Angeles, CA 90077",,3500000,5.0,4.0,3458.0,SINGLE_FAMILY
+"2020 Coldwater Canyon Dr, Beverly Hills, CA 90210",,2450000,5.0,5.0,5342.0,SINGLE_FAMILY
+"568 N Greencraig Rd, Los Angeles, CA 90049",,3820000,5.0,4.0,3738.0,SINGLE_FAMILY
+"12188 W Sunset Blvd, Los Angeles, CA 90049",,1950000,5.0,3.0,3193.0,MULTI_FAMILY
+"12443 W Sunset Blvd, Los Angeles, CA 90049",,41000,7.0,7.0,7870.0,SINGLE_FAMILY
+"14929 La Cumbre Dr, Pacific Palisades, CA 90272",,5280000,4.0,3.0,2909.0,SINGLE_FAMILY
+"14924 Camarosa Dr, Pacific Palisades, CA 90272",,22100000,7.0,9.0,8388.0,SINGLE_FAMILY
+"428 Via De La Paz, Pacific Palisades, CA 90272",,2780000,,,,LOT
+"5453 Village Grn, Los Angeles, CA 90016",,735000,2.0,2.0,1100.0,TOWNHOUSE
+"3963 3rd Ave, Los Angeles, CA 90008",,1250000,4.0,4.0,2152.0,SINGLE_FAMILY
+"3045 10th Ave, Los Angeles, CA 90018",,1130000,2.0,2.0,1194.0,SINGLE_FAMILY
+"1709 Buckingham Rd, Los Angeles, CA 90019",,2800000,6.0,6.0,4013.0,SINGLE_FAMILY
+"981 S Saint Andrews Pl APT 104, Los Angeles, CA 90019",,525000,2.0,2.0,921.0,CONDO
+"4245 Wall St, Los Angeles, CA 90011",,810000,5.0,5.0,2954.0,MULTI_FAMILY
+"485 N Concord St, Los Angeles, CA 90063",,475000,3.0,3.0,1757.0,MULTI_FAMILY
+"1840 Jones Ave, Los Angeles, CA 90032",,846000,2.0,1.0,912.0,SINGLE_FAMILY
+"4049 Via Marisol APT 217, Los Angeles, CA 90042",,689000,2.0,2.0,1500.0,CONDO
+"2017 Hyperion Ave, Los Angeles, CA 90027",,740000,2.0,1.0,928.0,SINGLE_FAMILY
+"2019 Hyperion Ave, Los Angeles, CA 90027",,650000,2.0,1.0,760.0,SINGLE_FAMILY
+"3038 Saint George St, Los Angeles, CA 90027",,2290000,3.0,4.0,2264.0,SINGLE_FAMILY
+"236 Joy St, Los Angeles, CA 90042",,1040000,3.0,2.0,1385.0,MULTI_FAMILY
+"3922 Yosemite Way, Los Angeles, CA 90065",,1120000,4.0,2.0,1653.0,MULTI_FAMILY
+"1222 N Virgil Ave, Los Angeles, CA 90029",,900000,3.0,2.0,1865.0,SINGLE_FAMILY
+"5824 Harold Way, Los Angeles, CA 90028",,1170000,4.0,4.0,2390.0,MULTI_FAMILY
+"8383 Hollywood Blvd, Los Angeles, CA 90069",,3100000,3.0,2.0,2176.0,SINGLE_FAMILY
+"1242 Cedaredge Ave, Los Angeles, CA 90041",,1240000,3.0,3.0,1972.0,SINGLE_FAMILY
+"115 E 75th St, Los Angeles, CA 90003",,610000,3.0,2.0,1514.0,SINGLE_FAMILY
+"923 E 98th St, Los Angeles, CA 90002",,440000,2.0,2.0,864.0,SINGLE_FAMILY
+"623 E 116th St, Los Angeles, CA 90059",,703000,3.0,2.0,1034.0,SINGLE_FAMILY
+"1062 252nd St, Harbor City, CA 90710",,885000,6.0,4.0,1967.0,MULTI_FAMILY
+"1414 W 13th St, San Pedro, CA 90732",,800000,2.0,1.0,954.0,SINGLE_FAMILY
+"7701 Ducor Ave, Canoga Park, CA 91304",,785000,3.0,2.0,1303.0,SINGLE_FAMILY
+"5167 Knollwood Way, Woodland Hills, CA 91364",,1220000,4.0,4.0,3096.0,SINGLE_FAMILY
+"5530 Owensmouth Ave APT 306, Woodland Hills, CA 91367",,415000,2.0,1.0,740.0,CONDO
+"21500 Burbank Blvd APT 201, Woodland Hills, CA 91367",,387000,1.0,1.0,610.0,CONDO
+"654 S Soto St, Los Angeles, CA 90023",,1170000,4.0,4.0,2330.0,SINGLE_FAMILY
+"8804 Hollywood Blvd, Los Angeles, CA 90069",,6100000,3.0,6.0,5013.0,SINGLE_FAMILY
+"1100 Wilshire Blvd APT 1702, Los Angeles, CA 90017",,620000,1.0,2.0,1100.0,CONDO
+"12244 Emelita St, Valley Village, CA 91607",,2560000,5.0,5.0,3739.0,SINGLE_FAMILY
+"639 Pheasant Dr #340, Los Angeles, CA 90065",,43000,,,,LOT
+"635 Pheasant Dr #339, Los Angeles, CA 90065",,25000,,,,LOT
+"212 S Berendo St, Los Angeles, CA 90004",,1530000,16.0,8.0,6680.0,MULTI_FAMILY
+"11915 Jefferson Blvd, Culver City, CA 90230",,4000000,24.0,14.0,10340.0,MULTI_FAMILY
+"6300 Waring Ave, Los Angeles, CA 90038",,1540000,8.0,6.0,4550.0,MULTI_FAMILY
+"7001 Hazeltine Ave, Van Nuys, CA 91405",,1800000,14.0,10.0,8150.0,MULTI_FAMILY
+"8136 N Genesta Ave, Van Nuys, CA 91406",,899999,3.0,3.0,1850.0,SINGLE_FAMILY
+"10290 Tujunga Canyon Blvd UNIT 102, Tujunga, CA 91042",,550000,2.0,2.0,1028.0,APARTMENT
+"2634 Dalton Ave, Los Angeles, CA 90018",,1650000,10.0,9.0,5621.0,MULTI_FAMILY
+"1315 Montana St, Los Angeles, CA 90026",,2640000,14.0,10.0,5152.0,MULTI_FAMILY
+"7060 Shoup Ave UNIT 199, Canoga Park, CA 91303",,380000,1.0,1.0,670.0,CONDO
+"20235 Keswick St UNIT 121, Winnetka, CA 91306",,473000,2.0,2.0,1021.0,CONDO
+"22348 Kittridge St, Canoga Park, CA 91303",,885000,3.0,2.0,1440.0,SINGLE_FAMILY
+"5412 Lindley Ave UNIT 308, Encino, CA 91316",,2700,2.0,2.0,1150.0,CONDO
+"5461 Bothwell Rd, Tarzana, CA 91356",,5290000,6.0,7.0,6942.0,SINGLE_FAMILY
+"5163 Alhama Dr, Woodland Hills, CA 91364",,1080000,3.0,3.0,1522.0,SINGLE_FAMILY
+"6924 Colbath Ave, Van Nuys, CA 91405",,1260000,3.0,2.0,1654.0,SINGLE_FAMILY
+"6909 Texhoma Ave, Van Nuys, CA 91406",,862000,3.0,2.0,1516.0,SINGLE_FAMILY
+"6820 Encino Ave, Van Nuys, CA 91406",,905000,3.0,2.0,1450.0,SINGLE_FAMILY
+"6840 Orion Ave, Van Nuys, CA 91406",,4295,3.0,2.0,1304.0,SINGLE_FAMILY
+"5907 Cantaloupe Ave, Van Nuys, CA 91401",,1300000,4.0,3.0,2106.0,SINGLE_FAMILY
+"14071 Roblar Rd, Sherman Oaks, CA 91423",,3800000,7.0,6.0,4095.0,SINGLE_FAMILY
+"14007 Milbank St UNIT 5, Sherman Oaks, CA 91423",,515000,2.0,2.0,953.0,CONDO
+"4512 Libbit Ave, Encino, CA 91436",,2200000,4.0,5.0,2500.0,SINGLE_FAMILY
+"7820 Fulton Ave, North Hollywood, CA 91605",,1450000,5.0,5.0,3000.0,SINGLE_FAMILY
+"11818 Hamlin St, North Hollywood, CA 91606",,935000,5.0,3.0,2352.0,MULTI_FAMILY
+"5657 Fulton Ave, Van Nuys, CA 91401",,1020000,3.0,3.0,1973.0,SINGLE_FAMILY
+"13507 Raven St, Sylmar, CA 91342",,508000,3.0,1.0,960.0,SINGLE_FAMILY
+"11661 Luanda St, Sylmar, CA 91342",,840000,3.0,3.0,1600.0,SINGLE_FAMILY
+"11008 Quill Ave, Sunland, CA 91040",,867000,4.0,2.0,1405.0,SINGLE_FAMILY
+"8630 Forsythe St, Sunland, CA 91040",,830000,3.0,2.0,1277.0,SINGLE_FAMILY
+"12611 Amboy Ave, Sylmar, CA 91342",,1720000,8.0,5.0,2938.0,SINGLE_FAMILY
+"10330 Columbus Ave, Mission Hills, CA 91345",,741000,3.0,2.0,1437.0,SINGLE_FAMILY
+"9216 Tobias Ave UNIT 1, Panorama City, CA 91402",,531400,3.0,3.0,1276.0,CONDO
+"9651 Comanche Ave, Chatsworth, CA 91311",,700000,3.0,2.0,1758.0,SINGLE_FAMILY
+"21000 Parthenia St UNIT 6, Canoga Park, CA 91304",,288000,1.0,1.0,679.0,CONDO
+"6031 6th Ave, Los Angeles, CA 90043",,688000,3.0,2.0,1583.0,SINGLE_FAMILY
+"7715 Stewart Ave, Los Angeles, CA 90045",,2150000,3.0,2.0,1815.0,SINGLE_FAMILY
+"8701 Delgany Ave UNIT 210, Los Angeles, CA 90293",,650000,2.0,2.0,1325.0,CONDO
+"8638 Yorktown Ave, Los Angeles, CA 90045",,1040000,2.0,1.0,905.0,SINGLE_FAMILY
+"11954 Lucile St, Los Angeles, CA 90230",,2880000,5.0,5.0,3377.0,SINGLE_FAMILY
+"4250 Sunnyside Ave, Los Angeles, CA 90066",,1700000,4.0,2.0,1428.0,SINGLE_FAMILY
+"926 Nowita Pl, Venice, CA 90291",,2290000,3.0,2.0,1368.0,SINGLE_FAMILY
+"2311 Glencoe Ave, Venice, CA 90291",,2380000,4.0,2.0,1850.0,SINGLE_FAMILY
+"11737 Darlington Ave APT 103, Los Angeles, CA 90049",,1150000,2.0,2.0,1720.0,CONDO
+"12001 Goshen Ave APT 303, Los Angeles, CA 90049",,1050000,3.0,2.0,1387.0,CONDO
+"2178 Century Hl, Los Angeles, CA 90067",,1480000,2.0,3.0,2372.0,TOWNHOUSE
+"1320 Beverly Grove Pl, Beverly Hills, CA 90210",,15800000,7.0,9.0,10500.0,SINGLE_FAMILY
+"2596 Wallingford Dr, Beverly Hills, CA 90210",,3800000,4.0,4.0,3040.0,SINGLE_FAMILY
+"745 Toyopa Dr, Pacific Palisades, CA 90272",,3500000,,,,LOT
+"1491 Capri Dr, Pacific Palisades, CA 90272",,6340000,4.0,4.0,3147.0,SINGLE_FAMILY
+"1774 Palisades Dr, Pacific Palisades, CA 90272",,1580000,3.0,4.0,2086.0,TOWNHOUSE
+"920 N Kenter Ave, Los Angeles, CA 90049",,3230000,4.0,3.0,3000.0,SINGLE_FAMILY
+"5188 Village Grn, Los Angeles, CA 90016",,540000,2.0,1.0,818.0,CONDO
+"3926 S Ridgeley Dr, Los Angeles, CA 90008",,905000,3.0,1.0,1106.0,SINGLE_FAMILY
+"2011 S Curson Ave, Los Angeles, CA 90016",,981000,2.0,1.0,896.0,SINGLE_FAMILY
+"5966 Airdrome St, Los Angeles, CA 90035",,1010000,2.0,1.0,878.0,SINGLE_FAMILY
+"1067 Hi Point St, Los Angeles, CA 90035",,2160000,3.0,2.0,1783.0,SINGLE_FAMILY
+"932 S Cloverdale Ave, Los Angeles, CA 90036",,1960000,3.0,3.0,2565.0,SINGLE_FAMILY
+"1213 E 57th St, Los Angeles, CA 90011",,665000,4.0,2.0,1216.0,SINGLE_FAMILY
+"3850 Monterey Rd, Los Angeles, CA 90032",,1000000,3.0,2.0,1271.0,SINGLE_FAMILY
+"808 New Depot St, Los Angeles, CA 90012",,558888,2.0,2.0,1284.0,SINGLE_FAMILY
+"1312 N Avenue 46, Los Angeles, CA 90041",,1090000,3.0,2.0,2060.0,SINGLE_FAMILY
+"4514 Mont Eagle Pl, Los Angeles, CA 90041",,1340000,3.0,2.0,1493.0,MULTI_FAMILY
+"834 N Avenue 63, Los Angeles, CA 90042",,1320000,3.0,2.0,1302.0,SINGLE_FAMILY
+"6650 Maryland Dr, Los Angeles, CA 90048",,2400000,3.0,2.0,2045.0,SINGLE_FAMILY
+"740 N Laurel Ave, Los Angeles, CA 90046",,2290000,3.0,2.0,1827.0,SINGLE_FAMILY
+"417 N Orange Grove Ave, Los Angeles, CA 90036",,2020000,8.0,8.0,5520.0,MULTI_FAMILY
+"3055 Nichols Canyon Rd, Los Angeles, CA 90046",,3020000,5.0,4.0,2923.0,SINGLE_FAMILY
+"4185 Holly Knoll Dr, Los Angeles, CA 90027",,1820000,2.0,2.0,1823.0,SINGLE_FAMILY
+"347 E 102nd St, Los Angeles, CA 90003",,550000,3.0,1.0,895.0,SINGLE_FAMILY
+"800 W 110th St, Los Angeles, CA 90044",,1040000,3.0,3.0,3014.0,SINGLE_FAMILY
+"669 W Sepulveda St, San Pedro, CA 90731",,720000,3.0,2.0,1231.0,SINGLE_FAMILY
+"530 Molino St APT 202, Los Angeles, CA 90013",,645000,0.0,1.0,1290.0,CONDO
+"13031 Villosa Pl APT 133, Playa Vista, CA 90094",,1300000,2.0,3.0,1660.0,CONDO
+"1100 S Hope St APT 1216, Los Angeles, CA 90015",,1450000,2.0,3.0,1660.0,CONDO
+"3604 Westwood Blvd APT 203, Los Angeles, CA 90034",,719000,2.0,2.0,1000.0,CONDO
+"4644 Coldwater Canyon Ave #103, Studio City, CA 91604",,880000,3.0,3.0,1770.0,CONDO
+"3785 Wilshire Blvd APT 1602, Los Angeles, CA 90010",,1360000,3.0,3.0,1700.0,CONDO
+"15445 Cobalt St SPACE 206, Sylmar, CA 91342",,340000,2.0,2.0,1800.0,MANUFACTURED
+"15445 Cobalt St SPACE 222, Sylmar, CA 91342",,190000,2.0,2.0,1344.0,MANUFACTURED
+"21500 Lassen St SPACE 37, Chatsworth, CA 91311",,275000,3.0,2.0,1344.0,MANUFACTURED
+"441 S Barrington Ave UNIT 210, Los Angeles, CA 90049",,2230000,3.0,4.0,2502.0,CONDO
+"12714 Sea Spray Pl #6, Los Angeles, CA 90094",,2530000,3.0,3.0,2141.0,CONDO
+"4240 Laurel Canyon Blvd UNIT 307, Studio City, CA 91604",,1150000,3.0,3.0,1970.0,CONDO
+"1032 S Bonnie Brae St, Los Angeles, CA 90006",,1350000,9.0,5.0,2857.0,MULTI_FAMILY
+"6906 Ntierno Ln, Los Angeles, CA 90038",,1200000,3.0,4.0,2237.0,SINGLE_FAMILY
+"3438 McKinley Ave, Los Angeles, CA 90011",,1200000,16.0,8.0,8816.0,MULTI_FAMILY
+"119 S Westlake Ave, Los Angeles, CA 90057",,540000,2.0,2.0,900.0,CONDO
+"5871 Pickford St, Los Angeles, CA 90019",,1900000,14.0,12.0,7006.0,MULTI_FAMILY
+"1001 Chautauqua Blvd LOT 24, Pacific Palisades, CA 90272",,2500000,,,,LOT
+"3424 1/2 Paloma St, Los Angeles, CA 90011",,810000,7.0,3.0,2298.0,MULTI_FAMILY
+"1344 W 225th St, Torrance, CA 90501",,1750000,19.0,10.0,7688.0,MULTI_FAMILY
+"247 N New Hampshire Ave, Los Angeles, CA 90004",,1400000,2.0,12.0,7736.0,MULTI_FAMILY
+"1961 Mayview Dr, Los Angeles, CA 90027",,1630000,3.0,3.0,1912.0,SINGLE_FAMILY
+"13139 Hubbard St, Sylmar, CA 91342",,2500,2.0,1.0,550.0,SINGLE_FAMILY
+"21021 Gault St #9, Canoga Park, CA 91303",,699999,3.0,2.0,1802.0,TOWNHOUSE
+"514 Union Dr, Los Angeles, CA 90017",,4700000,8.0,47.0,25720.0,MULTI_FAMILY
+"23676 Strathern St, Canoga Park, CA 91304",,1200000,4.0,3.0,2114.0,SINGLE_FAMILY
+"7538 Remmet Ave, Canoga Park, CA 91303",,11000000,5.0,3.0,1958.0,SINGLE_FAMILY
+"20612 Covello St, Winnetka, CA 91306",,890000,3.0,2.0,2129.0,SINGLE_FAMILY
+"6120 Zelzah Ave, Encino, CA 91316",,1080000,3.0,2.0,1327.0,SINGLE_FAMILY
+"6449 Quakertown Ave, Woodland Hills, CA 91367",,900000,4.0,2.0,1439.0,SINGLE_FAMILY
+"18356 Collins St UNIT B, Tarzana, CA 91356",,709000,3.0,3.0,1512.0,TOWNHOUSE
+"19750 Wells Dr, Woodland Hills, CA 91364",,3650000,5.0,6.0,5120.0,SINGLE_FAMILY
+"4614 La Subida Pl, Tarzana, CA 91356",,1700000,4.0,3.0,3304.0,SINGLE_FAMILY
+"4807 Vanalden Ave, Tarzana, CA 91356",,2190000,6.0,5.0,3080.0,SINGLE_FAMILY
+"4530 Tyrone Ave, Sherman Oaks, CA 91423",,2230000,5.0,4.0,3508.0,SINGLE_FAMILY
+"14058 Davana Ter, Sherman Oaks, CA 91423",,4330000,6.0,8.0,5300.0,SINGLE_FAMILY
+"15474 Loom Pl, Sherman Oaks, CA 91403",,2200000,4.0,3.0,3000.0,SINGLE_FAMILY
+"4405 Estrondo Dr, Encino, CA 91436",,15950,4.0,5.0,3500.0,SINGLE_FAMILY
+"13021 Killion St, Van Nuys, CA 91401",,1350000,3.0,3.0,1570.0,SINGLE_FAMILY
+"11039 Blix St, North Hollywood, CA 91602",,1160000,2.0,1.0,1197.0,SINGLE_FAMILY
+"4440 Elmer Ave, North Hollywood, CA 91602",,1550000,2.0,2.0,1566.0,SINGLE_FAMILY
+"4231 Tujunga Ave APT A, Studio City, CA 91604",,1020000,3.0,4.0,1880.0,TOWNHOUSE
+"4237 Bluebell Ave, Studio City, CA 91604",,3680000,4.0,4.0,3660.0,SINGLE_FAMILY
+"3801 Weslin Ave, Sherman Oaks, CA 91423",,1800000,4.0,2.0,2075.0,SINGLE_FAMILY
+"12968 Vaughn St, San Fernando, CA 91340",,809000,4.0,2.0,1475.0,SINGLE_FAMILY
+"11300 Foothill Blvd UNIT 72, Sylmar, CA 91342",,435000,2.0,3.0,1090.0,TOWNHOUSE
+"12351 Osborne Pl APT 3, Pacoima, CA 91331",,435000,2.0,1.0,1070.0,CONDO
+"10480 Sunland Blvd APT 16, Sunland, CA 91040",,595000,3.0,3.0,1513.0,TOWNHOUSE
+"17027 Tennyson Pl, Granada Hills, CA 91344",,1100000,4.0,3.0,2769.0,SINGLE_FAMILY
+"12142 Gerald Ave, Granada Hills, CA 91344",,1300000,4.0,3.0,2622.0,SINGLE_FAMILY
+"16428 Londelius St, North Hills, CA 91343",,950000,3.0,2.0,1958.0,SINGLE_FAMILY
+"17025 Labrador St, Northridge, CA 91325",,1240000,4.0,3.0,2106.0,SINGLE_FAMILY
+"10718 Limerick Ave, Chatsworth, CA 91311",,1320000,5.0,4.0,3061.0,SINGLE_FAMILY
+"9845 Encino Ave, Northridge, CA 91325",,1170000,5.0,3.0,2360.0,SINGLE_FAMILY
+"9757 Reseda Blvd UNIT 71, Northridge, CA 91324",,555000,2.0,3.0,1396.0,CONDO
+"3556 Butler Ave, Los Angeles, CA 90066",,1840000,3.0,2.0,2268.0,SINGLE_FAMILY
+"3273 Tilden Ave, Los Angeles, CA 90034",,1450000,3.0,2.0,1301.0,SINGLE_FAMILY
+"3036 Glendon Ave, Los Angeles, CA 90034",,3050000,4.0,5.0,3200.0,SINGLE_FAMILY
+"1801 S Shenandoah St, Los Angeles, CA 90035",,1650000,2.0,2.0,1672.0,SINGLE_FAMILY
+"3535 Dunn Dr APT 106, Los Angeles, CA 90034",,780000,2.0,3.0,1390.0,CONDO
+"2349 S Beverly Glen Blvd UNIT 201, Los Angeles, CA 90064",,760000,2.0,2.0,1157.0,CONDO
+"10960 Ashton Ave APT 307, Los Angeles, CA 90024",,514000,1.0,1.0,555.0,CONDO
+"321 S San Vicente Blvd APT 103, Los Angeles, CA 90048",,570000,2.0,2.0,1282.0,CONDO
+"9662 Highridge Dr, Beverly Hills, CA 90210",,2330000,4.0,3.0,2515.0,SINGLE_FAMILY
+"11645 Montana Ave APT 102, Los Angeles, CA 90049",,630000,2.0,1.0,884.0,CONDO
+"530 El Medio Ave, Pacific Palisades, CA 90272",,1780000,,,,LOT
+"712 Muskingum Ave, Pacific Palisades, CA 90272",,3000000,3.0,3.0,2053.0,SINGLE_FAMILY
+"641 Lachman Ln, Pacific Palisades, CA 90272",,1650000,,,,LOT
+"916 Iliff St, Pacific Palisades, CA 90272",,1910000,,,,LOT
+"920 Iliff St, Pacific Palisades, CA 90272",,1910000,,,,LOT
+"3221 Elvido Dr, Los Angeles, CA 90049",,3710000,4.0,4.0,3400.0,SINGLE_FAMILY
+"4250 9th Ave, Los Angeles, CA 90008",,1100000,3.0,2.0,2105.0,SINGLE_FAMILY
+"1643 Leighton Ave, Los Angeles, CA 90062",,670000,2.0,1.0,1214.0,SINGLE_FAMILY
+"1327 Exposition Blvd, Los Angeles, CA 90018",,750000,2.0,2.0,848.0,SINGLE_FAMILY
+"2130 W 27th St, Los Angeles, CA 90018",,1230000,3.0,2.0,1504.0,SINGLE_FAMILY
+"2145 S Orange Dr, Los Angeles, CA 90016",,1030000,3.0,2.0,1424.0,SINGLE_FAMILY
+"1762 Glendale Blvd, Los Angeles, CA 90026",,1050000,3.0,3.0,1943.0,MULTI_FAMILY
+"1743 Griffith Park Blvd, Los Angeles, CA 90026",,1200000,2.0,2.0,1109.0,SINGLE_FAMILY
+"3349 Wood Ter, Los Angeles, CA 90027",,1230000,3.0,2.0,1715.0,SINGLE_FAMILY
+"2306 Elmgrove St, Los Angeles, CA 90031",,760000,4.0,1.0,1178.0,SINGLE_FAMILY
+"625 Isabel St, Los Angeles, CA 90065",,1590000,4.0,3.0,2265.0,SINGLE_FAMILY
+"4129 Marmion Way, Los Angeles, CA 90065",,910000,2.0,2.0,942.0,SINGLE_FAMILY
+"301 S Avenue 55, Los Angeles, CA 90042",,1050000,5.0,3.0,2011.0,MULTI_FAMILY
+"1032 Glen Arbor Ave, Los Angeles, CA 90041",,1310000,3.0,2.0,1222.0,SINGLE_FAMILY
+"166 N Citrus Ave, Los Angeles, CA 90036",,2220000,3.0,3.0,2138.0,SINGLE_FAMILY
+"745 N Croft Ave, Los Angeles, CA 90069",,1900000,4.0,2.0,2852.0,MULTI_FAMILY
+"1615 N Laurel Ave APT 211, Los Angeles, CA 90046",,600000,1.0,1.0,855.0,CONDO
+"2620 Rutherford Dr, Los Angeles, CA 90068",,1500000,3.0,2.0,1713.0,SINGLE_FAMILY
+"4343 Finley Ave APT 36, Los Angeles, CA 90027",,870000,2.0,2.0,1207.0,CONDO
+"223 E 83rd St, Los Angeles, CA 90003",,790000,3.0,3.0,1187.0,MULTI_FAMILY
+"629 E 93rd St, Los Angeles, CA 90002",,655000,3.0,2.0,1216.0,SINGLE_FAMILY
+"407 W 107th St, Los Angeles, CA 90003",,930000,5.0,4.0,2251.0,APARTMENT
+"2433 S Gaffey St, San Pedro, CA 90731",,660000,2.0,3.0,1309.0,CONDO
+"624 W 38th St, San Pedro, CA 90731",,1490000,4.0,4.0,1944.0,MULTI_FAMILY
+"2209 W 25th St UNIT 2, Los Angeles, CA 90732",,1150000,2.0,2.0,1754.0,CONDO
+"22939 Lull St, Canoga Park, CA 91304",,1050000,4.0,2.0,1939.0,SINGLE_FAMILY
+"821 S Gramercy Pl #3, Los Angeles, CA 90005",,832000,3.0,3.0,1636.0,TOWNHOUSE
+"20075 Pienza Ln, Northridge, CA 91326",,4400,4.0,3.0,1563.0,SINGLE_FAMILY
+"13045 Pacific Promenade UNIT 337, Playa Vista, CA 90094",,630000,1.0,1.0,581.0,CONDO
+"1700 Sawtelle Blvd APT 115, Los Angeles, CA 90025",,951313,1.0,3.0,1177.0,TOWNHOUSE
+"1029 S Hobart Blvd APT 203, Los Angeles, CA 90006",,695000,2.0,2.0,1200.0,CONDO
+"2268 W 14th St, Los Angeles, CA 90006",,4700000,1.0,47.0,26096.0,MULTI_FAMILY
+"201 Furness Ave, Los Angeles, CA 90042",,25000,,,,LOT
+"1121-1123 E Opp St, Wilmington, CA 90744",,1070000,7.0,6.0,2764.0,MULTI_FAMILY
+"7137 Greeley St #2, Tujunga, CA 91042",,2200,2.0,1.0,850.0,APARTMENT
+"321 S Oxford Ave #307, Los Angeles, CA 90010",,970000,3.0,2.0,1528.0,CONDO
+"5938 Buffalo Ave #13, Van Nuys, CA 91401",,1460000,,,,LOT
+"2229 S Beverly Dr, Los Angeles, CA 90034",,2150000,2.0,2.0,1994.0,SINGLE_FAMILY
+"4731 S La Villa Marina #F, Marina Del Rey, CA 90292",,1070000,2.0,3.0,1582.0,TOWNHOUSE
+"411 S Hamel Rd #104, Los Angeles, CA 90048",,1730000,2.0,3.0,1823.0,CONDO
+"3245 W Avenue 32, Los Angeles, CA 90065",,4110000,24.0,24.0,11966.0,MULTI_FAMILY
+"2460 N Eastern Ave, Los Angeles, CA 90032",,2310000,28.0,14.0,11570.0,MULTI_FAMILY
+"6445 Neddy Ave, West Hills, CA 91307",,1250000,4.0,4.0,2252.0,SINGLE_FAMILY
+"5700 Fairhaven Ave, Woodland Hills, CA 91367",,1340000,3.0,6.0,2841.0,SINGLE_FAMILY
+"4883 Excelente Dr, Woodland Hills, CA 91364",,1620000,3.0,2.0,2327.0,SINGLE_FAMILY
+"4630 Dunas Ln, Tarzana, CA 91356",,1250000,3.0,2.0,1553.0,SINGLE_FAMILY
+"7752 Ostrom Ave, Van Nuys, CA 91406",,850000,3.0,2.0,1342.0,SINGLE_FAMILY
+"15405 Covello St, Van Nuys, CA 91406",,910000,4.0,4.0,1600.0,SINGLE_FAMILY
+"5834 Costello Ave, Van Nuys, CA 91401",,1430000,4.0,3.0,2170.0,SINGLE_FAMILY
+"4949 Genesta Ave UNIT 102, Encino, CA 91316",,780000,3.0,3.0,1811.0,CONDO
+"7931 Vantage Ave, North Hollywood, CA 91605",,892000,3.0,2.0,1315.0,SINGLE_FAMILY
+"3949 Dixie Canyon Ave, Sherman Oaks, CA 91423",,5250000,6.0,6.0,4696.0,SINGLE_FAMILY
+"10518 Sunland Blvd UNIT 7, Sunland, CA 91040",,555000,2.0,2.0,1072.0,TOWNHOUSE
+"7719 Jayseel St, Tujunga, CA 91042",,820000,3.0,2.0,1257.0,SINGLE_FAMILY
+"16001 Circle Diamond Rd, Sylmar, CA 91342",,890347,4.0,3.0,2114.0,SINGLE_FAMILY
+"19533 Rinaldi St UNIT 48, Porter Ranch, CA 91326",,575000,3.0,2.0,1036.0,CONDO
+"19455 Eagle Ridge Ln, Porter Ranch, CA 91326",,762500,2.0,3.0,1787.0,TOWNHOUSE
+"10043 Donna Ave, Northridge, CA 91324",,1600000,6.0,4.0,3913.0,SINGLE_FAMILY
+"401 Campdell St, Playa Del Rey, CA 90293",,1480000,3.0,3.0,1178.0,SINGLE_FAMILY
+"3624 Westwood Blvd APT 102, Los Angeles, CA 90034",,749000,3.0,3.0,1218.0,CONDO
+"2869 Anchor Ave, Los Angeles, CA 90064",,1860000,3.0,2.0,1725.0,SINGLE_FAMILY
+"10535 Wilshire Blvd APT 410, Los Angeles, CA 90024",,650000,2.0,2.0,1088.0,CONDO
+"2293 Stratford Cir, Los Angeles, CA 90077",,5300000,6.0,9.0,7559.0,SINGLE_FAMILY
+"2107 Coldwater Canyon Dr, Beverly Hills, CA 90210",,2700000,3.0,3.0,2395.0,SINGLE_FAMILY
+"585 Lorna Ln, Los Angeles, CA 90049",,4150000,3.0,3.0,2700.0,SINGLE_FAMILY
+"11755 Montana Ave APT 308, Los Angeles, CA 90049",,1030000,2.0,2.0,1438.0,CONDO
+"639 S Bundy Dr, Los Angeles, CA 90049",,2500000,3.0,3.0,2519.0,SINGLE_FAMILY
+"1143 Kagawa St, Pacific Palisades, CA 90272",,1750000,,,,LOT
+"1046 Fiske St, Pacific Palisades, CA 90272",,1460000,,,,LOT
+"17130 Avenida De La Herradura, Pacific Palisades, CA 90272",,900000,,,,LOT
+"16814 Calle Bellevista, Pacific Palisades, CA 90272",,1150000,,,,LOT
+"732 W 41st Dr, Los Angeles, CA 90037",,540750,5.0,3.0,2760.0,MULTI_FAMILY
+"3907 S Bronson Ave, Los Angeles, CA 90008",,867500,2.0,2.0,1420.0,SINGLE_FAMILY
+"2700 S Palm Grove Ave, Los Angeles, CA 90016",,1280000,5.0,4.0,2131.0,SINGLE_FAMILY
+"247 S Benton Way, Los Angeles, CA 90057",,800000,3.0,2.0,1210.0,SINGLE_FAMILY
+"4559 E Rose Hill Dr, Los Angeles, CA 90032",,1650000,4.0,3.0,1805.0,SINGLE_FAMILY
+"3703 Harriman Ave, Los Angeles, CA 90032",,1150000,3.0,2.0,1991.0,SINGLE_FAMILY
+"5269 Huntington Dr N, Los Angeles, CA 90032",,638000,3.0,,1388.0,MULTI_FAMILY
+"4139 Camero Ave, Los Angeles, CA 90027",,1680000,3.0,3.0,2010.0,SINGLE_FAMILY
+"2117 Redrock Ct, Los Angeles, CA 90039",,3100000,4.0,5.0,3085.0,SINGLE_FAMILY
+"3315 Griffith Park Blvd APT 309, Los Angeles, CA 90027",,910000,2.0,2.0,1438.0,CONDO
+"3029 Isabel Dr, Los Angeles, CA 90065",,1900000,3.0,3.0,1577.0,SINGLE_FAMILY
+"5244 Hub St, Los Angeles, CA 90042",,1450000,6.0,3.0,2920.0,MULTI_FAMILY
+"535 N Sierra Bonita Ave, Los Angeles, CA 90036",,2700000,5.0,6.0,2725.0,SINGLE_FAMILY
+"740 N Kings Rd APT 205, Los Angeles, CA 90069",,555000,1.0,1.0,880.0,CONDO
+"1231 Hilldale Ave, Los Angeles, CA 90069",,3400000,2.0,2.0,2015.0,SINGLE_FAMILY
+"2101 W 76th St, Los Angeles, CA 90047",,1050000,5.0,5.0,2178.0,SINGLE_FAMILY
+"1014 W 185th St, Gardena, CA 90248",,760000,3.0,2.0,1504.0,SINGLE_FAMILY
+"2220 S Pacific Ave, San Pedro, CA 90731",,960000,6.0,4.0,4140.0,MULTI_FAMILY
+"2708 S Carolina St, San Pedro, CA 90731",,750000,3.0,2.0,1860.0,SINGLE_FAMILY
+"7723 Capistrano Ave, West Hills, CA 91304",,800000,3.0,2.0,1570.0,SINGLE_FAMILY
+"1935 Wollam St, Los Angeles, CA 90065",,1230000,4.0,3.0,1532.0,SINGLE_FAMILY
+"4541 Colfax Ave #102, Studio City, CA 91602",,939000,3.0,3.0,1697.0,TOWNHOUSE
+"9712 Pine Orchard St, Pacoima, CA 91331",,770000,4.0,3.0,2061.0,SINGLE_FAMILY
+"409 W 22nd St, San Pedro, CA 90731",,1400000,8.0,8.0,6496.0,MULTI_FAMILY
+"3406 Garden Ave, Los Angeles, CA 90039",,1730000,12.0,9.0,5963.0,MULTI_FAMILY
+"4567 Pickford St, Los Angeles, CA 90019",,1650000,16.0,12.0,5817.0,MULTI_FAMILY
+"20761 Liana Ct, Porter Ranch, CA 91326",,1920000,6.0,6.0,3828.0,SINGLE_FAMILY
+"7513 S Cimarron St, Los Angeles, CA 90047",,1050000,5.0,5.0,2178.0,MULTI_FAMILY
+"839 S Wilton Pl, Los Angeles, CA 90005",,4650000,15.0,40.0,27118.0,MULTI_FAMILY
+"4321 Saugus Ave, Sherman Oaks, CA 91403",,3110000,16.0,16.0,11010.0,MULTI_FAMILY
+"10962 Wescott Ave, Sunland, CA 91040",,870000,3.0,2.0,1199.0,SINGLE_FAMILY
+"430 W 19th St, San Pedro, CA 90731",,829000,4.0,2.0,1516.0,MULTI_FAMILY
+"3521 W 60th St, Los Angeles, CA 90043",,925000,3.0,3.0,1422.0,SINGLE_FAMILY
+"8140 Calabar Ave, Playa Del Rey, CA 90293",,1750000,4.0,3.0,3346.0,SINGLE_FAMILY
+"13573 Gladstone Ave, Sylmar, CA 91342",,1080000,3.0,3.0,3000.0,SINGLE_FAMILY
+"22845 Leonora Dr, Woodland Hills, CA 91367",,845000,2.0,1.0,1002.0,SINGLE_FAMILY
+"5347 Hinton Ave, Woodland Hills, CA 91367",,1920000,5.0,4.0,3271.0,SINGLE_FAMILY
+"4801 Excelente Dr, Woodland Hills, CA 91364",,1280000,3.0,3.0,1798.0,SINGLE_FAMILY
+"22954 Darien St, Woodland Hills, CA 91364",,1760000,5.0,3.0,3156.0,SINGLE_FAMILY
+"8243 Burton Pl, Reseda, CA 91335",,885000,4.0,2.0,1192.0,SINGLE_FAMILY
+"8115 Etiwanda Ave, Reseda, CA 91335",,910000,4.0,3.0,1535.0,SINGLE_FAMILY
+"18203 Arminta St, Reseda, CA 91335",,1400000,5.0,3.0,1777.0,SINGLE_FAMILY
+"21045 Blythe St, Canoga Park, CA 91304",,755000,3.0,2.0,1393.0,SINGLE_FAMILY
+"19355 Sherman Way UNIT 41, Reseda, CA 91335",,538000,2.0,3.0,1448.0,TOWNHOUSE
+"6838 Yarmouth Ave, Reseda, CA 91335",,769000,2.0,1.0,900.0,SINGLE_FAMILY
+"22239 1/4 Erwin St, Los Angeles, CA 91367",,586000,2.0,2.0,1416.0,CONDO
+"21535 Erwin St UNIT 117, Woodland Hills, CA 91367",,563000,2.0,2.0,1240.0,TOWNHOUSE
+"20556 Califa St, Woodland Hills, CA 91367",,1930000,4.0,4.0,2550.0,SINGLE_FAMILY
+"18711 Miranda St, Tarzana, CA 91356",,1150000,5.0,4.0,2993.0,SINGLE_FAMILY
+"5400 Lindley Ave UNIT 117, Encino, CA 91316",,445000,2.0,2.0,1043.0,CONDO
+"5118 Cerrillos Dr, Woodland Hills, CA 91364",,2290000,5.0,5.0,4000.0,SINGLE_FAMILY
+"14844 Lull St, Van Nuys, CA 91405",,899900,4.0,3.0,1710.0,SINGLE_FAMILY
+"7013 Willis Ave, Van Nuys, CA 91405",,675000,2.0,1.0,814.0,SINGLE_FAMILY
+"14914 Hamlin St APT 105, Van Nuys, CA 91411",,420000,2.0,2.0,930.0,CONDO
+"14330 Killion St, Van Nuys, CA 91401",,1300000,4.0,3.0,2360.0,SINGLE_FAMILY
+"15202 Weddington St, Van Nuys, CA 91411",,1650000,3.0,3.0,1676.0,SINGLE_FAMILY
+"4841 Swinton Ave, Encino, CA 91436",,1560000,4.0,3.0,2200.0,SINGLE_FAMILY
+"14745 Hartsook St, Sherman Oaks, CA 91403",,1420000,5.0,3.0,2590.0,SINGLE_FAMILY
+"3532 Beverly Glen Blvd, Sherman Oaks, CA 91423",,2069999,3.0,3.0,1953.0,SINGLE_FAMILY
+"12703 Welby Way, North Hollywood, CA 91606",,822000,4.0,1.0,1296.0,SINGLE_FAMILY
+"7103 Van Noord Ave, North Hollywood, CA 91605",,950000,4.0,3.0,2067.0,SINGLE_FAMILY
+"5748 Hillview Park Ave, Van Nuys, CA 91401",,2340000,6.0,4.0,4180.0,SINGLE_FAMILY
+"5258 Irvine Ave, North Hollywood, CA 91601",,1030000,3.0,2.0,1672.0,SINGLE_FAMILY
+"5325 Cleon Ave, North Hollywood, CA 91601",,910000,4.0,4.0,2352.0,MULTI_FAMILY
+"14158 Paddock St, Sylmar, CA 91342",,630000,3.0,2.0,1410.0,TOWNHOUSE
+"12573 Bradley Ave UNIT 1, Sylmar, CA 91342",,359000,1.0,1.0,686.0,CONDO
+"14043 Aztec St, Sylmar, CA 91342",,750000,2.0,1.0,702.0,SINGLE_FAMILY
+"8220 Owens St, Sunland, CA 91040",,905000,3.0,2.0,1231.0,SINGLE_FAMILY
+"13901 Emir Ave, Sylmar, CA 91342",,1150000,4.0,3.0,2451.0,SINGLE_FAMILY
+"12716 Goethe Pl, Granada Hills, CA 91344",,1100000,5.0,3.0,2181.0,SINGLE_FAMILY
+"11340 Rincon Ave, San Fernando, CA 91340",,615000,3.0,2.0,865.0,SINGLE_FAMILY
+"13773 Wingo St, Pacoima, CA 91331",,700000,3.0,2.0,1600.0,SINGLE_FAMILY
+"9601 Woodman Ave APT 8, Pacoima, CA 91331",,545000,3.0,2.0,1145.0,TOWNHOUSE
+"14900 Blackhawk St, Mission Hills, CA 91345",,888000,4.0,2.0,1833.0,SINGLE_FAMILY
+"14712 Hiawatha St, Mission Hills, CA 91345",,825000,3.0,2.0,1264.0,SINGLE_FAMILY
+"15058 Providence Ln, North Hills, CA 91343",,715000,3.0,3.0,1919.0,TOWNHOUSE
+"15714 San Jose St, Granada Hills, CA 91344",,800000,3.0,4.0,1681.0,SINGLE_FAMILY
+"11012 Montgomery Ave, Granada Hills, CA 91344",,1090000,5.0,3.0,1960.0,SINGLE_FAMILY
+"16330 San Fernando Mission Blvd, Granada Hills, CA 91344",,745000,4.0,2.0,2167.0,SINGLE_FAMILY
+"8840 Valjean Ave, North Hills, CA 91343",,1500000,5.0,5.0,2631.0,SINGLE_FAMILY
+"10217 Amestoy Ave, Northridge, CA 91325",,1050000,3.0,2.0,1908.0,SINGLE_FAMILY
+"22211 Frontier Pl, Chatsworth, CA 91311",,605000,2.0,3.0,1365.0,TOWNHOUSE
+"22100 Acorn St, Chatsworth, CA 91311",,1120000,4.0,3.0,2789.0,SINGLE_FAMILY
+"10127 Hanna Ave, Chatsworth, CA 91311",,1000000,4.0,3.0,2084.0,SINGLE_FAMILY
+"19416 Kinzie St, Northridge, CA 91324",,1400000,5.0,3.0,3092.0,SINGLE_FAMILY
+"19945 Labrador St, Chatsworth, CA 91311",,1120000,5.0,4.0,2527.0,SINGLE_FAMILY
+"11453 Porter Valley Dr, Porter Ranch, CA 91326",,300000,3.0,2.0,1857.0,SINGLE_FAMILY
+"11721 Killimore Ave, Porter Ranch, CA 91326",,1370000,5.0,4.0,2860.0,SINGLE_FAMILY
+"8162 Manitoba St UNIT 303, Playa Del Rey, CA 90293",,750000,2.0,2.0,1004.0,CONDO
+"12030 Hammack St, Los Angeles, CA 90230",,1300000,3.0,2.0,1776.0,SINGLE_FAMILY
+"1702 Abbot Kinney Blvd, Venice, CA 90291",,1440000,4.0,2.0,1867.0,MULTI_FAMILY
+"1510 Electric Ave, Venice, CA 90291",,2330000,5.0,4.0,2438.0,SINGLE_FAMILY
+"1410 Federal Ave, Los Angeles, CA 90025",,1230000,3.0,3.0,2082.0,MULTI_FAMILY
+"9120 Gibson St, Los Angeles, CA 90034",,1500000,3.0,2.0,1440.0,SINGLE_FAMILY
+"1545 S Beverly Dr APT 101, Los Angeles, CA 90035",,1380000,4.0,4.0,2595.0,CONDO
+"3743 S Canfield Ave APT 303, Los Angeles, CA 90034",,865000,2.0,3.0,1359.0,CONDO
+"3123 Earlmar Dr, Los Angeles, CA 90064",,2850000,4.0,3.0,2907.0,SINGLE_FAMILY
+"10750 Wilshire Blvd APT 503, Los Angeles, CA 90024",,1220000,2.0,3.0,1733.0,CONDO
+"1617 S Beverly Glen Blvd APT 301, Los Angeles, CA 90024",,1200000,2.0,2.0,1635.0,CONDO
+"400 S Bentley Ave, Los Angeles, CA 90049",,2400000,3.0,3.0,2319.0,SINGLE_FAMILY
+"10412 Hebron Ln, Los Angeles, CA 90077",,1600000,3.0,2.0,2185.0,SINGLE_FAMILY
+"15515 Hamner Dr, Los Angeles, CA 90077",,2600000,4.0,3.0,2832.0,SINGLE_FAMILY
+"11750 W Sunset Blvd APT 214, Los Angeles, CA 90049",,378946,1.0,1.0,749.0,CONDO
+"13716 W Sunset Blvd, Pacific Palisades, CA 90272",,3570000,4.0,5.0,3393.0,SINGLE_FAMILY
+"735 Ocampo Dr, Pacific Palisades, CA 90272",,4500000,,,,LOT
+"417 Puerto Del Mar, Pacific Palisades, CA 90272",,1350000,4.0,2.0,1852.0,SINGLE_FAMILY
+"652 Jacon Way, Pacific Palisades, CA 90272",,1290000,,,,LOT
+"16541 Akron St, Pacific Palisades, CA 90272",,1130000,,,,LOT
+"1325 Chautauqua Blvd, Pacific Palisades, CA 90272",,1000000,4.0,6.0,6239.0,SINGLE_FAMILY
+"15021 Bestor Blvd, Pacific Palisades, CA 90272",,2530000,,,,LOT
+"16670 Via Pacifica, Pacific Palisades, CA 90272",,1450000,,,,LOT
+"820 W 50th St, Los Angeles, CA 90037",,680000,3.0,2.0,1422.0,SINGLE_FAMILY
+"1323 W 41st Pl, Los Angeles, CA 90037",,650000,3.0,1.0,1626.0,SINGLE_FAMILY
+"2444 Exposition Pl, Los Angeles, CA 90018",,1170000,3.0,2.0,1867.0,SINGLE_FAMILY
+"1525 S Sierra Bonita Ave, Los Angeles, CA 90019",,1050000,2.0,1.0,1028.0,SINGLE_FAMILY
+"727 S Ardmore Ave APT 106, Los Angeles, CA 90005",,670000,2.0,2.0,1290.0,CONDO
+"733 E 49th St, Los Angeles, CA 90011",,665000,5.0,2.0,1582.0,MULTI_FAMILY
+"2857 Cincinnati St, Los Angeles, CA 90033",,500000,4.0,4.0,3884.0,MULTI_FAMILY
+"214 N Mott St, Los Angeles, CA 90033",,585000,3.0,2.0,784.0,SINGLE_FAMILY
+"2021 N Hicks Ave, Los Angeles, CA 90032",,500000,2.0,1.0,984.0,SINGLE_FAMILY
+"4499 Via Marisol APT 327, Los Angeles, CA 90042",,450000,2.0,2.0,1048.0,CONDO
+"1323 Lilac Ter, Los Angeles, CA 90026",,1740000,7.0,7.0,3667.0,MULTI_FAMILY
+"(undisclosed Address), Los Angeles, CA 90027",,1010000,2.0,2.0,1573.0,SINGLE_FAMILY
+"949 Mayo St, Los Angeles, CA 90042",,1200000,3.0,2.0,1517.0,SINGLE_FAMILY
+"1123 N Alexandria Ave, Los Angeles, CA 90029",,300000,7.0,6.0,3488.0,MULTI_FAMILY
+"1154 N Heliotrope Dr, Los Angeles, CA 90029",,935000,,,,LOT
+"8162 Kirkwood Dr, Los Angeles, CA 90046",,1750000,3.0,2.0,2030.0,SINGLE_FAMILY
+"8466 Brier Dr, Los Angeles, CA 90046",,2870000,3.0,4.0,2043.0,SINGLE_FAMILY
+"2000 Davies Way, Los Angeles, CA 90046",,2000000,3.0,2.0,1668.0,SINGLE_FAMILY
+"3144 Nichols Canyon Rd, Los Angeles, CA 90046",,2990000,4.0,3.0,2440.0,SINGLE_FAMILY
+"5218 Mount Royal Dr, Los Angeles, CA 90041",,2340000,5.0,3.0,2795.0,SINGLE_FAMILY
+"832 W 95th St, Los Angeles, CA 90044",,710000,3.0,3.0,1374.0,SINGLE_FAMILY
+"639 E 105th St, Los Angeles, CA 90002",,425000,2.0,1.0,854.0,SINGLE_FAMILY
+"10448 W Zamora Ave, Los Angeles, CA 90002",,681000,3.0,3.0,1518.0,SINGLE_FAMILY
+"515 W Gardena Blvd UNIT 83, Gardena, CA 90248",,580000,3.0,2.0,1235.0,CONDO
+"1614 Amelia Ave, San Pedro, CA 90731",,1450000,4.0,3.0,2413.0,SINGLE_FAMILY
+"2269 Stonewood Ct, San Pedro, CA 90732",,730000,2.0,3.0,1351.0,TOWNHOUSE
+"2129 W 25th St UNIT 2, Los Angeles, CA 90732",,1130000,3.0,3.0,2678.0,TOWNHOUSE
+"1948 Malcolm Ave APT 402, Los Angeles, CA 90025",,1210000,2.0,2.0,1517.0,CONDO
+"13080 Pacific Promenade APT 302, Playa Vista, CA 90094",,1310000,2.0,3.0,1652.0,CONDO
+"914 5th Ave, Venice, CA 90291",,1500000,3.0,2.0,1265.0,TOWNHOUSE
+"6241 Crescent Park W UNIT 109, Playa Vista, CA 90094",,1940000,3.0,3.0,2140.0,CONDO
+"460 S Spring St APT 302, Los Angeles, CA 90013",,410000,1.0,1.0,720.0,CONDO
+"3750 Santa Rosalia Dr APT 614, Los Angeles, CA 90008",,675000,3.0,2.0,1570.0,CONDO
+"2020 N Holly Dr #9, Los Angeles, CA 90068",,1000000,3.0,3.0,1630.0,TOWNHOUSE
+"811 S Bedford St APT 304, Los Angeles, CA 90035",,870000,2.0,2.0,1435.0,CONDO
+"13545 Village Ln, Sylmar, CA 91342",,799999,4.0,3.0,2094.0,SINGLE_FAMILY
+"900 S Westgate Ave APT 201, Los Angeles, CA 90049",,1560000,3.0,3.0,1672.0,CONDO
