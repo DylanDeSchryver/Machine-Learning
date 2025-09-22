@@ -7,21 +7,12 @@
 *.sqlite
 *.db
 *.json
-
+token.txt
+.git-credentials
 .bashrc
 .bash_logout
 .bash_history
 .profile
 .gitconfig
-
-# ===== Rule: ignore everything by default =====
-/*
-
-# ===== But keep these project folders and files =====
-!Housing Price Predictor/
-!FruitClassifier/
-!Project_1/
-!README.md
-!.gitignore
-Housing Price Predictor/random_forest_model.pkl
-Housing Price Predictor/random_forest_model.pkl
+.lesshst
+Project_2/random_forest_model.pkl
