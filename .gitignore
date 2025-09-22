@@ -1,16 +1,23 @@
-# Ignore system/user config files
+# ===== System/User files we don't want in the repo =====
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+*.sqlite
+*.db
+*.json
+
 .bashrc
 .bash_logout
 .bash_history
 .profile
 .gitconfig
-.local/
-.jupyter/
-.ipynb_checkpoints/
-.cache/
 
-# Ignore everything except project folders
+# ===== Rule: ignore everything by default =====
 /*
+
+# ===== But keep these project folders and files =====
 !Housing Price Predictor/
 !FruitClassifier/
 !Project_1/
