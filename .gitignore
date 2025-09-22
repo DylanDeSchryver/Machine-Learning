@@ -1,2 +1,12 @@
 .git-credentials
+.token.txt
 token.txt
+.bashrc
+.bash_logout
+.bash_history
+.profile
+.gitconfig
+.local/
+.jupyter/
+.ipynb_checkpoints/
+.cache/
