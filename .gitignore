@@ -1,6 +1,4 @@
-.git-credentials
-.token.txt
-token.txt
+# Ignore system/user config files
 .bashrc
 .bash_logout
 .bash_history
@@ -10,3 +8,11 @@ token.txt
 .jupyter/
 .ipynb_checkpoints/
 .cache/
+
+# Ignore everything except project folders
+/*
+!Housing Price Predictor/
+!FruitClassifier/
+!Project_1/
+!README.md
+!.gitignore
