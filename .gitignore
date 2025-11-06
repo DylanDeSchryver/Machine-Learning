@@ -21,3 +21,5 @@ Project_5/Cursive
 Project_5/data
 Project_5/file_inventory.csv
 Project_5/cnn_letters_model.pth
+PredictNumbersSVM/Train.csv
+PredictNumbersSVM/svm_digit_model.joblib
