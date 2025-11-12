@@ -15,7 +15,7 @@ GREEN = (0, 255, 0)
 
 
 class Game:
-    def __init__(self, mode, agent=None):
+    def __init__(self, mode, agent=None, generation=None, game_num=None):
         self.board = Board()
         self.curr_piece = Piece()
         self.y = 20
@@ -25,6 +25,8 @@ class Game:
         self.top = 0
         self.pieces_dropped = 0
         self.rows_cleared = 0
+        self.generation = generation
+        self.game_num = game_num
         if mode == "greedy":
             self.ai = Greedy_AI()
         elif mode == "genetic":
@@ -61,7 +63,13 @@ class Game:
             self.curr_piece = piece
             y = self.board.drop_height(self.curr_piece, x)
             self.drop(y, x=x)
-            print(self.pieces_dropped, self.rows_cleared)
+            
+            # Print with generation and game info if available
+            if self.generation is not None and self.game_num is not None:
+                print(f"{self.pieces_dropped} {self.rows_cleared} | Gen {self.generation}, Game {self.game_num}")
+            else:
+                print(self.pieces_dropped, self.rows_cleared)
+            
             if self.board.top_filled():
                 break
 

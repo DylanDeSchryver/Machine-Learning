@@ -395,8 +395,21 @@ def crossover_weights(parent1_weights, parent2_weights):
     return child_weights
 
 
-def evaluate_agent(agent, num_games=5, verbose=False):
-
+def evaluate_agent(agent, num_games=5, verbose=False, generation=None):
+    """
+    Evaluate an agent by playing multiple games.
+    
+    Args:
+        agent: The AI agent to evaluate
+        num_games: Number of games to play
+        verbose: Whether to print detailed output
+        generation: Current generation number (for display)
+    
+    Returns:
+        fitness: Average rows cleared across all games
+        best_rows: Best single game performance
+        avg_rows: Average rows cleared
+    """
     from game import Game
     
     total_rows = 0
@@ -404,7 +417,7 @@ def evaluate_agent(agent, num_games=5, verbose=False):
     best_rows = 0
     
     for game_num in range(num_games):
-        game = Game("TetriMind", agent=agent)
+        game = Game("TetriMind", agent=agent, generation=generation, game_num=game_num + 1)
         pieces_dropped, rows_cleared = game.run_no_visual()
         
         total_rows += rows_cleared
@@ -493,7 +506,7 @@ def train_one_generation(population_size=20, num_games=5, elite_count=4):
     
     for idx, agent in enumerate(population):
         print(f"\nAgent {idx + 1}/{population_size}:")
-        fitness, best_rows, avg_rows = evaluate_agent(agent, num_games=num_games, verbose=True)
+        fitness, best_rows, avg_rows = evaluate_agent(agent, num_games=num_games, verbose=True, generation=current_gen)
         fitness_scores.append((fitness, best_rows, avg_rows, agent))
         print(f"  → Fitness: {fitness:.2f}, Best: {best_rows} rows, Avg: {avg_rows:.1f} rows")
     
