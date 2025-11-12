@@ -47,6 +47,15 @@ class Game:
     def run_no_visual(self):
         if self.ai == None:
             return -1
+        
+        # Print model info at start (only for TetriMind, not during training)
+        if hasattr(self.ai, 'generation') and hasattr(self.ai, 'rows_cleared'):
+            if self.ai.generation > 0:  # Only print if it's a trained model
+                print(f"\n{'='*70}")
+                print(f"Running TetriMind - Generation {self.ai.generation}")
+                print(f"Previous best: {self.ai.rows_cleared:,} rows")
+                print(f"{'='*70}\n")
+        
         while True:
             x, piece = self.ai.get_best_move(self.board, self.curr_piece)
             self.curr_piece = piece
@@ -56,7 +65,7 @@ class Game:
             if self.board.top_filled():
                 break
 
-        print(self.pieces_dropped, self.rows_cleared)
+        print(f"\nFinal result: {self.pieces_dropped} pieces, {self.rows_cleared} rows")
         return self.pieces_dropped, self.rows_cleared
 
     def run(self):
@@ -68,7 +77,15 @@ class Game:
         running = True
         if self.ai != None:
             MOVEEVENT, t = pygame.USEREVENT + 1, 100
-            print('AI')
+            print('AI Mode')
+            
+            # Print model info for TetriMind
+            if hasattr(self.ai, 'generation') and hasattr(self.ai, 'rows_cleared'):
+                if self.ai.generation > 0:
+                    print(f"\n{'='*70}")
+                    print(f"Running TetriMind - Generation {self.ai.generation}")
+                    print(f"Previous best: {self.ai.rows_cleared:,} rows")
+                    print(f"{'='*70}\n")
         else:
             MOVEEVENT, t = pygame.USEREVENT + 1, 500
 

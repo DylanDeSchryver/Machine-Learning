@@ -9,10 +9,10 @@
     "column_transitions": -0.22859171194130873,
     "row_transitions": -0.19262763539026106,
     "pit_depth": -0.2714794095672216,
-    "blocks_above_holes": -0.11206181189560747
+    "blocks_above_holes": -0.10029466980371468
   },
-  "fitness": 48033.22,
-  "generation": 6,
-  "rows_cleared": 69056,
-  "timestamp": "2025-11-12T02:40:01.002627"
+  "fitness": 64846.1,
+  "generation": 4,
+  "rows_cleared": 88787,
+  "timestamp": "2025-11-11T17:29:18.300523"
 }
