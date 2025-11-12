@@ -6,7 +6,6 @@
 .local/
 *.sqlite
 *.db
-*.json
 token.txt
 .git-credentials
 .bashrc
