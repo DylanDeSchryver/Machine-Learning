@@ -1,0 +1,18 @@
+{
+  "weights": {
+    "aggregate_height": -0.5910257582448996,
+    "lines_cleared": 0.5725705820597807,
+    "holes": -0.8772111541548396,
+    "bumpiness": -0.18044482983944404,
+    "max_height": -0.2629410356494889,
+    "wells": -0.19515810839456427,
+    "column_transitions": -0.22859171194130873,
+    "row_transitions": -0.19262763539026106,
+    "pit_depth": -0.2806258358203008,
+    "blocks_above_holes": -0.10029466980371468
+  },
+  "fitness": 56457.7,
+  "generation": 14,
+  "rows_cleared": 124500,
+  "timestamp": "2025-11-14T04:00:25.604818"
+}
