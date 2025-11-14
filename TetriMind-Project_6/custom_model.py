@@ -241,7 +241,6 @@ class CUSTOM_AI_MODEL:
 
 
 def load_best_model():
-    """Load only the weights from the best model (for backward compatibility)."""
     filepath = 'best_model.json'
     if os.path.exists(filepath):
         try:
@@ -254,7 +253,6 @@ def load_best_model():
 
 
 def load_best_model_full():
-    """Load the complete best model data including generation and performance."""
     filepath = 'best_model.json'
     if os.path.exists(filepath):
         try:
@@ -266,30 +264,26 @@ def load_best_model_full():
 
 
 def save_best_model(weights, fitness, generation, rows_cleared):
-    """Save the best model only if it's better than the current all-time best."""
     filepath = 'best_model.json'
     
-    # Load current best if it exists
     current_best = load_best_model_full()
     
-    # Determine if this is a new all-time best
     is_new_best = False
     if current_best is None:
         is_new_best = True
-        print(f"✓ NEW ALL-TIME BEST! Rows: {rows_cleared:,} (First model saved)")
+        print(f" NEW ALL-TIME BEST! Rows: {rows_cleared:,} (First model saved)")
     elif rows_cleared > current_best.get('rows_cleared', 0):
         is_new_best = True
         old_best = current_best.get('rows_cleared', 0)
         improvement = rows_cleared - old_best
-        print(f"\n🎉 NEW ALL-TIME BEST! 🎉")
+        print(f"\n NEW ALL-TIME BEST! ")
         print(f"Previous best: {old_best:,} rows (Gen {current_best.get('generation', '?')})")
         print(f"New best: {rows_cleared:,} rows (Gen {generation})")
         print(f"Improvement: +{improvement:,} rows (+{improvement/old_best*100:.1f}%)\n")
     else:
         old_best = current_best.get('rows_cleared', 0)
-        print(f"✗ Not saved. Current best: {old_best:,} rows (Gen {current_best.get('generation', '?')}) > This gen: {rows_cleared:,} rows")
+        print(f" Not saved. Current best: {old_best:,} rows (Gen {current_best.get('generation', '?')}) > This gen: {rows_cleared:,} rows")
     
-    # Save generation backup regardless of whether it's the best
     backup_filepath = f'model_gen_{generation}.json'
     backup_data = {
         'weights': weights,
@@ -300,13 +294,12 @@ def save_best_model(weights, fitness, generation, rows_cleared):
     }
     with open(backup_filepath, 'w') as f:
         json.dump(backup_data, f, indent=2)
-    print(f"✓ Saved generation backup: {backup_filepath} (fitness: {fitness:.2f}, rows: {rows_cleared:,})")
+    print(f" Saved generation backup: {backup_filepath} (fitness: {fitness:.2f}, rows: {rows_cleared:,})")
     
-    # Only update best_model.json if this is a new all-time best
     if is_new_best:
         with open(filepath, 'w') as f:
             json.dump(backup_data, f, indent=2)
-        print(f"✓ Updated best_model.json")
+        print(f" Updated best_model.json")
 
 
 def load_training_history():
@@ -321,12 +314,10 @@ def load_training_history():
 
 
 def save_training_history(history):
-    """Save training history with additional metrics."""
     filepath = 'training_history.json'
     with open(filepath, 'w') as f:
         json.dump(history, f, indent=2)
     
-    # Also save a detailed history with all generation data
     if 'generation_details' in history:
         detailed_filepath = 'training_history_detailed.json'
         with open(detailed_filepath, 'w') as f:
@@ -349,33 +340,21 @@ def create_random_weights():
 
 
 def mutate_weights(weights, mutation_rate=0.15, mutation_scale=0.2, mutation_type='gaussian'):
-    """
-    Mutate weights with multiple strategies.
-    
-    Args:
-        weights: Dictionary of weights to mutate
-        mutation_rate: Probability of mutating each weight
-        mutation_scale: Scale of the mutation
-        mutation_type: 'gaussian', 'uniform', or 'adaptive'
-    """
+
     mutated = weights.copy()
     
     for key in mutated:
         if random.random() < mutation_rate:
             if mutation_type == 'gaussian':
-                # Gaussian noise (normal distribution)
                 noise = random.gauss(0, mutation_scale)
                 mutated[key] = mutated[key] * (1 + noise)
             elif mutation_type == 'uniform':
-                # Uniform noise
                 noise = random.uniform(-mutation_scale, mutation_scale)
                 mutated[key] = mutated[key] + noise
             elif mutation_type == 'adaptive':
-                # Adaptive mutation based on current value
                 noise = random.gauss(0, mutation_scale * abs(mutated[key]))
                 mutated[key] = mutated[key] + noise
             
-            # Keep weights in reasonable ranges
             if key == 'lines_cleared':
                 mutated[key] = max(0.0, min(2.0, mutated[key]))
             else:
@@ -396,20 +375,7 @@ def crossover_weights(parent1_weights, parent2_weights):
 
 
 def evaluate_agent(agent, num_games=5, verbose=False, generation=None):
-    """
-    Evaluate an agent by playing multiple games.
-    
-    Args:
-        agent: The AI agent to evaluate
-        num_games: Number of games to play
-        verbose: Whether to print detailed output
-        generation: Current generation number (for display)
-    
-    Returns:
-        fitness: Average rows cleared across all games
-        best_rows: Best single game performance
-        avg_rows: Average rows cleared
-    """
+
     from game import Game
     
     total_rows = 0
@@ -436,14 +402,7 @@ def evaluate_agent(agent, num_games=5, verbose=False, generation=None):
 
 
 def train_one_generation(population_size=20, num_games=5, elite_count=4):
-    """
-    Train one generation with improved genetic algorithm.
-    
-    Strategy:
-    - Elite preservation (top performers)
-    - Multiple mutation strategies
-    - Adaptive exploration vs exploitation
-    """
+
     print("\n" + "="*70)
     print("STARTING NEW GENERATION")
     print("="*70)
@@ -451,7 +410,6 @@ def train_one_generation(population_size=20, num_games=5, elite_count=4):
     history = load_training_history()
     current_gen = len(history['generations']) + 1
     
-    # Initialize generation details tracking
     if 'generation_details' not in history:
         history['generation_details'] = []
     if 'all_time_best_rows' not in history:
@@ -464,15 +422,12 @@ def train_one_generation(population_size=20, num_games=5, elite_count=4):
     if best_weights and current_gen > 1:
         print(f"Generation {current_gen}: Continuing from saved best model")
         
-        # Elite: Keep exact copy of best
         population.append(CUSTOM_AI_MODEL(best_weights))
         
-        # Elite variants: Small mutations
         for i in range(elite_count - 1):
             mutated = mutate_weights(best_weights, mutation_rate=0.1, mutation_scale=0.1, mutation_type='gaussian')
             population.append(CUSTOM_AI_MODEL(mutated))
         
-        # Exploitation: Medium mutations of best model
         exploit_count = (population_size - elite_count) // 2
         for i in range(exploit_count):
             if i % 3 == 0:
@@ -483,14 +438,11 @@ def train_one_generation(population_size=20, num_games=5, elite_count=4):
                 mutated = mutate_weights(best_weights, mutation_rate=0.3, mutation_scale=0.25, mutation_type='uniform')
             population.append(CUSTOM_AI_MODEL(mutated))
         
-        # Exploration: Random agents and large mutations
         explore_count = population_size - elite_count - exploit_count
         for i in range(explore_count):
             if i % 2 == 0:
-                # Completely random
                 mutated = create_random_weights()
             else:
-                # Large mutation of best
                 mutated = mutate_weights(best_weights, mutation_rate=0.5, mutation_scale=0.5, mutation_type='gaussian')
             population.append(CUSTOM_AI_MODEL(mutated))
     else:
@@ -525,18 +477,15 @@ def train_one_generation(population_size=20, num_games=5, elite_count=4):
     print(f"Top 5 Agents: {[f'{f[0]:.1f}' for f in fitness_scores[:5]]}")
     print(f"Top 5 Rows: {[f'{f[1]:,}' for f in fitness_scores[:5]]}")
     
-    # Track all-time best
     if best_rows > history['all_time_best_rows']:
         history['all_time_best_rows'] = best_rows
     
     save_best_model(best_agent.weights, best_fitness, current_gen, best_rows)
     
-    # Update history with enhanced metrics
     history['generations'].append(current_gen)
     history['best_fitness_per_gen'].append(best_fitness)
     history['avg_fitness_per_gen'].append(avg_fitness)
     
-    # Add detailed generation info
     gen_detail = {
         'generation': current_gen,
         'best_fitness': best_fitness,
@@ -585,7 +534,6 @@ def train_multiple_generations(generations=10, population_size=20, num_games=5):
         print(f"Estimated remaining: {remaining}")
         print(f"{'='*70}")
     
-    # Load final history to show all-time best
     final_history = load_training_history()
     all_time_best = final_history.get('all_time_best_rows', 0)
     
