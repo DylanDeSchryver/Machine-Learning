@@ -49,17 +49,17 @@ class CUSTOM_AI_MODEL:
                     print(f"  {key:25s}: {value:8.4f}")
                 print(f"{'='*70}\n")
             else:
-                self.weights = {
-                    'aggregate_height': -0.510066,
-                    'lines_cleared': 0.760666,
-                    'holes': -0.35663,
-                    'bumpiness': -0.184483,
-                    'max_height': -0.5,
-                    'wells': -0.3,
-                    'column_transitions': -0.1,
-                    'row_transitions': -0.1,
-                    'pit_depth': -0.2,
-                    'blocks_above_holes': -0.4
+                self.weights = {#Best weights for 200k model
+                    'aggregate_height': 0.5910257582448996,
+                    'lines_cleared': 0.5725705820597807,
+                    'holes': 0.894026514754244,
+                    'bumpiness': 0.18044482983944404,
+                    'max_height': 0.3047025227634215,
+                    'wells': 0.19975437173237554,
+                    'column_transitions': 0.22859171194130873,
+                    'row_transitions': 0.19262763539026106,
+                    'pit_depth': 0.2650863144881257,
+                    'blocks_above_holes': 0.10029466980371468
                 }
                 self.generation = 0
                 self.rows_cleared = 0
