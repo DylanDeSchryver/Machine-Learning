@@ -63,7 +63,7 @@ class CUSTOM_AI_MODEL:
                 }
                 self.generation = 0
                 self.rows_cleared = 0
-                print("Using default weights (no saved model found)")
+                print("Using default weights (best weights for 200k model) (no saved json model found)")
         
         self.fitness_scores = []
         self.avg_fitness = 0
