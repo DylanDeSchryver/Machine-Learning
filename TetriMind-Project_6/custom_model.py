@@ -31,6 +31,22 @@ Training history is saved to: training_history.json
 
 class CUSTOM_AI_MODEL:
     def __init__(self, weights=None):
+        # Hardcoded best weights from training (Generation 12, 201,007 rows cleared)
+        HARDCODED_BEST_WEIGHTS = {
+            'aggregate_height': -0.5910257582448996,
+            'lines_cleared': 0.5725705820597807,
+            'holes': -0.894026514754244,
+            'bumpiness': -0.18044482983944404,
+            'max_height': -0.3047025227634215,
+            'wells': -0.19975437173237554,
+            'column_transitions': -0.22859171194130873,
+            'row_transitions': -0.19262763539026106,
+            'pit_depth': -0.2650863144881257,
+            'blocks_above_holes': -0.10029466980371468
+        }
+        HARDCODED_GENERATION = 12
+        HARDCODED_ROWS_CLEARED = 201007
+        
         if weights is not None:
             self.weights = weights
         else:
@@ -40,7 +56,7 @@ class CUSTOM_AI_MODEL:
                 self.generation = best_model_data.get('generation', 0)
                 self.rows_cleared = best_model_data.get('rows_cleared', 0)
                 print(f"\n{'='*70}")
-                print("LOADED BEST MODEL")
+                print("LOADED BEST MODEL FROM JSON FILE")
                 print(f"{'='*70}")
                 print(f"Generation: {self.generation}")
                 print(f"Best Performance: {self.rows_cleared:,} rows cleared")
@@ -49,21 +65,19 @@ class CUSTOM_AI_MODEL:
                     print(f"  {key:25s}: {value:8.4f}")
                 print(f"{'='*70}\n")
             else:
-                self.weights = {#Best weights for 200k model
-                    'aggregate_height': 0.5910257582448996,
-                    'lines_cleared': 0.5725705820597807,
-                    'holes': 0.894026514754244,
-                    'bumpiness': 0.18044482983944404,
-                    'max_height': 0.3047025227634215,
-                    'wells': 0.19975437173237554,
-                    'column_transitions': 0.22859171194130873,
-                    'row_transitions': 0.19262763539026106,
-                    'pit_depth': 0.2650863144881257,
-                    'blocks_above_holes': 0.10029466980371468
-                }
-                self.generation = 0
-                self.rows_cleared = 0
-                print("Using default weights (best weights for 200k model) (no saved json model found)")
+                # Use hardcoded weights when JSON file is not available
+                self.weights = HARDCODED_BEST_WEIGHTS
+                self.generation = HARDCODED_GENERATION
+                self.rows_cleared = HARDCODED_ROWS_CLEARED
+                print(f"\n{'='*70}")
+                print("USING HARDCODED BEST WEIGHTS")
+                print(f"{'='*70}")
+                print(f"Generation: {self.generation}")
+                print(f"Best Performance: {self.rows_cleared:,} rows cleared")
+                print(f"Weights:")
+                for key, value in self.weights.items():
+                    print(f"  {key:25s}: {value:8.4f}")
+                print(f"{'='*70}\n")
         
         self.fitness_scores = []
         self.avg_fitness = 0
