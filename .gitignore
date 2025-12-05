@@ -1,4 +1,4 @@
-# ===== System/User files we don't want in the repo =====
+# User-specific files
 .cache/
 .ipynb_checkpoints/
 .ipython/
@@ -14,6 +14,8 @@ token.txt
 .profile
 .gitconfig
 .lesshst
+
+# Other project files (not part of storyteller)
 Project_2/random_forest_model.pkl
 Project_5/Cursive-20251028T034215Z-1-001.zip
 Project_5/Cursive
@@ -24,3 +26,100 @@ PredictNumbersSVM/Train.csv
 PredictNumbersSVM/svm_digit_model.joblib
 TetriMind-Project_6/TRAINING_SUMMARY.md
 TetriMind-Project_6/TRAINING_GUIDE.md
+
+# ============================================
+# StoryTeller Project Specific
+# ============================================
+
+# Data files (large datasets)
+StoryTeller/data/raw/
+StoryTeller/data/processed/
+StoryTeller/data/cache/
+
+# Trained models and checkpoints
+StoryTeller/checkpoints/
+StoryTeller/*.pt
+StoryTeller/*.pth
+StoryTeller/*.ckpt
+StoryTeller/*.safetensors
+
+# Tokenizer files (large)
+StoryTeller/data/tokenizers/
+
+# MLflow tracking
+StoryTeller/mlruns/
+StoryTeller/mlartifacts/
+
+# Python
+StoryTeller/__pycache__/
+StoryTeller/**/__pycache__/
+StoryTeller/*.py[cod]
+StoryTeller/**/*.py[cod]
+StoryTeller/*$py.class
+StoryTeller/**/*$py.class
+StoryTeller/*.so
+StoryTeller/.Python
+StoryTeller/build/
+StoryTeller/develop-eggs/
+StoryTeller/dist/
+StoryTeller/downloads/
+StoryTeller/eggs/
+StoryTeller/.eggs/
+StoryTeller/lib/
+StoryTeller/lib64/
+StoryTeller/parts/
+StoryTeller/sdist/
+StoryTeller/var/
+StoryTeller/wheels/
+StoryTeller/*.egg-info/
+StoryTeller/.installed.cfg
+StoryTeller/*.egg
+StoryTeller/MANIFEST
+
+# Virtual environments
+StoryTeller/venv/
+StoryTeller/env/
+StoryTeller/ENV/
+StoryTeller/.venv
+
+# Jupyter Notebook
+StoryTeller/.ipynb_checkpoints
+StoryTeller/**/.ipynb_checkpoints
+StoryTeller/*.ipynb
+
+# IDE
+StoryTeller/.idea/
+StoryTeller/.vscode/
+
+# macOS
+StoryTeller/.DS_Store
+
+# Logs
+StoryTeller/logs/
+StoryTeller/*.log
+
+# Temporary files
+StoryTeller/tmp/
+StoryTeller/temp/
+StoryTeller/*.tmp
+StoryTeller/*.swp
+StoryTeller/*.swo
+StoryTeller/*~
+
+# Generated documentation
+StoryTeller/docs/_build/
+StoryTeller/site/
+
+# Test coverage
+StoryTeller/htmlcov/
+StoryTeller/.tox/
+StoryTeller/.coverage
+StoryTeller/.coverage.*
+StoryTeller/.cache
+StoryTeller/nosetests.xml
+StoryTeller/coverage.xml
+StoryTeller/*.cover
+
+# Environment variables
+StoryTeller/.env
+StoryTeller/.env.local

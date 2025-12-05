@@ -1,0 +1,6 @@
+[console_scripts]
+storyteller-download = storyteller.data.download_stories:main
+storyteller-generate = storyteller.inference.generate:main
+storyteller-preprocess = storyteller.data.preprocess:main
+storyteller-tokenizer = storyteller.data.tokenizer_training:main
+storyteller-train = storyteller.training.train:main
